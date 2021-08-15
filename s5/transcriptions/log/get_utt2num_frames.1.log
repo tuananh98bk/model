@@ -1,0 +1,6 @@
+# feat-to-len scp:transcriptions/split1utt/1/feats.scp ark,t:transcriptions/split1utt/1/utt2num_frames 
+# Started at Sun Aug 15 22:53:13 +07 2021
+#
+feat-to-len scp:transcriptions/split1utt/1/feats.scp ark,t:transcriptions/split1utt/1/utt2num_frames 
+# Accounting: time=0 threads=1
+# Ended (code 0) at Sun Aug 15 22:53:13 +07 2021, elapsed time 0 seconds

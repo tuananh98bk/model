@@ -1,0 +1,8 @@
+# copy-vector scp:transcriptions/split1/1/vad.scp ark,t:- | sed -e "s/\[ //g;s/ \]//g" | utils/segmentation.pl --remove-noise-only-segments false > transcriptions/split1/1/subsegments 
+# Started at Sun Aug 15 22:53:13 +07 2021
+#
+copy-vector scp:transcriptions/split1/1/vad.scp ark,t:- 
+LOG (copy-vector[5.5.929~1-9bca2]:main():copy-vector.cc:90) Copied 1 vectors.
+utils/segmentation.pl: warning: for recording VIVOSDEV01_R028, only got a proportion 0.00931098696461825 of silence frames, versus target 0.2
+# Accounting: time=0 threads=1
+# Ended (code 0) at Sun Aug 15 22:53:13 +07 2021, elapsed time 0 seconds

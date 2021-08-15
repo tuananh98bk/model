@@ -1,0 +1,48 @@
+# gmm-init-model --write-occs=./exp/tri1/1.occs ./exp/tri1/tree ./exp/tri1/treeacc ./data/lang/topo ./exp/tri1/1.mdl 
+# Started at Fri Aug 13 02:34:41 +07 2021
+#
+gmm-init-model --write-occs=./exp/tri1/1.occs ./exp/tri1/tree ./exp/tri1/treeacc ./data/lang/topo ./exp/tri1/1.mdl 
+LOG (gmm-init-model[5.5.929~1-9bca2]:main():gmm-init-model.cc:271) Number of separate statistics is 198584
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 90 with no stats; corresponding phone list: 87 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 112 with no stats; corresponding phone list: 109 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 118 with no stats; corresponding phone list: 115 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 125 with no stats; corresponding phone list: 122 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 133 with no stats; corresponding phone list: 130 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 143 with no stats; corresponding phone list: 140 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 162 with no stats; corresponding phone list: 159 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 171 with no stats; corresponding phone list: 168 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 189 with no stats; corresponding phone list: 186 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 190 with no stats; corresponding phone list: 187 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 193 with no stats; corresponding phone list: 190 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 197 with no stats; corresponding phone list: 194 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 224 with no stats; corresponding phone list: 221 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 7: 13; corresponding phone list: 4 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 34: 20; corresponding phone list: 31 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 56: 16; corresponding phone list: 53 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 61: 7; corresponding phone list: 58 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 97: 64; corresponding phone list: 94 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 110: 14; corresponding phone list: 107 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 116: 25; corresponding phone list: 113 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 119: 80; corresponding phone list: 116 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 122: 53; corresponding phone list: 119 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 123: 13; corresponding phone list: 120 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 127: 13; corresponding phone list: 124 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 129: 13; corresponding phone list: 126 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 130: 24; corresponding phone list: 127 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 135: 7; corresponding phone list: 132 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 137: 40; corresponding phone list: 134 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 138: 13; corresponding phone list: 135 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 149: 37; corresponding phone list: 146 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 151: 9; corresponding phone list: 148 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 155: 91; corresponding phone list: 152 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 158: 37; corresponding phone list: 155 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 161: 7; corresponding phone list: 158 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 179: 32; corresponding phone list: 176 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 192: 45; corresponding phone list: 189 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 194: 13; corresponding phone list: 191 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 196: 15; corresponding phone list: 193 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 198: 12; corresponding phone list: 195 
+WARNING (gmm-init-model[5.5.929~1-9bca2]:InitAmGmm():gmm-init-model.cc:83) Very small count for state 220: 5; corresponding phone list: 217 
+LOG (gmm-init-model[5.5.929~1-9bca2]:main():gmm-init-model.cc:306) Wrote model.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Fri Aug 13 02:34:42 +07 2021, elapsed time 1 seconds

@@ -4,6 +4,10 @@
 train_cmd=run.pl
 nj=1
 
+rm -rf transcriptions/subsegments transcriptions/utt2num_frames transcriptions/utt2dur
+
+ffmpeg -y -i $1 -acodec pcm_s16le -ac 1 -ar 16000 wav/output.wav
+
 # AUDIO --> FEATURE VECTORS
 compute-mfcc-feats \
     --config=conf/mfcc.conf \
@@ -39,15 +43,17 @@ lattice-to-ctm-conf \
 
 int2sym.pl -f 5-5 exp/tri2b/graph/words.txt transcriptions/pb.ctm > transcriptions/text
 
-# # LATTICE --> BEST PATH THROUGH LATTICE
-# lattice-best-path \
-#     --word-symbol-table=exp/tri2b/graph/words.txt \
-#     --acoustic-scale=0.083333 \
-#     ark:transcriptions/lattices.ark \
-#     ark,t:transcriptions/one-best.tra
+# LATTICE --> BEST PATH THROUGH LATTICE
+lattice-best-path \
+    --word-symbol-table=exp/tri2b/graph/words.txt \
+    --acoustic-scale=0.083333 \
+    ark:transcriptions/lattices.ark \
+    ark,t:transcriptions/one-best.tra
 
-# # BEST PATH INTERGERS --> BEST PATH WORDS
-# utils/int2sym.pl -f 2- \
-#     exp/tri2b/graph/words.txt \
-#     transcriptions/one-best.tra \
-#     > transcriptions/one-best-hypothesis.txt
+# BEST PATH INTERGERS --> BEST PATH WORDS
+utils/int2sym.pl -f 2- \
+    exp/tri2b/graph/words.txt \
+    transcriptions/one-best.tra \
+    > transcriptions/one-best.txt
+
+awk '{for (i=2; i<NF; i++) printf $i " "; print $NF}' transcriptions/one-best.txt > transcriptions/one-best-text.txt

@@ -1,5 +1,5 @@
 case "$USER" in
-"")
+"tuananh")
   # Wav root (after unzipping)...
   export WAV_ROOT="./wav" 
 

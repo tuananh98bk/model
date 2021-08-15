@@ -1,0 +1,8 @@
+# compute-vad --config=conf/vad.conf scp:transcriptions/split1/1/feats.scp ark,scp:/home/tuananh/Desktop/kaldi/egs/vietnamese/s5/transcriptions/mfcc/vad_transcriptions.1.ark,/home/tuananh/Desktop/kaldi/egs/vietnamese/s5/transcriptions/mfcc/vad_transcriptions.1.scp 
+# Started at Sun Aug 15 22:53:13 +07 2021
+#
+compute-vad --config=conf/vad.conf scp:transcriptions/split1/1/feats.scp ark,scp:/home/tuananh/Desktop/kaldi/egs/vietnamese/s5/transcriptions/mfcc/vad_transcriptions.1.ark,/home/tuananh/Desktop/kaldi/egs/vietnamese/s5/transcriptions/mfcc/vad_transcriptions.1.scp 
+LOG (compute-vad[5.5.929~1-9bca2]:main():compute-vad.cc:95) Applied energy based voice activity detection; processed 1 utterances successfully; 0 had empty features, and 0 were completely unvoiced.
+LOG (compute-vad[5.5.929~1-9bca2]:main():compute-vad.cc:99) Proportion of voiced frames was 0.990689 over 537 frames.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Sun Aug 15 22:53:13 +07 2021, elapsed time 0 seconds

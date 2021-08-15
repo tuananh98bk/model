@@ -1,0 +1,7 @@
+# sum-tree-stats exp/tri3/treeacc exp/tri3/1.treeacc exp/tri3/2.treeacc exp/tri3/3.treeacc exp/tri3/4.treeacc 
+# Started at Fri Aug 13 03:20:53 +07 2021
+#
+sum-tree-stats exp/tri3/treeacc exp/tri3/1.treeacc exp/tri3/2.treeacc exp/tri3/3.treeacc exp/tri3/4.treeacc 
+LOG (sum-tree-stats[5.5.929~1-9bca2]:main():sum-tree-stats.cc:88) Wrote summed accs ( 197036 individual stats)
+# Accounting: time=2 threads=1
+# Ended (code 0) at Fri Aug 13 03:20:55 +07 2021, elapsed time 2 seconds

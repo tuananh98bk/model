@@ -1,0 +1,198 @@
+# ali-to-post "ark:gunzip -c exp/tri3/ali.4.gz|" ark:- | weight-silence-post 0.0 1 exp/tri3/12.mdl ark:- ark:- | gmm-est-fmllr --fmllr-update-type=full --spk2utt=ark:./data/train/split4/4/spk2utt exp/tri3/12.mdl "ark,s,cs:apply-cmvn  --utt2spk=ark:./data/train/split4/4/utt2spk scp:./data/train/split4/4/cmvn.scp scp:./data/train/split4/4/feats.scp ark:- | splice-feats --left-context=3 --right-context=3 ark:- ark:- | transform-feats ./exp/tri2b_ali/final.mat ark:- ark:- | transform-feats --utt2spk=ark:./data/train/split4/4/utt2spk ark:exp/tri3/trans.4 ark:- ark:- |" ark:- ark:exp/tri3/tmp_trans.4 
+# Started at Fri Aug 13 03:31:41 +07 2021
+#
+weight-silence-post 0.0 1 exp/tri3/12.mdl ark:- ark:- 
+gmm-est-fmllr --fmllr-update-type=full --spk2utt=ark:./data/train/split4/4/spk2utt exp/tri3/12.mdl 'ark,s,cs:apply-cmvn  --utt2spk=ark:./data/train/split4/4/utt2spk scp:./data/train/split4/4/cmvn.scp scp:./data/train/split4/4/feats.scp ark:- | splice-feats --left-context=3 --right-context=3 ark:- ark:- | transform-feats ./exp/tri2b_ali/final.mat ark:- ark:- | transform-feats --utt2spk=ark:./data/train/split4/4/utt2spk ark:exp/tri3/trans.4 ark:- ark:- |' ark:- ark:exp/tri3/tmp_trans.4 
+ali-to-post 'ark:gunzip -c exp/tri3/ali.4.gz|' ark:- 
+transform-feats ./exp/tri2b_ali/final.mat ark:- ark:- 
+apply-cmvn --utt2spk=ark:./data/train/split4/4/utt2spk scp:./data/train/split4/4/cmvn.scp scp:./data/train/split4/4/feats.scp ark:- 
+splice-feats --left-context=3 --right-context=3 ark:- ark:- 
+transform-feats --utt2spk=ark:./data/train/split4/4/utt2spk ark:exp/tri3/trans.4 ark:- ark:- 
+LOG (ali-to-post[5.5.929~1-9bca2]:main():ali-to-post.cc:73) Converted 6539 alignments.
+LOG (weight-silence-post[5.5.929~1-9bca2]:main():weight-silence-post.cc:95) Done 6539 posteriors.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_001
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_024
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_025
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_032
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_038
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_040
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_042
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_050
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_051
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_053
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_054
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_055
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_060
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_078
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK23_089
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0990465 per frame over 48496 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK23, auxf-impr from fMLLR is 0.0990465, over 48496 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.101464 per frame over 53922 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK24, auxf-impr from fMLLR is 0.101464, over 53922 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0873234 per frame over 113270 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK25, auxf-impr from fMLLR is 0.0873234, over 113270 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK26_160
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK26_300
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.101677 per frame over 174325 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK26, auxf-impr from fMLLR is 0.101677, over 174325 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK27_087
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK27_094
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK27_095
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK27_099
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK27_126
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK27_140
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK27_156
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0857104 per frame over 138101 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK27, auxf-impr from fMLLR is 0.0857104, over 138101 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK28_055
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0828407 per frame over 88626 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK28, auxf-impr from fMLLR is 0.0828407, over 88626 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.102299 per frame over 118443 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK29, auxf-impr from fMLLR is 0.102299, over 118443 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK30_153
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.100426 per frame over 96317 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK30, auxf-impr from fMLLR is 0.100426, over 96317 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK31_194
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK31_197
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK31_209
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0738562 per frame over 138828 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK31, auxf-impr from fMLLR is 0.0738562, over 138828 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK32_048
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK32_053
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK32_158
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0937105 per frame over 133617 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK32, auxf-impr from fMLLR is 0.0937105, over 133617 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0823794 per frame over 119148 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK33, auxf-impr from fMLLR is 0.0823794, over 119148 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK34_006
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK34_012
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK34_017
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK34_045
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK34_072
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK34_076
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0924014 per frame over 134697 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK34, auxf-impr from fMLLR is 0.0924014, over 134697 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK35_262
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0948577 per frame over 162923 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK35, auxf-impr from fMLLR is 0.0948577, over 162923 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK36_100
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0904757 per frame over 105080 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK36, auxf-impr from fMLLR is 0.0904757, over 105080 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.101771 per frame over 67167 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK37, auxf-impr from fMLLR is 0.101771, over 67167 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0608658 per frame over 145099 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK38, auxf-impr from fMLLR is 0.0608658, over 145099 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0899364 per frame over 94981 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK39, auxf-impr from fMLLR is 0.0899364, over 94981 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_088
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_106
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_127
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_176
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_185
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_187
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_189
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_216
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_217
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_225
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_227
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_240
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_241
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_257
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_258
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_263
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_265
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_278
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_280
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_282
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_284
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK40_297
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0758056 per frame over 90749 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK40, auxf-impr from fMLLR is 0.0758056, over 90749 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_034
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_046
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_071
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_073
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_077
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_093
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_105
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_107
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_108
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_112
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_119
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_120
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_121
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_128
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_129
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_137
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_146
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_148
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_154
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_181
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_186
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_196
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_200
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_242
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK41_292
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.073071 per frame over 75114 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK41, auxf-impr from fMLLR is 0.073071, over 75114 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_052
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_065
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_066
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_067
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_068
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_069
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_075
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_114
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_121
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_127
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_162
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_165
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_174
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_241
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_243
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_245
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_246
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_247
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_258
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK42_300
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0681025 per frame over 82263 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK42, auxf-impr from fMLLR is 0.0681025, over 82263 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK43_066
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK43_106
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK43_109
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.073567 per frame over 85553 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK43, auxf-impr from fMLLR is 0.073567, over 85553 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK44_063
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK44_134
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK44_144
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK44_150
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK44_181
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK44_183
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK44_204
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK44_211
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK44_213
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK44_221
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.068347 per frame over 75602 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK44, auxf-impr from fMLLR is 0.068347, over 75602 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0718896 per frame over 96976 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK45, auxf-impr from fMLLR is 0.0718896, over 96976 frames.
+WARNING (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:118) Did not find posteriors for utterance VIVOSSPK46_288
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.0639375 per frame over 98325 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker VIVOSSPK46, auxf-impr from fMLLR is 0.0639375, over 98325 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.110288 per frame over 75952 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker XHUSTSPK01, auxf-impr from fMLLR is 0.110288, over 75952 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.164362 per frame over 70776 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker XHUSTSPK02, auxf-impr from fMLLR is 0.164362, over 70776 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.111691 per frame over 80311 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker XHUSTSPK03, auxf-impr from fMLLR is 0.111691, over 80311 frames.
+LOG (apply-cmvn[5.5.929~1-9bca2]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 6660 utterances, errors on 0
+LOG (transform-feats[5.5.929~1-9bca2]:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -94.5228 over 3.70676e+06 frames.
+LOG (transform-feats[5.5.929~1-9bca2]:main():transform-feats.cc:161) Applied transform to 6660 utterances; 0 had errors.
+LOG (transform-feats[5.5.929~1-9bca2]:main():transform-feats.cc:158) Overall average logdet is 5.20777 over 3.70676e+06 frames.
+LOG (transform-feats[5.5.929~1-9bca2]:main():transform-feats.cc:161) Applied transform to 6660 utterances; 0 had errors.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:ComputeFmllrMatrixDiagGmmFull():fmllr-diag-gmm.cc:262) fMLLR objf improvement is 0.156975 per frame over 74642 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:143) For speaker XHUSTSPK04, auxf-impr from fMLLR is 0.156975, over 74642 frames.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:188) Done 6539 files, 121 with no posts, 0 with other errors.
+LOG (gmm-est-fmllr[5.5.929~1-9bca2]:main():gmm-est-fmllr.cc:190) Overall fMLLR auxf impr per frame is 0.090322 over 2.8393e+06 frames.
+# Accounting: time=80 threads=1
+# Ended (code 0) at Fri Aug 13 03:33:01 +07 2021, elapsed time 80 seconds

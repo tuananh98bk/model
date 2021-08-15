@@ -3,7 +3,7 @@
 format=pdf # pdf svg
 mode=save # display save
 lm_scale=0.0
-acoustic_scale=0.0
+acoustic_scale=0.083333
 #end of config
 
 . utils/parse_options.sh

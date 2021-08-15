@@ -396,3 +396,9 @@ utils/int2sym.pl -f 2- \
 Kết quả nhận được của quá trình giải mã nằm trong file `transcriptions/one-best-hypothesis.txt`.
 
 - Để đóng gói hệ thống nhận dạng dưới dạng dịch vụ, chúng ta sử dụng framework Spring boot, tạo API khi được gọi sẽ chạy lệnh giải mã này và trả ra kết quả.
+
+```sh
+mvn package -Dmaven.test.skip=true 
+java -Dserver.port=8080 -jar applicationName.jar
+curl -X 'POST' -H 'Content-Type:application/json' -d '{ "userName" : "hoang77hung@gmail.com", "password": "123456"}' http://119.17.214.80:8080/api/v1/users
+```

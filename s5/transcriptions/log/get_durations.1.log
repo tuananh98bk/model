@@ -1,0 +1,9 @@
+# wav-to-duration --read-entire-file=false scp:transcriptions/split1utt/1/wav.scp ark,t:transcriptions/split1utt/1/utt2dur 
+# Started at Sat Jan  2 19:10:05 UTC 2021
+#
+wav-to-duration --read-entire-file=false scp:transcriptions/split1utt/1/wav.scp ark,t:transcriptions/split1utt/1/utt2dur 
+WARNING (wav-to-duration[5.5.0~1-40c7]:Read():wave-reader.cc:260) Expected 1308370 bytes in RIFF chunk, but after first data block there will be 38 + 1305518 bytes (we do not support reading multiple data chunks).
+LOG (wav-to-duration[5.5.0~1-40c7]:main():wav-to-duration.cc:92) Printed duration for 1 audio files.
+LOG (wav-to-duration[5.5.0~1-40c7]:main():wav-to-duration.cc:94) Mean duration was 40.7974, min and max durations were 40.7974, 40.7974
+# Accounting: time=0 threads=1
+# Ended (code 0) at Sat Jan  2 19:10:05 UTC 2021, elapsed time 0 seconds

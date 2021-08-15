@@ -1,0 +1,31 @@
+est-mllt ./exp/tri2b/2.mat.new ./exp/tri2b/2.1.macc ./exp/tri2b/2.2.macc ./exp/tri2b/2.3.macc ./exp/tri2b/2.4.macc 
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 0'th iteration is 0.168147 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 1'th iteration is 0.267994 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 2'th iteration is 0.332153 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 3'th iteration is 0.376018 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 4'th iteration is 0.407787 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 5'th iteration is 0.43188 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 6'th iteration is 0.450814 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 7'th iteration is 0.466106 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 8'th iteration is 0.478726 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 9'th iteration is 0.489318 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 10'th iteration is 0.49833 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 20'th iteration is 0.545056 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 30'th iteration is 0.561838 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 40'th iteration is 0.56983 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 50'th iteration is 0.574252 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 60'th iteration is 0.57687 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 70'th iteration is 0.57847 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 80'th iteration is 0.579469 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 90'th iteration is 0.580108 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 100'th iteration is 0.580524 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 110'th iteration is 0.580801 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 120'th iteration is 0.580989 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 130'th iteration is 0.581118 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 140'th iteration is 0.581208 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 150'th iteration is 0.581272 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 160'th iteration is 0.581317 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 170'th iteration is 0.581349 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 180'th iteration is 0.581372 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:Update():mllt.cc:120) MLLT objective improvement per frame by 190'th iteration is 0.581388 per frame over 1.13957e+07 frames.
+LOG (est-mllt[5.5.929~1-9bca2]:main():est-mllt.cc:67) Overall objective function improvement for MLLT is 0.5814 over 1.13957e+07 frames, logdet is 0.583042

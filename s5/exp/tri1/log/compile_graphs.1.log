@@ -1,0 +1,29 @@
+# compile-train-graphs --read-disambig-syms=./data/lang/phones/disambig.int ./exp/tri1/tree ./exp/tri1/1.mdl ./data/lang/L.fst "ark:utils/sym2int.pl --map-oov 2 -f 2- ./data/lang/words.txt < ./data/train/split4/1/text |" "ark:|gzip -c >./exp/tri1/fsts.1.gz" 
+# Started at Fri Aug 13 02:34:46 +07 2021
+#
+compile-train-graphs --read-disambig-syms=./data/lang/phones/disambig.int ./exp/tri1/tree ./exp/tri1/1.mdl ./data/lang/L.fst 'ark:utils/sym2int.pl --map-oov 2 -f 2- ./data/lang/words.txt < ./data/train/split4/1/text |' 'ark:|gzip -c >./exp/tri1/fsts.1.gz' 
+sym2int.pl: replacing THÙY with 2
+sym2int.pl: replacing HLV with 2
+sym2int.pl: replacing MY with 2
+sym2int.pl: replacing KELVIN with 2
+sym2int.pl: replacing MINI with 2
+sym2int.pl: replacing KHỎE with 2
+sym2int.pl: replacing THỎA with 2
+sym2int.pl: replacing QUI with 2
+sym2int.pl: replacing HỌA with 2
+sym2int.pl: replacing STRESS with 2
+sym2int.pl: replacing KHỎE with 2
+sym2int.pl: replacing KHỎE with 2
+sym2int.pl: replacing KHÓA with 2
+sym2int.pl: replacing HÒA with 2
+sym2int.pl: replacing OXY with 2
+sym2int.pl: replacing THÙY with 2
+sym2int.pl: replacing HỌA with 2
+sym2int.pl: replacing USD with 2
+sym2int.pl: replacing NẴNG with 2
+sym2int.pl: replacing TỌA with 2
+sym2int.pl: not warning for OOVs any more times
+** Replaced 888 instances of OOVs with 2
+LOG (compile-train-graphs[5.5.929~1-9bca2]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 7000 graphs, failed for 0
+# Accounting: time=45 threads=1
+# Ended (code 0) at Fri Aug 13 02:35:31 +07 2021, elapsed time 45 seconds

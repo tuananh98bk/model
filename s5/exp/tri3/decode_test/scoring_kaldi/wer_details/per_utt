@@ -1,0 +1,2600 @@
+VIVOSDEV01_R002 ref  TIẾNG  CỌC  CẠCH  KHỰNG  LẠI  CỦA  NHỮNG  KHỚP  SẮT
+VIVOSDEV01_R002 hyp  TIẾNG  CỌC  CẠCH  KHỰNG  LỢI  CỦA  NHỮNG   CỌC  SẮC
+VIVOSDEV01_R002 op     C     C     C     C     S    C     C      S    S 
+VIVOSDEV01_R002 #csid 6 3 0 0
+VIVOSDEV01_R003 ref  CŨNG  LÊN  TIẾNG  ỦNG  HỘ  CÁC  KIẾN  NGHỊ  NÀY
+VIVOSDEV01_R003 hyp  CŨNG  LÊN  TIẾNG  ỦNG  HỘ  CÁC  KIẾN  NGHỊ  NÀY
+VIVOSDEV01_R003 op     C    C     C     C    C   C     C     C    C 
+VIVOSDEV01_R003 #csid 9 0 0 0
+VIVOSDEV01_R012 ref  NHỮNG  CƠN  GIÓ  MẠNH   VÀ  MƯA  ĐÓNG  BĂNG  GÂY  TRƠN  TRỢT
+VIVOSDEV01_R012 hyp  NHỮNG  CƠN  GIÓ  MẠNH  VÀO  MÙA  ĐÔNG  BẰNG  GÂY  TRƠN  TRỢT
+VIVOSDEV01_R012 op     C     C    C     C    S    S     S     S    C     C     C 
+VIVOSDEV01_R012 #csid 7 4 0 0
+VIVOSDEV01_R027 ref  DI  TÍCH  CÓ  BẢY  PHỖNG  ÔNG  VÀ  HAI  PHỖNG  BÀ  ĐƯỢC  LÀM  BẰNG  GỖ  MÍT
+VIVOSDEV01_R027 hyp  DI  TÍCH  CÓ  BẢY  PHỖNG  ÔNG  VÀ  HAI  PHÓNG  VÀ  ĐƯỢC  LÀM  BẰNG  GỖ  MẬT
+VIVOSDEV01_R027 op    C    C    C   C     C     C    C   C     S     S    C    C     C    C   S 
+VIVOSDEV01_R027 #csid 12 3 0 0
+VIVOSDEV01_R028 ref  CÁC  CHÚ  CŨNG  THOẢI  MÁI  PHÓNG  UẾ  GIỮA  CHỐN  ĐÔNG  NGƯỜI  MÀ  KHÔNG  SỢ
+VIVOSDEV01_R028 hyp  CÁC  CHÚ  CŨNG  THOẢI  MÁI  PHÓNG   Ở  GIỮA  CHỐN  ĐÔNG  NGƯỜI  MÀ  KHÔNG  SỢ
+VIVOSDEV01_R028 op    C    C     C     C     C     C     S    C     C     C     C     C    C     C
+VIVOSDEV01_R028 #csid 13 1 0 0
+VIVOSDEV01_R034 ref  NGƯỜI  TA  NÓI
+VIVOSDEV01_R034 hyp  NGƯỜI  TA  NÓI
+VIVOSDEV01_R034 op     C     C   C 
+VIVOSDEV01_R034 #csid 3 0 0 0
+VIVOSDEV01_R043 ref  ANH  PHÚ  CHƯA  BÚ  ĐƯỢC  SỮA  MẸ  LẦN  NÀO
+VIVOSDEV01_R043 hyp  ANH  PHÚ  CHƯA  BÚ  ĐƯỢC  SỮA  MẸ  LẦN  NÀO
+VIVOSDEV01_R043 op    C    C     C    C    C    C    C   C    C 
+VIVOSDEV01_R043 #csid 9 0 0 0
+VIVOSDEV01_R044 ref  NGỌN  LỬA  BẠO  ĐỘNG  Ở  TRUNG  ĐÔNG  VÀ  PHÁ  VỠ  LỘ  TRÌNH  HÒA  BÌNH
+VIVOSDEV01_R044 hyp  NGỌN  LỬA  BẠO  ĐỘNG  Ở  TRUNG  ĐÔNG  VÀ  PHÁ  VỠ  LỘ  TRÌNH  QUÁ  BÌNH
+VIVOSDEV01_R044 op     C    C    C     C   C    C      C    C   C    C   C    C     S     C 
+VIVOSDEV01_R044 #csid 13 1 0 0
+VIVOSDEV01_R055 ref  VÀ  RẤT  SÁNG  TẠO
+VIVOSDEV01_R055 hyp  VÀ  RẤT  SÁNG  TẠO
+VIVOSDEV01_R055 op    C   C     C    C 
+VIVOSDEV01_R055 #csid 4 0 0 0
+VIVOSDEV01_R057 ref  NHƯNG  GIẤC  NGỦ  CHẬP  CHỜN
+VIVOSDEV01_R057 hyp  NHƯNG  GIẤC  NGỦ  CHẬP  CHỜN
+VIVOSDEV01_R057 op     C      C    C     C     C 
+VIVOSDEV01_R057 #csid 5 0 0 0
+VIVOSDEV01_R058 ref  GIÁM  ĐỐC  SỞ  GIÁO  DỤC  ĐÀO   TẠO  NINH  THUẬN  CHO  BIẾT
+VIVOSDEV01_R058 hyp  GIÁM  ĐỐC  SỞ  GIÁO  DỤC  ĐÀO  TOÀN  NINH  THUẬN  CHO  BIẾT
+VIVOSDEV01_R058 op     C    C    C    C    C    C     S     C     C     C     C 
+VIVOSDEV01_R058 #csid 10 1 0 0
+VIVOSDEV01_R069 ref  ĐÈN  BỊ  HƯ  RỒI  BA
+VIVOSDEV01_R069 hyp  ĐÈN  BỊ  HƯ   GÒ  VÀ
+VIVOSDEV01_R069 op    C    C   C   S    S
+VIVOSDEV01_R069 #csid 3 2 0 0
+VIVOSDEV01_R071 ref  TRƯỞNG  CÔNG  AN  XÃ  CHẠY  SANG  CAN  NGĂN  CŨNG  BỊ  TUYẾN  ĐÁNH  TIẾP
+VIVOSDEV01_R071 hyp  TRƯỞNG  CÔNG  AN  XÃ  CHẠY  SANG  CAN  NGĂN  CŨNG  BỊ  TUYẾN  ĐÁNH  TIẾP
+VIVOSDEV01_R071 op      C      C    C   C    C     C    C     C     C    C    C      C     C 
+VIVOSDEV01_R071 #csid 13 0 0 0
+VIVOSDEV01_R078 ref  NGHE  CHÚNG  TÔI  HỎI  ĐIỀU  NÀY  CHỊ  NGÁT  RÂN  RẤN  NƯỚC  MẮT
+VIVOSDEV01_R078 hyp  NGHE  CHÚNG  TÔI  HỎI  ĐIỀU  NÀY  CHỊ  NGÁT  RÂN  RẤN  NƯỚC  MẮT
+VIVOSDEV01_R078 op     C     C     C    C     C    C    C     C    C    C     C    C 
+VIVOSDEV01_R078 #csid 12 0 0 0
+VIVOSDEV01_R086 ref  CÔNG  VĂN  ĐỀ  NGHỊ  TỈNH  CON  TUM  XÂY  DỰNG  CỬA  KHẨU
+VIVOSDEV01_R086 hyp  CÔNG  VĂN  ĐỀ  NGHỊ  TỈNH  CON  TUM  XÂY  DỰNG  CỬA  KHẨU
+VIVOSDEV01_R086 op     C    C    C    C     C    C    C    C     C    C     C 
+VIVOSDEV01_R086 #csid 11 0 0 0
+VIVOSDEV01_R089 ref  NHƯNG  TÌNH  YÊU  VẪN  NỒNG  NÀN  VÀ  SAY  ĐẮM  NHƯ  BUỔI  BAN  ĐẦU
+VIVOSDEV01_R089 hyp  NHƯNG  TÌNH  YÊU  VẪN  NỒNG  NÀN  VÀ  SAY  ĐẮM  NHƯ  BUỔI  BAN  ĐẦU
+VIVOSDEV01_R089 op     C      C    C    C     C    C    C   C    C    C     C    C    C 
+VIVOSDEV01_R089 #csid 13 0 0 0
+VIVOSDEV01_R092 ref  DO  CHÍNH  PHỦ  MỸ  TIẾN  HÀNH  Ở  VIỆT  NAM
+VIVOSDEV01_R092 hyp  DO  CHÍNH  PHỦ  MỸ  TIẾN  HÀNH  Ở  VIỆT  NAM
+VIVOSDEV01_R092 op    C    C     C    C    C     C   C    C    C 
+VIVOSDEV01_R092 #csid 9 0 0 0
+VIVOSDEV01_R098 ref  TỈNH  QUẢNG  TRỊ  ĐÃ  PHÊ  DUYỆT
+VIVOSDEV01_R098 hyp  TỈNH  QUẢNG  TRỊ  ĐÓ  VỚI  DUYÊN
+VIVOSDEV01_R098 op     C     C     C    S   S     S  
+VIVOSDEV01_R098 #csid 3 3 0 0
+VIVOSDEV01_R099 ref  NHƯNG  TÔI  THÍCH  XEM  BỘ  PHIM  TRUYỆN  PHÁT  NGAY  SAU  CHƯƠNG  TRÌNH  NÀY
+VIVOSDEV01_R099 hyp  NHƯNG  TÔI  THÍCH  XEM  BỘ  PHIM  TRUYỆN  PHÁT  NGAY  SAU  CHƯƠNG  TRÌNH  NÀY
+VIVOSDEV01_R099 op     C     C     C     C    C    C      C      C     C    C      C      C     C 
+VIVOSDEV01_R099 #csid 13 0 0 0
+VIVOSDEV01_R108 ref  KHI  TRẪM  KHỎI  BỆNH  THÌ  SẼ  CHÉM  ĐẦU
+VIVOSDEV01_R108 hyp  KHI  TRẪM  KHỎI  BỆNH  THÌ  SẼ  CHÉM  ĐẦU
+VIVOSDEV01_R108 op    C     C     C     C    C    C    C    C 
+VIVOSDEV01_R108 #csid 8 0 0 0
+VIVOSDEV01_R117 ref  VIỆC  MỘT  QUYỂN  TIỂU  THUYẾT  NHƯ  THẾ
+VIVOSDEV01_R117 hyp  VIỆC  MỘT  QUYỂN  TIỂU  THUYẾT  NHƯ  HƠI
+VIVOSDEV01_R117 op     C    C     C      C      C     C    S 
+VIVOSDEV01_R117 #csid 6 1 0 0
+VIVOSDEV01_R130 ref  NÃO  BỘ  CHÚNG  TA  PHÁT  TRIỂN  NHỮNG  RUNG  ĐỘNG  YÊU  THƯƠNG
+VIVOSDEV01_R130 hyp  VÀO  BỘ  TRUNG  VÀ  PHÁT  TRIỂN  NHỮNG  RUNG  ĐỘNG  YÊU    HỒN 
+VIVOSDEV01_R130 op    S    C    S     S    C     C      C      C     C    C      S  
+VIVOSDEV01_R130 #csid 7 4 0 0
+VIVOSDEV01_R139 ref  TRỪ  KHI  BẠN  BIẾT  TÔN  TRỌNG  BẢN  THÂN  MÌNH
+VIVOSDEV01_R139 hyp  TRỪ  KHI  BẠN  BIẾT  TÔN  TRỌNG  BẢN  THÂN  MÌNH
+VIVOSDEV01_R139 op    C    C    C     C    C     C     C     C     C 
+VIVOSDEV01_R139 #csid 9 0 0 0
+VIVOSDEV01_R141 ref  NHỮNG  CON  ĐƯỜNG  NGẮN  NGỦN  NHƯ  NHỮNG  NHÁT  CẮT
+VIVOSDEV01_R141 hyp  NHỮNG  CON  ĐƯỜNG  NGẮN  NGỦN  NHƯ  NHỮNG  NHÁT  CẮT
+VIVOSDEV01_R141 op     C     C     C      C     C    C     C      C    C 
+VIVOSDEV01_R141 #csid 9 0 0 0
+VIVOSDEV01_R146 ref  HIỆN  RA  TẬN  PHÍA  XA
+VIVOSDEV01_R146 hyp  HIỆN  RA  TẬN  PHÍA  XA
+VIVOSDEV01_R146 op     C    C   C     C    C
+VIVOSDEV01_R146 #csid 5 0 0 0
+VIVOSDEV01_R150 ref  XIN  ĐƯỢC   CHÂN   KHUÂN  VÁC
+VIVOSDEV01_R150 hyp  XIN  ĐƯỢC  TRƯỜNG   CŨNG   VÀ
+VIVOSDEV01_R150 op    C     C      S      S     S 
+VIVOSDEV01_R150 #csid 2 3 0 0
+VIVOSDEV01_R151 ref  NHƯNG  KHI  TIẾN  GẦN  VÀO  VỊNH  THÌ  MẶT  BIỂN  BỊ   RẠN  VỠ
+VIVOSDEV01_R151 hyp  NHƯNG  KHI  TIẾN  GẦN  VÀO   VẤN   ĐỀ   MÀ  QUÊN  VỀ  GẮNG  VỠ
+VIVOSDEV01_R151 op     C     C     C    C    C     S    S    S     S    S    S    C
+VIVOSDEV01_R151 #csid 6 6 0 0
+VIVOSDEV01_R164 ref  MỘT   BÀ   NGOẠI  GIẶT   ĐỒ  THUÊ
+VIVOSDEV01_R164 hyp  MỘT  VÒNG  NGOÀI   LẮC  ĐẦU   HỐI
+VIVOSDEV01_R164 op    C     S     S      S    S     S 
+VIVOSDEV01_R164 #csid 1 5 0 0
+VIVOSDEV01_R170 ref  ĐÔI  BÀN  TAY  EM  KHÔNG  ĐƯỢC  MỀM  MẠI  VÀ  NÕN  NÀ
+VIVOSDEV01_R170 hyp  ĐÔI  BÀN  TAY  EM  KHÔNG  ĐƯỢC  MỀM  MẠI  VÀ   ĐÓ  MÀ
+VIVOSDEV01_R170 op    C    C    C    C    C      C    C    C    C   S    S
+VIVOSDEV01_R170 #csid 9 2 0 0
+VIVOSDEV01_R172 ref  TÂY  GIANG  VẪN  CÒN  KHẮC  KHOẢI  KHÔNG  THỂ  VÀO   XÃ   A   NÔNG
+VIVOSDEV01_R172 hyp  BÂY   GIỜ   VẪN  CÒN   CẤP   KHÓI   CÔNG  HƠI  VÀO  ***  XOA  NÓNG
+VIVOSDEV01_R172 op    S     S     C    C     S     S      S     S    C    D    S     S 
+VIVOSDEV01_R172 #csid 3 8 0 1
+VIVOSDEV01_R174 ref  NHỮNG  DỰ  ĐỊNH  CẦN  PHẢI  ĐƯỢC  BIẾN  THÀNH  HIỆN  THỰC
+VIVOSDEV01_R174 hyp  NHỮNG  DỰ  ĐỊNH  CẦN  PHẢI  ĐƯỢC  BIẾN  THÀNH  HIỆN  THỰC
+VIVOSDEV01_R174 op     C     C    C    C     C     C     C     C      C     C 
+VIVOSDEV01_R174 #csid 10 0 0 0
+VIVOSDEV01_R176 ref   ĐỂ  TÀU  KHÔNG  PHẢI  CƯỠI  CẦU  TÀU
+VIVOSDEV01_R176 hyp  ĐÔI  TÀU  KHÔNG  PHẢI  CƯỠI  CẦU  TÀU
+VIVOSDEV01_R176 op    S    C     C      C     C    C    C 
+VIVOSDEV01_R176 #csid 6 1 0 0
+VIVOSDEV01_R180 ref  BÀN  CHỔI  SƠN  BẰNG  BÔNG  MỀM   RẤT  PHỔ  BIẾN
+VIVOSDEV01_R180 hyp  BÀN  CHỔI  SƠN  BẰNG  BÔNG  MỀM  ĐƯỢC  PHỔ  BIẾN
+VIVOSDEV01_R180 op    C     C    C     C     C    C     S    C     C 
+VIVOSDEV01_R180 #csid 8 1 0 0
+VIVOSDEV01_R187 ref  THẬT  SỰ  MÀ   LÀ  BỞI  LÒNG  HẬN  THÙ
+VIVOSDEV01_R187 hyp  THẬT  SỰ  MÀ  ***  BỞI  LÒNG  ÔNG   HỒ
+VIVOSDEV01_R187 op     C    C   C   D    C     C    S    S 
+VIVOSDEV01_R187 #csid 5 2 0 1
+VIVOSDEV01_R188 ref  VIỆC  QUY  TỘI   ĐỂ  BÙNG  NỔ  LOẠI  SÁCH  NÀY  LÀ  DO
+VIVOSDEV01_R188 hyp  VIỆC  QUY  TỘI  ĐỜI  BÙNG  NỔ  LOẠI  SÁCH  NÀY  LÀ  DO
+VIVOSDEV01_R188 op     C    C    C    S     C    C    C     C    C    C   C
+VIVOSDEV01_R188 #csid 10 1 0 0
+VIVOSDEV01_T002 ref  CŨNG  CHƯA  BIẾT  NỮA
+VIVOSDEV01_T002 hyp  CŨNG  CHƯA  BIẾT  NỮA
+VIVOSDEV01_T002 op     C     C     C    C 
+VIVOSDEV01_T002 #csid 4 0 0 0
+VIVOSDEV01_T030 ref  XUÂN  NÀY  EM  KHÔNG   VỀ
+VIVOSDEV01_T030 hyp  XUÂN  NÀY  EM  KHÔNG  VỜI
+VIVOSDEV01_T030 op     C    C    C    C     S 
+VIVOSDEV01_T030 #csid 4 1 0 0
+VIVOSDEV01_T038 ref  CHẮC  SẮP  TỚI  THU  XẾP  ĐI  DU  LỊCH  THÔI
+VIVOSDEV01_T038 hyp  CHẮC  SẮP  TỚI  THU  XẾP  ĐI  DU  LỊCH  THÔI
+VIVOSDEV01_T038 op     C    C    C    C    C    C   C    C     C 
+VIVOSDEV01_T038 #csid 9 0 0 0
+VIVOSDEV01_T043 ref  NÓ  TRỐN  MẤT  TIÊU  RỒI  CÒN  ĐÂU
+VIVOSDEV01_T043 hyp  NÓ  TRỐN  MẤT  TIÊU  RỒI  CÒN  ĐÂU
+VIVOSDEV01_T043 op    C    C    C     C    C    C    C 
+VIVOSDEV01_T043 #csid 7 0 0 0
+VIVOSDEV01_T048 ref  THẰNG  ĐÓ  CÓ  CÁI  MIỆNG  NHƯ  ĐÀN  BÀ
+VIVOSDEV01_T048 hyp  THẰNG  ĐÓ  CÓ  CÁI  MIỆNG  NHƯ  ĐÀN  BÀ
+VIVOSDEV01_T048 op     C     C   C   C     C     C    C    C
+VIVOSDEV01_T048 #csid 8 0 0 0
+VIVOSDEV03_R007 ref  MỘT  CHUYẾN  DU  LỊCH   DÃ  NGOẠI  TẠI   BÒ  CẠP  VÀNG
+VIVOSDEV03_R007 hyp  MỘT  CHUYẾN  DU  LỊCH  GIỜ  NGOÀI  TỚI  MỘT  CẶP  VÀNG
+VIVOSDEV03_R007 op    C      C     C    C    S     S     S    S    S     C 
+VIVOSDEV03_R007 #csid 5 5 0 0
+VIVOSDEV03_R010 ref   ÂM  THẦM  CHẮT  CHIU   NUÔI  TÔI  KHÔN   LỚN 
+VIVOSDEV03_R010 hyp  ***   VÀ    MẮM  TRƯA  CHIỀU  TỐI  KHÔN  LƯỜNG
+VIVOSDEV03_R010 op    D     S     S     S     S     S     C     S  
+VIVOSDEV03_R010 #csid 1 6 0 1
+VIVOSDEV03_R020 ref  BÊN  TRONG  TRÁI  VẢ   KHI   BỔ  RA  SẼ  RỖNG  CHỨ  KHÔNG  ĐẶC  NHƯ  TRÁI   SUNG
+VIVOSDEV03_R020 hyp  BÊN  TRONG  TRỜI  VÀ  KHIÊU  BỘ  RA  SẼ  NÓNG  CHỨ  KHÔNG  ĐẶT  NHƯ   RƠI  XUỐNG
+VIVOSDEV03_R020 op    C     C      S    S    S     S   C   C    S    C     C     S    C     S     S  
+VIVOSDEV03_R020 #csid 7 8 0 0
+VIVOSDEV03_R029 ref  NÊN  HAI   MỐ  CẦU  BỊ  SỤP   ĐẤT  KHIẾN   LỐI   ĐI  BỘ  QUÁ  NGUY  HIỂM
+VIVOSDEV03_R029 hyp  NÊN  HAI  MỘT  CẬU  VÌ  XÚC  ĐỘNG   KHI   NGÔI  ĐỀN  BÙ  QUA  NGUY  HIỂM
+VIVOSDEV03_R029 op    C    C    S    S    S   S     S     S      S    S    S   S     C     C 
+VIVOSDEV03_R029 #csid 4 10 0 0
+VIVOSDEV03_R041 ref  LUÔN  ỔN  ĐỊNH  VÀ  CÁC   XE  TRẤU  KHÁ  NẶNG
+VIVOSDEV03_R041 hyp  LUÔN  ỔN  ĐỊNH  VÀ   CÀ  PHÊ  TRẦU  KHÁ  NẶNG
+VIVOSDEV03_R041 op     C    C    C    C   S    S     S    C     C 
+VIVOSDEV03_R041 #csid 6 3 0 0
+VIVOSDEV03_R044 ref  VÀ  KHI  HỌ  VẠCH  TÓC  RA
+VIVOSDEV03_R044 hyp  VÀ  KHI  HỌ   BẮT  CÓC  VÀ
+VIVOSDEV03_R044 op    C   C    C    S    S    S
+VIVOSDEV03_R044 #csid 3 3 0 0
+VIVOSDEV03_R046 ref  CỦA  CHÍNH  SÁCH  ĐỐI  VỚI  QUY  MÔ  CỦA  THỊ  TRƯỜNG
+VIVOSDEV03_R046 hyp  CỦA  CHÍNH  SÁCH  ĐỐI  VỚI  QUY  MÔ  CỦA  THỊ  TRƯỜNG
+VIVOSDEV03_R046 op    C     C      C    C    C    C    C   C    C      C  
+VIVOSDEV03_R046 #csid 10 0 0 0
+VIVOSDEV03_R056 ref  SƯƠNG  MÙ  ĐÃ  ĐỌNG  THÀNH  NHỮNG  HẠT  GIÁ  BĂNG
+VIVOSDEV03_R056 hyp  SƯƠNG  MÙ  RA  ĐỒNG   HÀNH   LIÊN   HỆ  VỚI   VĂN
+VIVOSDEV03_R056 op     C     C   S    S     S      S     S    S     S 
+VIVOSDEV03_R056 #csid 2 7 0 0
+VIVOSDEV03_R057 ref  CHỨ  KHÔNG  PHẢI  TÀI  NĂNG  THIÊN   BẨM  NÀO
+VIVOSDEV03_R057 hyp  CHỨ  KHÔNG  PHẢI  TÀI  NĂNG  KHIẾN  BÓNG  NÀO
+VIVOSDEV03_R057 op    C     C      C    C     C     S      S    C 
+VIVOSDEV03_R057 #csid 6 2 0 0
+VIVOSDEV03_R061 ref  LÀ  TIẾNG  TRỐNG  LÂN   TÙNG  XÈNG  VUI  TAI
+VIVOSDEV03_R061 hyp  VÀ  TIẾNG  TRỐNG  GẦN  CHUNG   VỀ    VỤ  TAI
+VIVOSDEV03_R061 op    S    C      C     S     S      S    S    C 
+VIVOSDEV03_R061 #csid 3 5 0 0
+VIVOSDEV03_R082 ref  GHÉP  CÀNH  MAI  GIẢO  VÀO  THÂN  CỔ  THỤ  CHO  HOA  CÁNH  LỚN
+VIVOSDEV03_R082 hyp  VIỆC   CẦM  MẤY   DAO  VÀO  PHẤN  CỔ  THỤ  CHO  HOA  CÁNH  LỚN
+VIVOSDEV03_R082 op     S     S    S     S    C     S    C   C    C    C     C    C 
+VIVOSDEV03_R082 #csid 7 5 0 0
+VIVOSDEV03_R092 ref  ĐỂ  CHỌN  MÁY   IN   CHO  PHÙ  HỢP
+VIVOSDEV03_R092 hyp  ĐỂ  CHỌN  ***  MINH  CHO  PHÙ  HỢP
+VIVOSDEV03_R092 op    C    C    D     S    C    C    C 
+VIVOSDEV03_R092 #csid 5 1 0 1
+VIVOSDEV03_R109 ref  PHÙ  HỢP  CHO  MỌI  CÂN  NẶNG
+VIVOSDEV03_R109 hyp  PHÙ  HỢP  CHO  MỌI  TẬT  MANG
+VIVOSDEV03_R109 op    C    C    C    C    S     S 
+VIVOSDEV03_R109 #csid 4 2 0 0
+VIVOSDEV03_R113 ref   VÌ  BẠN   CÓ   THỂ  LẢY  CÒ  TỪNG  PHÁT  MỘT
+VIVOSDEV03_R113 hyp  ***  ***  VỚI  VÀNG  LẤY  CÓ   TIN   VÀO  MỘT
+VIVOSDEV03_R113 op    D    D    S     S    S    S    S     S    C 
+VIVOSDEV03_R113 #csid 1 6 0 2
+VIVOSDEV03_R117 ref  VAI  TRÒ  CỦA  CHẾ  ĐỘ  DINH  DƯỠNG
+VIVOSDEV03_R117 hyp  VAI  TRÒ  CỦA  CHẾ  ĐỘ  DINH  DƯỠNG
+VIVOSDEV03_R117 op    C    C    C    C    C    C     C  
+VIVOSDEV03_R117 #csid 7 0 0 0
+VIVOSDEV03_R119 ref  KHÔNG  HIỂU  SAO
+VIVOSDEV03_R119 hyp  KHÔNG  HIỂU  SAO
+VIVOSDEV03_R119 op     C      C    C 
+VIVOSDEV03_R119 #csid 3 0 0 0
+VIVOSDEV03_R120 ref  KHIẾN  PHỤ  HUYNH  HIỂU  NHẦM
+VIVOSDEV03_R120 hyp  TUYẾN  PHỐ   MUỐN  HIỆU  NHẰM
+VIVOSDEV03_R120 op     S     S     S      S     S 
+VIVOSDEV03_R120 #csid 0 5 0 0
+VIVOSDEV03_R125 ref  MỖI  KHI  CƠN  GIÓ  ĐẾN
+VIVOSDEV03_R125 hyp  MỖI  KHI  TỚI  GIỜ  NÊN
+VIVOSDEV03_R125 op    C    C    S    S    S 
+VIVOSDEV03_R125 #csid 2 3 0 0
+VIVOSDEV03_R136 ref  NÀY  BÓN  CHO  CON  THƯƠNG   ĐỠ   YẾU  ĐAU  CÒI   CỌC 
+VIVOSDEV03_R136 hyp  VAY  VỐN  CHO  CON   HƯỜNG  ĐỘI  TIÊU   ĐÓ   CÓ  TRỌNG
+VIVOSDEV03_R136 op    S    S    C    C      S     S     S    S    S     S  
+VIVOSDEV03_R136 #csid 2 8 0 0
+VIVOSDEV03_R142 ref  TRONG  TƯ   THẾ   PHI   NGỰA   CHỒM  LÊN
+VIVOSDEV03_R142 hyp  TRONG  TỪ  THỜI  PHÍA  NGƯỜI  CHỒNG  LỚN
+VIVOSDEV03_R142 op     C     S    S     S     S      S     S 
+VIVOSDEV03_R142 #csid 1 6 0 0
+VIVOSDEV03_R144 ref  MÀ  CŨNG  ĐẦY  THANH  KHIẾT
+VIVOSDEV03_R144 hyp  MÀ  CŨNG  ĐẦY   PHẤN  KHÍCH
+VIVOSDEV03_R144 op    C    C    C     S      S  
+VIVOSDEV03_R144 #csid 3 2 0 0
+VIVOSDEV03_R148 ref  MỘT   VỤ   CHẬP  ĐIỆN  ĐÃ  KHIẾN  NGỌN  LỬA  BÙNG  LÊN
+VIVOSDEV03_R148 hyp  MỘT  MÙA  TRỒNG   ĐẾN  NỢ   KHI   NGỌN  LỬA  BÙNG  LỚN
+VIVOSDEV03_R148 op    C    S     S      S    S    S      C    C     C    S 
+VIVOSDEV03_R148 #csid 4 6 0 0
+VIVOSDEV03_R149 ref  BÀ  CON   CHÒM  XÓM
+VIVOSDEV03_R149 hyp  BÀ  CON  TRONG  XÓM
+VIVOSDEV03_R149 op    C   C     S     C 
+VIVOSDEV03_R149 #csid 3 1 0 0
+VIVOSDEV03_R156 ref  ĐÂY  LÀ  MỨC  LÃI  SUẤT  THẤP  NHẤT  QUA  CÁC  PHIÊN  ĐẤU  THẦU
+VIVOSDEV03_R156 hyp  ĐÂY  LÀ  MỨC  LÃI  SUẤT   CẤP  NHẬP  CỦA  CÁC   TÍN    ĐỒ   HẬU
+VIVOSDEV03_R156 op    C    C   C    C     C     S     S    S    C     S     S     S 
+VIVOSDEV03_R156 #csid 6 6 0 0
+VIVOSDEV03_R160 ref  DỌC  HAI  BÊN  SÔNG  NGÀN   SÂU
+VIVOSDEV03_R160 hyp  DỌC  HAI  BÊN  SÔNG  NGÀN  KHẤU
+VIVOSDEV03_R160 op    C    C    C     C     C     S 
+VIVOSDEV03_R160 #csid 5 1 0 0
+VIVOSDEV03_R163 ref  NHƯNG   OÁI    ĂM   THAY
+VIVOSDEV03_R163 hyp  NHƯNG  NGOÀI  ÔNG  HOÀNG
+VIVOSDEV03_R163 op     C      S     S     S  
+VIVOSDEV03_R163 #csid 1 3 0 0
+VIVOSDEV03_R180 ref  SAU  CẢI  CÁCH
+VIVOSDEV03_R180 hyp  SAU  CẢI  CÁCH
+VIVOSDEV03_R180 op    C    C     C 
+VIVOSDEV03_R180 #csid 3 0 0 0
+VIVOSDEV03_R182 ref  MỘT  KẾ  HOẠCH  TƯƠNG   TỰ  ĐƯỢC  ÁP  DỤNG   Ở   ANH
+VIVOSDEV03_R182 hyp  MỘT  KẾ  HOẠCH   TUẦN  TÔI  ĐƯỢC  ÁP  DỤNG  ***  MỀN
+VIVOSDEV03_R182 op    C    C    C      S     S     C    C    C    D    S 
+VIVOSDEV03_R182 #csid 6 3 0 1
+VIVOSDEV03_R191 ref  CỠI  NGỰA  ĐI  THI
+VIVOSDEV03_R191 hyp  VỚI   LỐI  ĐI  THI
+VIVOSDEV03_R191 op    S     S    C   C 
+VIVOSDEV03_R191 #csid 2 2 0 0
+VIVOSDEV03_R193 ref   ÔI   DÀO
+VIVOSDEV03_R193 hyp  MỌI  GIAO
+VIVOSDEV03_R193 op    S     S 
+VIVOSDEV03_R193 #csid 0 2 0 0
+VIVOSDEV03_R195 ref  KHÔNG  MỘT  CHIẾC  XE  LẠ  NÀO  CÓ  THỂ  MON   MEN  VÀO  ĐƯỢC
+VIVOSDEV03_R195 hyp  KHÔNG  MỘT  CHIẾC  XE  LÀ  NÀO  VÀ  VỚI  MÓN  MANG  VÀO  ĐƯỢC
+VIVOSDEV03_R195 op     C     C     C     C   S   C    S   S    S     S    C     C 
+VIVOSDEV03_R195 #csid 7 5 0 0
+VIVOSDEV03_R198 ref  RỒI  ĐI  KHẮP  NƠI  TÌM  THẦY  CHỮA  BỆNH  CHO   ANH
+VIVOSDEV03_R198 hyp  RỒI  ĐI  KHẮP  NƠI  YÊN   BÁI  CHỮA  BỆNH  ***  TRẦM
+VIVOSDEV03_R198 op    C    C    C    C    S     S     C     C    D     S 
+VIVOSDEV03_R198 #csid 6 3 0 1
+VIVOSDEV03_T009 ref  BÁC  ĐANG  SUY  NGHĨ  GÌ  THẾ
+VIVOSDEV03_T009 hyp   VÀ  ĐÁNG  SUY  NGHĨ  GÌ   VỀ
+VIVOSDEV03_T009 op    S     S    C     C    C   S 
+VIVOSDEV03_T009 #csid 3 3 0 0
+VIVOSDEV03_T017 ref  BÁC  VẪN  CHƯA  TRẢ  TIỀN   CHO   TÔI  ĐÂY  NHÉ
+VIVOSDEV03_T017 hyp   BÀ  VẪN  CHƯA  ***   RÕ   TRÊN  GIÚP  BÔI  LÊN
+VIVOSDEV03_T017 op    S    C     C    D     S     S     S    S    S 
+VIVOSDEV03_T017 #csid 2 6 0 1
+VIVOSDEV03_T018 ref  TÔI  ĐANG  BẬN  HỌP
+VIVOSDEV03_T018 hyp  TÔI  ĐANG  ***  HỌC
+VIVOSDEV03_T018 op    C     C    D    S 
+VIVOSDEV03_T018 #csid 2 1 0 1
+VIVOSDEV03_T023 ref  CƯỚP  ĐẦY  ĐƯỜNG  CÔNG  AN  CHỈ  LO  HẠCH  SÁCH
+VIVOSDEV03_T023 hyp   CỨ    VỀ  ĐƯỜNG  CÔNG  AN  CHỈ  LO   ***   SỢ 
+VIVOSDEV03_T023 op     S    S     C      C    C   C    C    D     S 
+VIVOSDEV03_T023 #csid 5 3 0 1
+VIVOSDEV03_T035 ref   MẸ   ƠI  CÓ  MUA  ĐỒ   CHO   CON  KHÔNG
+VIVOSDEV03_T035 hyp  ***  NƠI  CÓ  MỘT  LỖ  CHÂN  LÔNG  KHÔNG
+VIVOSDEV03_T035 op    D    S    C   S    S    S     S     C  
+VIVOSDEV03_T035 #csid 2 5 0 1
+VIVOSDEV03_T041 ref  CON  CHÓ  LỦI  THỦI  ĐI  THEO  CHỦ  NÓ
+VIVOSDEV03_T041 hyp  CON  CHÓ  LỦI  THỦI  ĐI  THEO  CHỦ  NÓ
+VIVOSDEV03_T041 op    C    C    C     C    C    C    C    C
+VIVOSDEV03_T041 #csid 8 0 0 0
+VIVOSDEV03_T047 ref  TRONG   PHIM  CÓ  NHIỀU  CẢNH   CHÉM   GIẾT
+VIVOSDEV03_T047 hyp  TRONG  PHIÊN  CÓ  NHIỀU  CẢNH  THIÊN  NHIÊN
+VIVOSDEV03_T047 op     C      S     C    C      C     S      S  
+VIVOSDEV03_T047 #csid 4 3 0 0
+VIVOSDEV03_T048 ref  DIỄN  VIÊN  CHÍNH  ĐỨNG  NHƯ  KHÚC  GỖ
+VIVOSDEV03_T048 hyp  DIỄN  VIÊN  CHÍNH  ĐỨNG  NHƯ   KHU  MỘ
+VIVOSDEV03_T048 op     C     C     C      C    C     S    S
+VIVOSDEV03_T048 #csid 5 2 0 0
+VIVOSDEV05_004 ref  HÃY  TƯỞNG  TƯỢNG  RẰNG  BẠN   LÀ  LÀ  GIÁM  ĐỐC  DỰ  ÁN  TRONG  MỘT  CÔNG  TY  LỚN
+VIVOSDEV05_004 hyp  HÃY  TƯỞNG  TƯỢNG  RẰNG  BẠN  ***  LÀ  GIÁM  ĐỐC  DỰ  ÁN  TRONG  MỘT  CÔNG  TY  LỚN
+VIVOSDEV05_004 op    C     C      C      C    C    D    C    C    C    C   C    C     C     C    C   C 
+VIVOSDEV05_004 #csid 15 0 0 1
+VIVOSDEV05_030 ref  CỦA  NHỮNG  THẾ  LỰC   HÙNG  MẠNH
+VIVOSDEV05_030 hyp  CỦA  NHỮNG  THẾ  LỰC  KHỦNG  MẠNH
+VIVOSDEV05_030 op    C     C     C    C     S      C 
+VIVOSDEV05_030 #csid 5 1 0 0
+VIVOSDEV05_037 ref  ÔNG  NHẶT   NÓ  LÊN
+VIVOSDEV05_037 hyp  ÔNG  NHẬT  NÓI  LÊN
+VIVOSDEV05_037 op    C     S    S    C 
+VIVOSDEV05_037 #csid 2 2 0 0
+VIVOSDEV05_043 ref  NGUYÊN  THỨ  TRƯỞNG  MAI  VĂN  DÂU  ĐÃ  BỊ  BẮT
+VIVOSDEV05_043 hyp  NGUYÊN  THỨ  TRƯỞNG  MAI  VĂN  DẦU  ĐÃ  BỊ  BẮT
+VIVOSDEV05_043 op      C     C      C     C    C    S    C   C   C 
+VIVOSDEV05_043 #csid 8 1 0 0
+VIVOSDEV05_055 ref  NHƯNG  MỨC   ÁN   TỬ  HÌNH  ĐỐI  VỚI  CÁC  BỊ   CÁO   LÀ  TƯƠNG  XỨNG
+VIVOSDEV05_055 hyp  NHƯNG   Ở   CẢNH  TỪ  HÌNH  ĐỐI  VỚI  CÁC  VỊ  TRÀO  LÀM   ƯNG   RỪNG
+VIVOSDEV05_055 op     C     S     S    S    C    C    C    C    S    S    S     S      S 
+VIVOSDEV05_055 #csid 5 8 0 0
+VIVOSDEV05_065 ref  NHỮNG  NGƯỜI  SỐNG  THÌ  THA  THẨN  TRONG  NHÀ  NGOÀI  NGÕ
+VIVOSDEV05_065 hyp  NHỮNG  NGƯỜI  SỐNG  THÌ  THẢ  THẦN  TRONG  NHÀ  NGOÀI  NGÕ
+VIVOSDEV05_065 op     C      C      C    C    S     S     C     C     C     C 
+VIVOSDEV05_065 #csid 8 2 0 0
+VIVOSDEV05_087 ref  CẢ  KHÔNG  GIAN  NHUỐM  MÀU  TRO   BẾP
+VIVOSDEV05_087 hyp  CẢ  KHÔNG  GIAN   DÙNG  MÀU  TRÒ  BIỆT
+VIVOSDEV05_087 op    C    C      C     S     C    S     S 
+VIVOSDEV05_087 #csid 4 3 0 0
+VIVOSDEV05_091 ref  TRÁN    GIÔ 
+VIVOSDEV05_091 hyp  CẢNH  GIƯỜNG
+VIVOSDEV05_091 op     S      S  
+VIVOSDEV05_091 #csid 0 2 0 0
+VIVOSDEV05_097 ref  THU  CHẠM   NGÕ  RẤT  HIỀN
+VIVOSDEV05_097 hyp  THÙ  CHÂM  NGÒI  RẤT  HIỀN
+VIVOSDEV05_097 op    S     S     S    C     C 
+VIVOSDEV05_097 #csid 2 3 0 0
+VIVOSDEV05_107 ref  TRÔNG  MỘT  CÔ  NÀNG  ĐỔ  NGƯỜI  LÊN  LƯNG   ANH  NGƯỜI  YÊU  GẦY  CÒM
+VIVOSDEV05_107 hyp  TRONG  MỘT  CÔ  NÀNG  ĐỘ  NGƯỜI  LÊN  LƯNG  NGÀN  NGƯỜI  YÊU  ĐỜI  CÒN
+VIVOSDEV05_107 op     S     C    C    C    S    C     C     C     S     C     C    S    S 
+VIVOSDEV05_107 #csid 8 5 0 0
+VIVOSDEV05_109 ref  DOANH  NGHIỆP  TUYỂN  DỤNG  LAO  ĐỘNG  NƯỚC  NGOÀI
+VIVOSDEV05_109 hyp  DOANH  NGHIỆP  TUYỂN  DỤNG  LAO  ĐỘNG  NƯỚC  NGOÀI
+VIVOSDEV05_109 op     C       C      C      C    C     C     C     C  
+VIVOSDEV05_109 #csid 8 0 0 0
+VIVOSDEV05_115 ref  THỜI  HẠN  SỬ  DỤNG  VÀ  LOẠI  SẢN  PHẨM  BỘT
+VIVOSDEV05_115 hyp  THỜI  HẠN  SỬ  DỤNG  VÀ  LOẠI  SẢN  PHẨM  BỘT
+VIVOSDEV05_115 op     C    C    C    C    C    C    C     C    C 
+VIVOSDEV05_115 #csid 9 0 0 0
+VIVOSDEV05_119 ref  MÀ  CÒN  BỊ  NHỮNG  BỘ  MẶT  LẠNH  TE   KIA  HOẠNH  HỌE
+VIVOSDEV05_119 hyp  MÀ  CÒN  BỊ  NHỮNG  BỘ  MẶT  LẠNH  TÊ  KIỀU   MẠNH   MẼ
+VIVOSDEV05_119 op    C   C    C    C     C   C     C    S    S     S     S 
+VIVOSDEV05_119 #csid 7 4 0 0
+VIVOSDEV05_120 ref  NHƯNG  MÙI  HÔI  VẪN  XỘC  VÀO  TẬN  ÓC
+VIVOSDEV05_120 hyp  NHƯNG  MÙI  HÔI  VẪN  SÂU  VÀO  TẬN  ÓC
+VIVOSDEV05_120 op     C     C    C    C    S    C    C    C
+VIVOSDEV05_120 #csid 7 1 0 0
+VIVOSDEV05_125 ref  ĐANG  LÀM  VIỆC  KHÔNG  NGỪNG  NGHỈ
+VIVOSDEV05_125 hyp   BÀN  LÀM  VIỆC  KHÔNG  NGỪNG   ĐI 
+VIVOSDEV05_125 op     S    C     C     C      C      S 
+VIVOSDEV05_125 #csid 4 2 0 0
+VIVOSDEV05_129 ref  THU  HÚT  RẤT  LÀ  NHIỀU  LOÀI  CHIM
+VIVOSDEV05_129 hyp  THU  HÚT  RẤT  LÀ  NHIỀU  LOÀI  CHIM
+VIVOSDEV05_129 op    C    C    C    C    C      C     C 
+VIVOSDEV05_129 #csid 7 0 0 0
+VIVOSDEV05_135 ref  KHI  CÔ  THỂ  HIỆN  KHÔNG  MẤY  THÀNH  CÔNG  Ở  LỄ  KHAI  MẠC
+VIVOSDEV05_135 hyp  KHI  CÔ  THỂ  HIỆN  KHÔNG  MẤY  THÀNH  CÔNG  Ở  LỄ  KHAI  MẠC
+VIVOSDEV05_135 op    C    C   C     C     C     C     C      C   C   C    C    C 
+VIVOSDEV05_135 #csid 12 0 0 0
+VIVOSDEV05_136 ref  RA  HIỆU  CHO  TÔI  IM  LẶNG
+VIVOSDEV05_136 hyp  RA  HIỆU  CHO  TÔI  IM  LẶNG
+VIVOSDEV05_136 op    C    C    C    C    C    C 
+VIVOSDEV05_136 #csid 6 0 0 0
+VIVOSDEV05_143 ref  NHỎ  ĐƯA  TAY  RA  CÀO  HẾT   BÙN  KHÔ  TRÊN  CỔ  TỚ
+VIVOSDEV05_143 hyp  NHỎ  ĐƯA  TAY  RA  CÁO  HẾT  BỤNG  KHỔ  TRÊN  CỔ  TỜ
+VIVOSDEV05_143 op    C    C    C    C   S    C     S    S     C    C   S
+VIVOSDEV05_143 #csid 7 4 0 0
+VIVOSDEV05_150 ref  NGỒI  CHỒM  CHỒM  CÁCH  CHỈ  MẤY  MÉT
+VIVOSDEV05_150 hyp  NGỒI  CHỒM  CHỒM  CÁCH  TRỊ  MẤY   MẸ
+VIVOSDEV05_150 op     C     C     C     C    S    C    S 
+VIVOSDEV05_150 #csid 5 2 0 0
+VIVOSDEV05_155 ref   NỬA   VÒNG  TRÁI  ĐẤT  HƠN  BẢY  NĂM
+VIVOSDEV05_155 hyp  NGƯỜI  VÒNG  TRÁI  ĐẤT  HƠN  BẢY  NĂM
+VIVOSDEV05_155 op     S      C     C    C    C    C    C 
+VIVOSDEV05_155 #csid 6 1 0 0
+VIVOSDEV05_170 ref  CHẬM  NẮM  BẮT  XU  HƯỚNG  PHÁT  TRIỂN  CÔNG  NGHỆ  MỚI
+VIVOSDEV05_170 hyp  TRĂM  NĂM  BẮT  XU  HƯỚNG  PHÁT  TRIỂN  CÔNG  NGHỆ  MỚI
+VIVOSDEV05_170 op     S    S    C    C    C      C     C      C     C    C 
+VIVOSDEV05_170 #csid 8 2 0 0
+VIVOSDEV05_185 ref  MÀ  MƯỜNG  TƯỢNG  RA  HÌNH  BÓNG  MẸ
+VIVOSDEV05_185 hyp  MÀ  MƯỜNG  TƯỢNG  RA  HÌNH  BÓNG  MẸ
+VIVOSDEV05_185 op    C    C      C     C    C     C    C
+VIVOSDEV05_185 #csid 7 0 0 0
+VIVOSDEV05_189 ref  MỖI  NGƯỜI  MỘT  SỐ  PHẬN  EM   À
+VIVOSDEV05_189 hyp  MỖI  NGƯỜI  MỘT  SỐ  PHẬN  EM  MÀ
+VIVOSDEV05_189 op    C     C     C    C    C    C   S
+VIVOSDEV05_189 #csid 6 1 0 0
+VIVOSDEV05_199 ref  LẦN  LỮA  MÃI  MỚI  GẶP  ĐƯỢC  TUYÊN
+VIVOSDEV05_199 hyp  LẦN  NỮA  MÀY  MỚI  GẶP  ĐƯỢC  TUYỂN
+VIVOSDEV05_199 op    C    S    S    C    C     C     S  
+VIVOSDEV05_199 #csid 4 3 0 0
+VIVOSDEV05_200 ref  LÀM  ĐƯỜNG  DÂY   ĐỂ  NỐI  CÁC  MẢNH  ĐỜI
+VIVOSDEV05_200 hyp  LÀM  ĐƯỜNG  DÂY  ĐẾN  NỖI  CÁC  MẢNH  ĐỜI
+VIVOSDEV05_200 op    C     C     C    S    S    C     C    C 
+VIVOSDEV05_200 #csid 6 2 0 0
+VIVOSDEV05_202 ref  CHỊ   HAI  CHỦ  QUÁN  NGHE  BÀN   TÁN   RÔM  RẢ  CŨNG  RA  GÓP  CHUYỆN
+VIVOSDEV05_202 hyp  CHỊ  NGÀY  CHỦ  QUẢN  NGÀY  BẠN  CÁNH  ĐỒNG  LÀ  CŨNG  RA  GÓC  CHUYỆN
+VIVOSDEV05_202 op    C     S    C     S     S    S     S     S    S    C    C   S      C  
+VIVOSDEV05_202 #csid 5 8 0 0
+VIVOSDEV05_206 ref  TỨC  KHẮC  ẬP  VỀ   KÉO  MỌI  NGƯỜI  THỨ  TRỞ  LẠI  THỜI  HOANG  SƠ
+VIVOSDEV05_206 hyp  TỨC  KHẮC  ÁP  VỀ  TREO  MỌI  NGƯỜI  THỨ  TRỞ  LẠI  THỜI  HOANG  SƠ
+VIVOSDEV05_206 op    C     C    S   C    S    C     C     C    C    C     C     C     C
+VIVOSDEV05_206 #csid 11 2 0 0
+VIVOSDEV05_209 ref  TÊN  GỌI  TẠI  ĐỊA  PHƯƠNG  LÀ  TRẮC  THỐI
+VIVOSDEV05_209 hyp  TÊN  GỌI  TÀI  ĐỊA  PHƯƠNG  LÀ  CÁCH  THỔI
+VIVOSDEV05_209 op    C    C    S    C      C     C    S     S 
+VIVOSDEV05_209 #csid 5 3 0 0
+VIVOSDEV05_212 ref  BỐN  CHIẾC  TRỐNG  ĐẠI  PHÈNG  LA
+VIVOSDEV05_212 hyp  MỘT  CHIẾC  TRONG  ĐÀI   PHÈN  LÀ
+VIVOSDEV05_212 op    S     C      S     S     S     S
+VIVOSDEV05_212 #csid 1 5 0 0
+VIVOSDEV05_226 ref  MỘT   CÚ   NGOẶT  KHÔNG  CHÍNH  XÁC
+VIVOSDEV05_226 hyp  MỘT  CUỐN   HOẶC  KHÔNG  CHÍNH  XÁC
+VIVOSDEV05_226 op    C     S     S      C      C     C 
+VIVOSDEV05_226 #csid 4 2 0 0
+VIVOSDEV05_231 ref  MỚI  ĐÂY  NHẤT  LÀ  CÁC  TIỂU  VƯƠNG  QUỐC  Ả  RẬP  THỐNG  NHẤT
+VIVOSDEV05_231 hyp  MỚI  ĐÂY  NHẤT  LÀ  CÁC  KIỂU   QUẦN  QUẬT  Ả  RẬP  THỐNG  NHẤT
+VIVOSDEV05_231 op    C    C     C    C   C     S     S      S   C   C     C      C 
+VIVOSDEV05_231 #csid 9 3 0 0
+VIVOSDEV05_238 ref  CỘNG  ĐỒNG  NGƯỜI  MÊ  TOÁN  HỌC  TRÊN  TOÀN  THẾ  GIỚI
+VIVOSDEV05_238 hyp  CỘNG  ĐỒNG  NGƯỜI  MÊ  TOÀN  HỌC  TRÊN  TOÀN  THẾ  GIỚI
+VIVOSDEV05_238 op     C     C     C     C    S    C     C     C    C     C 
+VIVOSDEV05_238 #csid 9 1 0 0
+VIVOSDEV05_249 ref  TÔI  NGHĨ  THỦ  TƯỚNG  SẼ  KHÔNG  NÉ  TRÁNH  BẤT  CỨ  CÂU  HỎI  NÀO
+VIVOSDEV05_249 hyp  TÔI  NGHỊ  THỦ  TƯỚNG  SẼ  KHÔNG  NÉ  TRÁNH  BẬT  TỪ  CÂU  HỎI  NÀO
+VIVOSDEV05_249 op    C     S    C     C     C    C     C    C     S    S   C    C    C 
+VIVOSDEV05_249 #csid 10 3 0 0
+VIVOSDEV05_251 ref  BỌN  BUÔN  LẬU  MA  TÚY  VÀ  VŨ  KHÍ
+VIVOSDEV05_251 hyp  BỌN  BUÔN  LẬU  MÀ  TÔI  VÀ  VỤ  KHI
+VIVOSDEV05_251 op    C     C    C    S   S    C   S   S 
+VIVOSDEV05_251 #csid 4 4 0 0
+VIVOSDEV05_261 ref  LẠI  QUAY  RA  TẬP  VIẾT  BÁO  RỒI   GỬI   VU   VƠ
+VIVOSDEV05_261 hyp  LẠI  QUAY  RA  TẬP  VIẾT  BÁO  RỒI  NGƯỜI  VỤ  VỜI
+VIVOSDEV05_261 op    C     C    C   C     C    C    C     S     S   S 
+VIVOSDEV05_261 #csid 7 3 0 0
+VIVOSDEV05_263 ref  NGHE  TIẾNG  XÌNH  XỊCH  XA  XA  THÌ  ĐOÁN  TRÚNG  PHÓC  LÀ  HÚT  HẦM  CẦU
+VIVOSDEV05_263 hyp  NGÀY  TUYỂN  SINH   SẬP  XA  XA  THÌ  ĐÁNH  TRÚNG  PHÓC  LÀ  MỘT  HẦM  CẦU
+VIVOSDEV05_263 op     S     S      S     S    C   C   C     S     C      C    C   S    C    C 
+VIVOSDEV05_263 #csid 8 6 0 0
+VIVOSDEV05_270 ref  CHƯA  RỤC  RỊCH  GÌ
+VIVOSDEV05_270 hyp  CHƯA  RỤC  RỊCH  GÌ
+VIVOSDEV05_270 op     C    C     C    C
+VIVOSDEV05_270 #csid 4 0 0 0
+VIVOSDEV05_286 ref  THẾ  NHƯNG  KHI  GIÁ  PHÔI  THÉP  THẾ  GIỚI  CAO  DẦN
+VIVOSDEV05_286 hyp  THẾ  NHƯNG  KHI   RA  PHỐI   THỂ  THẾ  GIỚI  CAO  DÂN
+VIVOSDEV05_286 op    C     C     C    S     S     S    C     C    C    S 
+VIVOSDEV05_286 #csid 6 4 0 0
+VIVOSDEV05_295 ref  LÀM  HỎNG  CÁC  THIẾT  BỊ  CỦA  TÊN  LỬA
+VIVOSDEV05_295 hyp  LÀM  HỎNG  CÁC  THIẾT  BỊ  CỦA  TÊN  LỬA
+VIVOSDEV05_295 op    C     C    C     C     C   C    C    C 
+VIVOSDEV05_295 #csid 8 0 0 0
+VIVOSDEV06_001 ref  ĐƠN  GIẢN  LÀ   TÁN   GẪU   VỚI  NHAU
+VIVOSDEV06_001 hyp  ĐƠN  GIẢN  LÀ  THẰNG   ĐỦ  NGỒI   LÂU
+VIVOSDEV06_001 op    C     C    C    S     S     S     S 
+VIVOSDEV06_001 #csid 3 4 0 0
+VIVOSDEV06_006 ref  MÀ   DO  LỐI  SỐNG  CHUI  NHỦI  CỦA  CHÚNG
+VIVOSDEV06_006 hyp  MÀ  ***  RỒI  SỐNG   TUI  NUÔI  CỦA  CHÚNG
+VIVOSDEV06_006 op    C   D    S     C     S     S    C     C  
+VIVOSDEV06_006 #csid 4 3 0 1
+VIVOSDEV06_016 ref  RÂU  RIA  ĐÃ  BA  NGÀY  KHÔNG  CẠO
+VIVOSDEV06_016 hyp   RỦ   RÊ  ĐÀ  VÀ  NGÀY  PHÒNG  ĐÀO
+VIVOSDEV06_016 op    S    S    S   S    C     S     S 
+VIVOSDEV06_016 #csid 1 6 0 0
+VIVOSDEV06_021 ref  MỘT  ĐƯỜNG  HƯỚNG  CHUYÊN  NGHIỆP
+VIVOSDEV06_021 hyp  MỘT  ĐƯỜNG  HƯỚNG  CHUYÊN  NGHIỆP
+VIVOSDEV06_021 op    C     C      C       C       C  
+VIVOSDEV06_021 #csid 5 0 0 0
+VIVOSDEV06_022 ref   LÍNH   CỨU  HỎA  KHÓ  TIẾP  CẬN  HIỆN  TRƯỜNG
+VIVOSDEV06_022 hyp  NGHIÊN  CỨU  HOA   CÓ   THỂ  CẦN  HIỆN  TRƯỜNG
+VIVOSDEV06_022 op      S     C    S    S     S    S     C      C  
+VIVOSDEV06_022 #csid 3 5 0 0
+VIVOSDEV06_034 ref  NHỮNG  NGƯỜI   TRÊN  GHE  CỦA  CÔNG  AN  ĐÃ  NHẮM  THẲNG  VÀO  GHE  ANH  CHỦ
+VIVOSDEV06_034 hyp   ***    LỜI   TRÌNH   ĐỀ  CỦA  CÔNG  AN  ĐÃ  NHẬN  THẲNG  VÀO   ĐỀ   ÁN  CHỦ
+VIVOSDEV06_034 op     D      S      S     S    C     C    C   C    S     C     C    S    S    C 
+VIVOSDEV06_034 #csid 7 6 0 1
+VIVOSDEV06_037 ref  ĐỪNG  BUỒN  VÌ   TỰ  GIẰN  VẶT  MÌNH  NỮA
+VIVOSDEV06_037 hyp  ĐỪNG  BUỒN  VÌ  TỚI  RĂNG  BẮT  MINH  NGỜ
+VIVOSDEV06_037 op     C     C    C   S     S    S     S    S 
+VIVOSDEV06_037 #csid 3 5 0 0
+VIVOSDEV06_040 ref  VÀ  HÍT  VÀO  MŨI  LÀM  CHẤT  NÀY  LOÃNG  RA
+VIVOSDEV06_040 hyp  VÀ  ***  VÀO  MỖI  LẦN  CHẤT  NÀY   LẦN   RA
+VIVOSDEV06_040 op    C   D    C    S    S     C    C     S     C
+VIVOSDEV06_040 #csid 5 3 0 1
+VIVOSDEV06_042 ref  ĐANG  HẤP  DẪN  CÁC  TẬP  ĐOÀN  PHÂN  PHỐI  ĐA  QUỐC  GIA
+VIVOSDEV06_042 hyp  ĐOÀN  LẬP   ĐỀ  CÁC  TẬP  ĐOÀN   VỀ    TỐI  ĐA  QUỐC  GIA
+VIVOSDEV06_042 op     S    S    S    C    C     C     S     S    C    C    C 
+VIVOSDEV06_042 #csid 6 5 0 0
+VIVOSDEV06_054 ref  DÙ  LÀ  ĐẬU   SỨC  MẠNH  HOẶC  CẢI  BÔNG  KHỦNG  LONG
+VIVOSDEV06_054 hyp  DÙ  LÀ  ĐẦU  XƯỚC  MĂNG   MỌC   KỀ  BỔNG  KHỦNG  LÒNG
+VIVOSDEV06_054 op    C   C   S     S     S     S    S     S     C      S 
+VIVOSDEV06_054 #csid 3 7 0 0
+VIVOSDEV06_061 ref  VÌ  NÓ  KHÔNG  NHẮC  ĐẾN  NHỮNG  CUỘC  TẤN  CÔNG  NHẮM  VÀO  NGƯỜI  DO  THÁI
+VIVOSDEV06_061 hyp  VÌ  NÓ   CÒN   NHẮC  ĐẾN   NÊN   CUỘC  TẤN  CÔNG  NHẮM  VÀO  NGƯỜI  DO  THÁI
+VIVOSDEV06_061 op    C   C    S      C    C     S      C    C     C     C    C     C     C    C 
+VIVOSDEV06_061 #csid 12 2 0 0
+VIVOSDEV06_070 ref  RỒI  KHỀ  KHÀ  ĐÔI  CÂU  VỌNG  CỔ  VỚI   CHÂN  CHUỘT
+VIVOSDEV06_070 hyp  RỒI  THÌ   RA  ĐÔI   CỔ  VÙNG  CỔ  VỚI  CHỨNG  CHUỘT
+VIVOSDEV06_070 op    C    S    S    C    S     S    C   C     S      C  
+VIVOSDEV06_070 #csid 5 5 0 0
+VIVOSDEV06_078 ref  Ở  LỚP  NẤU  ĂN  GIA  ĐÌNH
+VIVOSDEV06_078 hyp  Ở  LỚP  NẤU  ĂN  GIA  ĐÌNH
+VIVOSDEV06_078 op   C   C    C    C   C     C 
+VIVOSDEV06_078 #csid 6 0 0 0
+VIVOSDEV06_079 ref  MÀ  BẠN  CÓ  THỂ  THAM  KHẢO  ĐỂ  LÀM  ĐẸP  GIAN  BẾP
+VIVOSDEV06_079 hyp  MÀ  BẠN  CÓ  THỂ  THAM  KHẢO  ĐỂ  LÀM  ĐẸP   GIẺ  MỀM
+VIVOSDEV06_079 op    C   C    C   C     C     C    C   C    C     S    S 
+VIVOSDEV06_079 #csid 9 2 0 0
+VIVOSDEV06_098 ref  CÁI  VỊ  CHÁT  CHÁT  VÀ  ĐẮNG  NGẮT  CỦA  CÀ  PHÊ  NGUYÊN  CHẤT
+VIVOSDEV06_098 hyp  TÂY  VÌ  CHẾT  CHẠC  VÀ  ĐẮNG  NGẮT  CỦA  CÀ  PHÊ  NGUYÊN  CHẤT
+VIVOSDEV06_098 op    S    S    S     S    C    C     C    C    C   C      C      C 
+VIVOSDEV06_098 #csid 8 4 0 0
+VIVOSDEV06_103 ref  CÁC  EM  NHỎ  SẼ  KHÔNG  CÒN  PHẢI  ĐI  TRÊN  NHỮNG  CHUYẾN  ĐÒ  NGUY  HIỂM
+VIVOSDEV06_103 hyp  CÁC  EM  NHỎ  SẼ  KHÔNG  CÒN  PHẢI  ĐI  TRÊN   ***   CHUYỆN  ĐÓ  NGUY  HIỂM
+VIVOSDEV06_103 op    C    C   C    C    C     C     C    C    C     D       S     S    C     C 
+VIVOSDEV06_103 #csid 11 2 0 1
+VIVOSDEV06_108 ref  LÀM  CÔ  NÀNG  RỌ  RẠY  THỨC  TRẮNG  CẢ  ĐÊM
+VIVOSDEV06_108 hyp  LÀM  CÔ  NÀNG  RÕ  RỆT  THỰC  TRẠNG  CẢ  ĐÊM
+VIVOSDEV06_108 op    C    C    C    S   S     S     S     C   C 
+VIVOSDEV06_108 #csid 5 4 0 0
+VIVOSDEV06_117 ref  GIẢI   QUYẾT  KHỐI  UNG  NHỌT  NÀY  PHẢI  CẦN  ĐẾN  MỘT  CUỘC  ĐẠI  PHẪU  NGHIÊM  TÚC
+VIVOSDEV06_117 hyp   ĐỀU  NGUYÊN  KHỐI  ***   HỌC   NỀ   VỀ   CẦN  ĐẾN  MỘT  CUỘC  ĐỜI   THỦ  NGHIÊM  TÚC
+VIVOSDEV06_117 op     S      S      C    D     S    S     S    C    C    C     C    S     S      C     C 
+VIVOSDEV06_117 #csid 7 7 0 1
+VIVOSDEV06_126 ref  THẬM  CHÍ   CÀNG  GIỐNG   ÁO   QUÍ   NÀNG  CÀNG   MỐT
+VIVOSDEV06_126 hyp  THẬM  CHÍ  TRANG   DỤNG  NÀO  QUYỀN  NGÀY  CÀNG  MỎNG
+VIVOSDEV06_126 op     C    C     S      S     S     S      S     C     S 
+VIVOSDEV06_126 #csid 3 6 0 0
+VIVOSDEV06_139 ref  CÒN   BỘ  KHANG  HI  TỪ  ĐIỂN
+VIVOSDEV06_139 hyp  CÒN  ***   MỘT   HỀ  TỬ   ĐỀN
+VIVOSDEV06_139 op    C    D     S     S   S    S 
+VIVOSDEV06_139 #csid 1 4 0 1
+VIVOSDEV06_143 ref  ĐÔI  MÔI  MẸ  PHAI   SON  MẤP  MÁY  MỘT   LỜI   CA  HOANG  HOẢI
+VIVOSDEV06_143 hyp  ĐÔI  MÔI  MẸ  PHẢI  SỐNG  MỌC  MẤY  MỘT  NGƯỜI  RA   HOÀN   BẢY
+VIVOSDEV06_143 op    C    C    C    S     S    S    S    C     S     S    S      S 
+VIVOSDEV06_143 #csid 4 8 0 0
+VIVOSDEV06_157 ref  SỐ  KHÁC  SUY  ĐOÁN  RẰNG  ANH  TA  HÀNH  ĐỘNG  ÁC  TÂM  VẬY
+VIVOSDEV06_157 hyp  SỐ  KHÁC  SUY  ĐOÁN  RẰNG   ĂN  VÀ  HÀNH  ĐỘNG  BÀ  TÂM  VẬY
+VIVOSDEV06_157 op    C    C    C     C     C    S    S    C     C    S   C    C 
+VIVOSDEV06_157 #csid 9 3 0 0
+VIVOSDEV06_168 ref  LÀM  KHUNG
+VIVOSDEV06_168 hyp  LÀM  KHUÔN
+VIVOSDEV06_168 op    C     S  
+VIVOSDEV06_168 #csid 1 1 0 0
+VIVOSDEV06_184 ref  HOẶC  BẠN  SẼ  ĐẾN  ĐẤY  VỚI  MỘT  TÂM  TRẠNG  CHÁN  NGÁN   VÔ   CÙNG
+VIVOSDEV06_184 hyp  HOẶC  BẠN  SẼ  ĐẾN  ĐÂY  VỚI  MỘT  TÂM  TRẠNG  TRÊN  NGÀN  BUỒN  CÙNG
+VIVOSDEV06_184 op     C    C    C   C    S    C    C    C     C      S     S     S     C 
+VIVOSDEV06_184 #csid 9 4 0 0
+VIVOSDEV06_195 ref  PHẢI  ĐƯỢC  THỰC  HIỆN  TRÊN  CƠ  SỞ
+VIVOSDEV06_195 hyp  PHẢI  ĐƯỢC  THỰC  HIỆN  TRÊN  CƠ  SỞ
+VIVOSDEV06_195 op     C     C     C     C     C    C   C
+VIVOSDEV06_195 #csid 7 0 0 0
+VIVOSDEV06_210 ref  HAI  MƯƠI  SÁU  HAI  MƯƠI  BẢY
+VIVOSDEV06_210 hyp  HAI  MƯƠI  SÁU  HAI  MƯƠI  BẢY
+VIVOSDEV06_210 op    C     C    C    C     C    C 
+VIVOSDEV06_210 #csid 6 0 0 0
+VIVOSDEV06_212 ref  BA  MƯƠI  BA  MƯƠI  MỐT
+VIVOSDEV06_212 hyp  BÀ   MỚI  BÀ  MƯỜI  MỘT
+VIVOSDEV06_212 op    S    S    S    S    S 
+VIVOSDEV06_212 #csid 0 5 0 0
+VIVOSDEV06_222 ref  NĂM  MƯƠI  NĂM  MƯƠI  MỐT
+VIVOSDEV06_222 hyp   MÀ  MƯỜI  LĂM  MƯỜI  MỘT
+VIVOSDEV06_222 op    S     S    S     S    S 
+VIVOSDEV06_222 #csid 0 5 0 0
+VIVOSDEV06_240 ref  TÁM  MƯƠI  SÁU  TÁM  MƯƠI  BẢY
+VIVOSDEV06_240 hyp  TÁM  MƯƠI  SÁU  TÁM  MƯƠI  BẢY
+VIVOSDEV06_240 op    C     C    C    C     C    C 
+VIVOSDEV06_240 #csid 6 0 0 0
+VIVOSDEV06_241 ref  TÁM  MƯƠI  TÁM  TÁM  MƯƠI  CHÍN
+VIVOSDEV06_241 hyp  TÁM  MƯƠI  TÁM  TÁM  MƯƠI  CHÍN
+VIVOSDEV06_241 op    C     C    C    C     C     C 
+VIVOSDEV06_241 #csid 6 0 0 0
+VIVOSDEV06_247 ref  MỘT  TRĂM  MỘT  HAI  BA
+VIVOSDEV06_247 hyp  MỘT  TRĂM  MỘT  HAI  VÀ
+VIVOSDEV06_247 op    C     C    C    C    S
+VIVOSDEV06_247 #csid 4 1 0 0
+VIVOSDEV06_248 ref  MỘT  BA  NĂM  BẢY  CHÍN
+VIVOSDEV06_248 hyp  MỘT  BA  NĂM  BẢY  CHÍN
+VIVOSDEV06_248 op    C    C   C    C     C 
+VIVOSDEV06_248 #csid 5 0 0 0
+VIVOSDEV06_252 ref   NÓI  TRƯỚC  BƯỚC  KHÔNG  QUA
+VIVOSDEV06_252 hyp  NGỒI  TRƯỚC   BỐ   KHÔNG  QUA
+VIVOSDEV06_252 op     S     C      S     C     C 
+VIVOSDEV06_252 #csid 3 2 0 0
+VIVOSDEV06_253 ref  CHẲNG  LÀ  MẤY  HÔM  NAY  TÔI  ĐAU  BỤNG  QUÁ
+VIVOSDEV06_253 hyp   TRẦN  LÀ  MẤY  HÔM  NAY  TÔI  ĐẦU  VÙNG  QUA
+VIVOSDEV06_253 op     S     C   C    C    C    C    S     S    S 
+VIVOSDEV06_253 #csid 5 4 0 0
+VIVOSDEV06_261 ref  SAO  KẾT  QUẢ  RA   TỆ  VẬY
+VIVOSDEV06_261 hyp  SAU  KẾT  QUẢ  RA  TỚI  VẬY
+VIVOSDEV06_261 op    S    C    C    C   S    C 
+VIVOSDEV06_261 #csid 4 2 0 0
+VIVOSDEV06_272 ref  TÔI  CHỈ  MUỐN  XEM  NHỮNG  ĐOẠN  HAY  MÀ  THÔI
+VIVOSDEV06_272 hyp  TÔI  CHỈ  MUỐN   SẼ   LIÊN  ĐOÀN  NÀY  MÀ  THÔI
+VIVOSDEV06_272 op    C    C     C    S     S      S    S    C    C 
+VIVOSDEV06_272 #csid 5 4 0 0
+VIVOSDEV06_285 ref  CÔNG  TY  TRÁCH  NHIỆM  HỮU  HẠN  ĂN  UỐNG
+VIVOSDEV06_285 hyp  CÔNG  TY  TRÁCH  NHIỆM  HỮU  HẠN  ĂN  UỐNG
+VIVOSDEV06_285 op     C    C    C      C     C    C    C    C 
+VIVOSDEV06_285 #csid 8 0 0 0
+VIVOSDEV06_286 ref   PHÍ  CHUYỂN  GIAO  CÔNG  NGHỆ  LÀ  BA  CHỤC  NGÀN  ĐỒNG
+VIVOSDEV06_286 hyp  TIÊU  CHUYỂN  GIAO  CÔNG  NGHỆ  LÀ  BA  CHỤC  NGÀN  ĐỒNG
+VIVOSDEV06_286 op     S      C      C     C     C    C   C    C     C     C 
+VIVOSDEV06_286 #csid 9 1 0 0
+VIVOSDEV06_287 ref  LƯƠNG  BA  CỌC  BA  ĐỒNG   THÌ   NUÔI  ĐƯỢC  AI
+VIVOSDEV06_287 hyp  LƯƠNG  BA  CỌC  BA  ĐỒNG  NGƯỜI  NUÔI  ĐƯỢC  AI
+VIVOSDEV06_287 op     C     C   C    C    C     S      C     C    C
+VIVOSDEV06_287 #csid 8 1 0 0
+VIVOSDEV06_296 ref  CÔ  ẤY  ĐÃ  QUÁ  CHÉN
+VIVOSDEV06_296 hyp  CÔ  ẤY  ĐÃ  QUÁ  CHÉN
+VIVOSDEV06_296 op    C   C   C   C     C 
+VIVOSDEV06_296 #csid 5 0 0 0
+VIVOSDEV07_002 ref  HẰNG  NĂM  CHÚNG    TA   THẢI   RA   HÀNG  TỈ  THIẾT  BỊ  ĐIỆN  TỬ
+VIVOSDEV07_002 hyp  HẰNG  NĂM   ***   CHUNG   VÀ   THỜI   ĐỀ   VỀ  THIẾT  BỊ  ĐIỆN  TỬ
+VIVOSDEV07_002 op     C    C     D      S      S     S     S    S    C     C    C    C
+VIVOSDEV07_002 #csid 6 5 0 1
+VIVOSDEV07_025 ref  CHO  NHỮNG  CHUYẾN   DÃ  NGOẠI  CỦA  DU  KHÁCH
+VIVOSDEV07_025 hyp  CHO  NHỮNG   CHIẾN  GIỜ   NGỒI  CỦA  DÙ   THẬT
+VIVOSDEV07_025 op    C     C       S     S     S     C    S    S  
+VIVOSDEV07_025 #csid 3 5 0 0
+VIVOSDEV07_030 ref  NHỮNG  NHƯỢC  ĐIỂM   CỦA  MÌNH
+VIVOSDEV07_030 hyp  NHỮNG   DƯỢC   ĐÊM  CUỐI  TUẦN
+VIVOSDEV07_030 op     C      S      S     S     S 
+VIVOSDEV07_030 #csid 1 4 0 0
+VIVOSDEV07_036 ref  VÌ  ĐÓ  MỚI  CHÍNH  LÀ  THỨ  BẠN  CẦN
+VIVOSDEV07_036 hyp  VÌ  ĐÓ  MỚI  CHÍNH  LÀ  THỨ  BẠN  CẦN
+VIVOSDEV07_036 op    C   C   C     C     C   C    C    C 
+VIVOSDEV07_036 #csid 8 0 0 0
+VIVOSDEV07_039 ref  GIÓ  TRỜI  KHÔNG  THỂ  THÔNG   THỐC  THỔI  VÀO  KHAI  TRUNG
+VIVOSDEV07_039 hyp   DO  TRỜI  KHÔNG  THỂ  KHÔNG  THỐNG   THỔ  BẦU  KHAI  TRÙNG
+VIVOSDEV07_039 op    S     C     C     C     S      S      S    S     C     S  
+VIVOSDEV07_039 #csid 4 6 0 0
+VIVOSDEV07_044 ref  BỞI  CƠ  QUAN  CHUYÊN  MÔN  HOẶC  THUÊ  TỔ  CHỨC  KIỂM  TOÁN  ĐỘC  LẬP
+VIVOSDEV07_044 hyp  BỞI  CƠ  QUAN  CHUYÊN  MÔN  HOẶC  THỜI  TỔ  CHỨC  KIỂM  TOÁN  ĐỘC  LẬP
+VIVOSDEV07_044 op    C    C    C      C     C     C     S    C    C     C     C    C    C 
+VIVOSDEV07_044 #csid 12 1 0 0
+VIVOSDEV07_045 ref  HOẶC  CHO  VÀO  VẠI  MUỐI   ĐỂ  LỢN  ĂN  DẦN
+VIVOSDEV07_045 hyp  HOẶC  CHO  VÀO  VAI   MÙI  ĐẾN  GẦN  ĂN  DẦN
+VIVOSDEV07_045 op     C    C    C    S     S    S    S    C   C 
+VIVOSDEV07_045 #csid 5 4 0 0
+VIVOSDEV07_064 ref  CỨ   CHỤM   CÁC  ĐẦU  NGÓN  TAY  LẠI  MỘT  CHỖ
+VIVOSDEV07_064 hyp  CỨ  CHUẨN  CHẤT  ĐẦU  NGÓN  TAY  LẤY  MỘT  CHỖ
+VIVOSDEV07_064 op    C    S      S    C     C    C    S    C    C 
+VIVOSDEV07_064 #csid 6 3 0 0
+VIVOSDEV07_066 ref  ĐÃ  CÓ  DỰ  ÁN  ĐỂ  XÂY  DỰNG  MỘT  CÁI  CẦU  TỪ  ĐẤT  LIỀN
+VIVOSDEV07_066 hyp  ĐÃ  CÓ  DỰ  ÁN  ĐỂ  XÂY  DỰNG  MỘT  CÁI  CẦU  TỪ  ĐẤT  LIỀN
+VIVOSDEV07_066 op    C   C   C   C   C   C     C    C    C    C    C   C     C 
+VIVOSDEV07_066 #csid 13 0 0 0
+VIVOSDEV07_067 ref  CHẠM  VÀO  PHẦN  THÓP  MỀM  TRÊN  ĐẦU   BÉ
+VIVOSDEV07_067 hyp  TRÀN  VÀO  PHẤN  KHÁC  MỀM  TRÊN  ĐẦU  BẾP
+VIVOSDEV07_067 op     S    C     S     S    C     C    C    S 
+VIVOSDEV07_067 #csid 4 4 0 0
+VIVOSDEV07_084 ref  THÌ  BỖNG  NGHE  THẤY  TIẾNG  OÁC  OÁC  TỪ  VẠT  RỪNG  PHI  LAO
+VIVOSDEV07_084 hyp  THÌ   ***   BỘ   NGHỀ  TUYẾN  QUA  CÁC  TỪ  VẶT  MIỄN  PHÍ  RAO
+VIVOSDEV07_084 op    C     D     S     S     S     S    S    C   S     S    S    S 
+VIVOSDEV07_084 #csid 2 9 0 1
+VIVOSDEV07_093 ref  PHỤC  VỤ   CHO   MÙA  THI  ĐẠI  HỌC  ĐANG  ĐẾN   SÁT  SẠT
+VIVOSDEV07_093 hyp  PHỤC  VỤ  TRONG  MÙA  THI  ĐẠI  HỌC  ĐOÀN  ĐẾN  KHÁC  SỆT
+VIVOSDEV07_093 op     C    C    S     C    C    C    C     S    C     S    S 
+VIVOSDEV07_093 #csid 7 4 0 0
+VIVOSDEV07_098 ref  TRẬN  CHIẾN  XÍCH  BÍCH
+VIVOSDEV07_098 hyp  TRẬN  CHÍNH   SỨC   BẬT
+VIVOSDEV07_098 op     C     S      S     S 
+VIVOSDEV07_098 #csid 1 3 0 0
+VIVOSDEV07_107 ref  NGUYÊN  THỨ  TRƯỞNG  BỘ  ĐẠI  HỌC  VÀ  GIÁO  DỤC  CHUYÊN  NGHIỆP  CŨ
+VIVOSDEV07_107 hyp    NÊN   THỨ  TRƯỞNG  BỘ  ĐỜI  HỌC  VÀ  GIÁO  DỤC  CHUYÊN  NGHIỆP  CŨ
+VIVOSDEV07_107 op      S     C      C     C   S    C    C    C    C      C       C     C
+VIVOSDEV07_107 #csid 10 2 0 0
+VIVOSDEV07_115 ref  VÀO  CƠ  QUAN   LÀ  ANH  HÓT  GIỐNG  HỆT  NHỒNG  MỚI  LỘT  LƯỠI  VẬY
+VIVOSDEV07_115 hyp  BÁO  CƠ  QUAN  ***   VÀ   NÓ  GIỐNG  HỆT   NHẬN  HỐI   LỘ  LƯỠI  BẢY
+VIVOSDEV07_115 op    S    C    C    D    S    S     C     C     S     S    S     C    S 
+VIVOSDEV07_115 #csid 5 7 0 1
+VIVOSDEV07_125 ref  ÁNG  CHỪNG   ĐÃ  NGOẠI  BẢY  MƯƠI
+VIVOSDEV07_125 hyp   ÁN  CHỪNG  NÀO  NGOÀI  BẢY  MƯỜI
+VIVOSDEV07_125 op    S     C     S     S     C     S 
+VIVOSDEV07_125 #csid 2 4 0 0
+VIVOSDEV07_127 ref  CÓ  HAI  TÁC  DỤNG  TÍCH  CỰC
+VIVOSDEV07_127 hyp  CÓ  HAI  TỚI  DUNG  TÍCH  CỰC
+VIVOSDEV07_127 op    C   C    S     S     C    C 
+VIVOSDEV07_127 #csid 4 2 0 0
+VIVOSDEV07_134 ref  THAM   GIA  GIẢNG   DẠY  LÀ  LỰC  LƯỢNG  ĐOÀN  VIÊN
+VIVOSDEV07_134 hyp   NAM  GIỚI  RIÊNG  GIẤY  LÀ  LỰC  LƯỢNG  ĐOÀN  VIÊN
+VIVOSDEV07_134 op     S     S     S      S    C   C     C      C     C 
+VIVOSDEV07_134 #csid 5 4 0 0
+VIVOSDEV07_138 ref  ĐÓ   HẲN  LÀ  MỘT  MÓN  QUÀ
+VIVOSDEV07_138 hyp  ĐÓ  HẰNG  LÀ  MỘT  MÓN  QUA
+VIVOSDEV07_138 op    C    S    C   C    C    S 
+VIVOSDEV07_138 #csid 4 2 0 0
+VIVOSDEV07_141 ref  VÀ  KHI  THẤY  TÔI  VẪN  KIÊN  ĐỊNH  TRẢ  LỜI   TRỚT  QUỚT
+VIVOSDEV07_141 hyp  VÀ  KHI  THẤY  TÔI  VẪN  KIÊN  ĐỊNH  TRẢ  LỜI  TRƯỚC   LỚP
+VIVOSDEV07_141 op    C   C     C    C    C     C     C    C    C     S      S 
+VIVOSDEV07_141 #csid 9 2 0 0
+VIVOSDEV07_151 ref   RÔ  BÓT  THÔNG  MINH
+VIVOSDEV07_151 hyp  RỒI   BỎ  THÔNG  MINH
+VIVOSDEV07_151 op    S    S     C      C 
+VIVOSDEV07_151 #csid 2 2 0 0
+VIVOSDEV07_156 ref  ĐẦU  TIÊN  LÀ  BÀ  CON  MÌNH  VẬT   VÃ  LÀM  ĂN
+VIVOSDEV07_156 hyp  ĐẦU  TIÊN  LÀ  BÀ  CON  MÌNH  VẬT  ***  ***  VÀ
+VIVOSDEV07_156 op    C     C    C   C   C     C    C    D    D    S
+VIVOSDEV07_156 #csid 7 1 0 2
+VIVOSDEV07_168 ref  MÀ  CHO  ĐẾN  LÚC  ĐÓ  ĐƯỢC  XEM  LÀ  CỦA  TƯ  NHÂN
+VIVOSDEV07_168 hyp  MÀ  CHO  ĐẾN  LÚC  ĐÓ  ĐƯỢC  XEM  LÀ  CỦA  TƯ  NHÂN
+VIVOSDEV07_168 op    C   C    C    C    C    C    C    C   C    C    C 
+VIVOSDEV07_168 #csid 11 0 0 0
+VIVOSDEV07_170 ref   NHƯ   LẦN  NÀY  ĐƯỢC  NẾM  MÓN  GIÒ  THỦ  HOÀN  TOÀN  LÀM  TỪ  TAI  HEO
+VIVOSDEV07_170 hyp  NHƯNG  LẦN  NÀY  ĐƯỢC   ĐỀ  MÓN  GIÒ  THỦ  HOÀN  TOÀN  LÀM  TỪ  TAI  HEO
+VIVOSDEV07_170 op     S     C    C     C    S    C    C    C     C     C    C    C   C    C 
+VIVOSDEV07_170 #csid 12 2 0 0
+VIVOSDEV07_182 ref  NHỮNG  NGƯỜI  HOÀI  NGHI  NÓI  RẰNG  GIỮ  ĐƯỢC  VẬT  TREO  LỦNG  LẲNG  TRÊN  NGƯỜI
+VIVOSDEV07_182 hyp  NHỮNG  NGƯỜI  HOÀI  NGHI  NÓI  RẰNG  GIỮ  ĐƯỢC  VỰC  TREO  LỦNG  LẲNG  TRÊN  NGƯỜI
+VIVOSDEV07_182 op     C      C      C     C    C     C    C     C    S     C     C     C     C     C  
+VIVOSDEV07_182 #csid 13 1 0 0
+VIVOSDEV07_185 ref   CHÍU   CHÍT   GỢI  TÌNH  MẸ  CON   SUM  HỌP
+VIVOSDEV07_185 hyp  CHIỀU  CHIẾC  GIỚI  TÍNH  MẸ  CON  SÔNG  HỌP
+VIVOSDEV07_185 op     S      S      S     S    C   C     S    C 
+VIVOSDEV07_185 #csid 3 5 0 0
+VIVOSDEV07_190 ref  NƠI   CÓ  MẤY  TÊN  TRÔNG  RẤT   GẤU
+VIVOSDEV07_190 hyp  NƠI  ***  ***   Ở   TRONG  RẤT  KHẨU
+VIVOSDEV07_190 op    C    D    D    S     S     C     S 
+VIVOSDEV07_190 #csid 2 3 0 2
+VIVOSDEV07_192 ref  NHIỀU  NGƯỜI  CHO  BIẾT
+VIVOSDEV07_192 hyp  NHIỀU  NGƯỜI  CHO  BIẾT
+VIVOSDEV07_192 op     C      C     C     C 
+VIVOSDEV07_192 #csid 4 0 0 0
+VIVOSDEV07_194 ref  NHIỀU  TRỤ  ĐÁ   DI   TÍCH  NẰM  NGHIÊNG  NGẢ  VÀ  VỠ  NÁT
+VIVOSDEV07_194 hyp  NHIỀU  TRỤ  ĐA  DIỆN  TÍCH  NAM    DIỄN    RA  VÀ  VỠ  NÁT
+VIVOSDEV07_194 op     C     C    S    S     C    S      S      S    C   C   C 
+VIVOSDEV07_194 #csid 6 5 0 0
+VIVOSDEV07_195 ref  HỌ  CŨNG  LUÔN  TRÁNH  XA  NHỮNG  TÌNH  HUỐNG  CÓ  THỂ  GÂY  HẠI  CHO  HỌ
+VIVOSDEV07_195 hyp  HÒ  CÙNG  LUÔN  TRÁNH  XA  NHƯNG   TÔI   MUỐN  CÓ  THỂ  GÂY  HẠI  CHO  HỌ
+VIVOSDEV07_195 op    S    S     C     C     C    S      S     S     C   C    C    C    C    C
+VIVOSDEV07_195 #csid 9 5 0 0
+VIVOSDEV07_197 ref  TRONG  CUỘC  SỐNG  CỦA  TÔI  CHÚNG  KHÔNG  DÙNG  ĐỂ  KIẾM  RA   LỢI   NHUẬN
+VIVOSDEV07_197 hyp  TRONG  CUỘC  SỐNG  CỦA  TÔI  CHÚNG  KHÔNG  DÙNG  ĐỂ  KIẾM  LÀ  NGƯỜI   NHẬN
+VIVOSDEV07_197 op     C      C     C    C    C     C      C      C    C    C    S    S      S  
+VIVOSDEV07_197 #csid 10 3 0 0
+VIVOSDEV07_209 ref  HAI  MƯƠI  BỐN  HAI  MƯƠI  LĂM
+VIVOSDEV07_209 hyp  HAI  MƯƠI  BỐN  HAI  MƯƠI  LĂM
+VIVOSDEV07_209 op    C     C    C    C     C    C 
+VIVOSDEV07_209 #csid 6 0 0 0
+VIVOSDEV07_211 ref  HAI  MƯƠI  TÁM  HAI  MƯƠI  CHÍN
+VIVOSDEV07_211 hyp  ***   HÀN  CAN  HAI  MƯƠI  CHÍN
+VIVOSDEV07_211 op    D     S    S    C     C     C 
+VIVOSDEV07_211 #csid 3 2 0 1
+VIVOSDEV07_223 ref  NĂM  MƯƠI  HAI  NĂM  MƯƠI  BA
+VIVOSDEV07_223 hyp  NĂM  MƯƠI  HAI  NĂM  MƯƠI  BA
+VIVOSDEV07_223 op    C     C    C    C     C    C
+VIVOSDEV07_223 #csid 6 0 0 0
+VIVOSDEV07_231 ref  SÁU  MƯƠI  TÁM  SÁU  MƯƠI  CHÍN
+VIVOSDEV07_231 hyp  SÁU  MƯƠI  TÁM  SÁU  MƯƠI  CHÍN
+VIVOSDEV07_231 op    C     C    C    C     C     C 
+VIVOSDEV07_231 #csid 6 0 0 0
+VIVOSDEV07_236 ref  BẢY  MƯƠI  TÁM  BẢY  MƯƠI  CHÍN
+VIVOSDEV07_236 hyp  BẢY  MƯƠI  TÁM  BẢY  MƯƠI  CHÍN
+VIVOSDEV07_236 op    C     C    C    C     C     C 
+VIVOSDEV07_236 #csid 6 0 0 0
+VIVOSDEV07_246 ref  CHÍN  MƯƠI  TÁM  CHÍN  MƯƠI  CHÍN
+VIVOSDEV07_246 hyp  CHÍN  MƯƠI  TÁM  CHÍN  MƯƠI  CHÍN
+VIVOSDEV07_246 op     C     C    C     C     C     C 
+VIVOSDEV07_246 #csid 6 0 0 0
+VIVOSDEV07_264 ref  BUỔI  SÁNG  THÀNH  PHỐ  Ô  NHIỄM  HƠN  BUỔI  TRƯA
+VIVOSDEV07_264 hyp  BUỔI  SÁNG  THÀNH  PHỐ  Ô  NHIỄM  HƠN  BUỔI  TRƯA
+VIVOSDEV07_264 op     C     C     C     C   C    C     C     C     C 
+VIVOSDEV07_264 #csid 9 0 0 0
+VIVOSDEV07_266 ref  NÓNG  GIẬN  TÔI  ĐÃ  LĂNG  MẠ  ANH
+VIVOSDEV07_266 hyp  NÓNG  GIẬN  TÔI  ĐÃ  LĂNG  MẠ  ANH
+VIVOSDEV07_266 op     C     C    C    C    C    C   C 
+VIVOSDEV07_266 #csid 7 0 0 0
+VIVOSDEV07_295 ref  CHỦ  TÀU  CHO  BIẾT  SẼ  TIẾP  TỤC  THƯƠNG  THUYẾT  VỀ  SỐ  CHI  PHÍ  NÀY
+VIVOSDEV07_295 hyp  CHỦ  TÀU  CHO  BIẾT  SẼ  TIẾP  TỤC  THƯƠNG  THUYẾT  VỀ  SỐ  CHI  PHÍ  NÀY
+VIVOSDEV07_295 op    C    C    C     C    C    C    C      C       C     C   C   C    C    C 
+VIVOSDEV07_295 #csid 14 0 0 0
+VIVOSDEV08_002 ref  ĐỪNG  ĐỂ  CON  SÂU  ĂN
+VIVOSDEV08_002 hyp  ĐỪNG  ĐỂ  CON  SÂU  ĂN
+VIVOSDEV08_002 op     C    C   C    C    C
+VIVOSDEV08_002 #csid 5 0 0 0
+VIVOSDEV08_005 ref  CÂY  CỔ  THỤ  ẤY  BẤT  CHỢT  BỊ  BỆNH  TẬT  QUẬT  NGÃ
+VIVOSDEV08_005 hyp  CÂY  CỔ  THỤ  ẤY  BẤT  CHỢT  BỊ  BỆNH  TẬT  QUẬT  NGÃ
+VIVOSDEV08_005 op    C    C   C    C   C     C    C    C    C     C    C 
+VIVOSDEV08_005 #csid 11 0 0 0
+VIVOSDEV08_014 ref  VÀ  NẾU  BẠN  TRÓT  LÀM  LỘN  XỘN  MÀN  HÌNH  NỀN
+VIVOSDEV08_014 hyp  VÀ  NẾU  BẠN   TỐT   LÀ  MẪU   SỔ  MÀN  HÌNH  NAM
+VIVOSDEV08_014 op    C   C    C     S    S    S    S    C     C    S 
+VIVOSDEV08_014 #csid 5 5 0 0
+VIVOSDEV08_025 ref  ĐẠO  DIỄN  TRẺ  NÀY   CÓ  NHIỀU  ĐIỀU  NGẪM  NGỢI   VỀ  NGHỀ
+VIVOSDEV08_025 hyp   AO  LIỀN   KỀ   NỀ  CỦA  NHIỀU  ĐIỀU  NGẦM   MỜI  VỚI  NGHỀ
+VIVOSDEV08_025 op    S     S    S    S    S     C      C     S     S    S     C 
+VIVOSDEV08_025 #csid 3 8 0 0
+VIVOSDEV08_032 ref  SẼ  KHÔNG   KHIẾN   BẠN  TRÔNG   GẦY  NHƯ  NHỮNG  TRANG  PHỤC  MỘT  MÀU
+VIVOSDEV08_032 hyp  SẼ  KHÔNG  KHUYÊN  VÀNG  TRONG  NGHỀ  NHƯ  NHỮNG  TRANG  PHỤC   VỤ  VÀO
+VIVOSDEV08_032 op    C    C       S      S     S      S    C     C      C      C    S    S 
+VIVOSDEV08_032 #csid 6 6 0 0
+VIVOSDEV08_053 ref  BỞI  CƠ  QUAN  CHUYÊN  MÔN  HOẶC  THUÊ  TỔ  CHỨC  KIỂM  TOÁN  ĐỘC  LẬP
+VIVOSDEV08_053 hyp  BỞI  CƠ  QUAN  CHUYÊN  MÔN  HOẶC  THỜI  TỔ  CHỨC  KIỂM  TOÁN  ĐỘC  LẬP
+VIVOSDEV08_053 op    C    C    C      C     C     C     S    C    C     C     C    C    C 
+VIVOSDEV08_053 #csid 12 1 0 0
+VIVOSDEV08_057 ref  NÓ  LẬT  ĐẬT  ĐẠP  CHIẾC  XE   CÀ   TÀNG  BĂNG  NGAY  RA  ĐẦU  ĐƯỜNG
+VIVOSDEV08_057 hyp  NÓ  LẮP  ĐẶT  BẠT   CHỈ   SẼ  TRAO   TÀN  BẰNG  NGÀY  LÀ  ĐẦU  ĐƯỜNG
+VIVOSDEV08_057 op    C   S    S    S     S     S    S     S     S     S    S   C     C  
+VIVOSDEV08_057 #csid 3 10 0 0
+VIVOSDEV08_062 ref  HOẶC   CHỈ   BIỂU  HIỆN  BẰNG   CÁC  RỐI  LOẠN  CO  BÓP
+VIVOSDEV08_062 hyp   ***  THẬT  TUYỆT   VỜI  BẰNG  CÁCH  RỒI  LÒNG  CO  BÓP
+VIVOSDEV08_062 op     D     S     S      S     C     S    S     S    C   C 
+VIVOSDEV08_062 #csid 3 6 0 1
+VIVOSDEV08_071 ref  KHI  TÔI  LÀ  CON  BÉ  LỚP  BỐN  THÌ   CÂY   VẢ    ĐÃ  CAO  QUÁ  NÓC  NHÀ
+VIVOSDEV08_071 hyp   VÌ  TÔI  LÀ  CON  VỀ  LẬP  BỐN  ***  THỜI  TIỂU  QUẢ  CAO  QUÁ  ĐỌC  NHÀ
+VIVOSDEV08_071 op    S    C    C   C    S   S    C    D     S     S    S    C    C    S    C 
+VIVOSDEV08_071 #csid 7 7 0 1
+VIVOSDEV08_077 ref  BUỔI  ĐẦU  THẬT  KHÓ  KHĂN  THEO  ĐUỔI  CHƯƠNG  TRÌNH  HỌC
+VIVOSDEV08_077 hyp  BUỔI  ***   ĐÓ   KHÓ  KHĂN  THEO  ĐUỔI  CHƯƠNG  TRÌNH  HỌC
+VIVOSDEV08_077 op     C    D     S    C     C     C     C      C      C     C 
+VIVOSDEV08_077 #csid 8 1 0 1
+VIVOSDEV08_085 ref   VIỆC   ĐƯA    TÍN   HIỆU  TRUYỀN  HÌNH  TRỰC  TIẾP  BẰNG  HỆ  THỐNG  CÁP  QUANG
+VIVOSDEV08_085 hyp  NGƯỜI  ĐƯỢC  THƯƠNG  HIỆU  TRUYỀN  HÌNH  TRỰC  TIẾP  BẰNG  HỆ  THỐNG  CÁP  QUANG
+VIVOSDEV08_085 op     S      S      S      C      C      C     C     C     C    C    C     C     C  
+VIVOSDEV08_085 #csid 10 3 0 0
+VIVOSDEV08_090 ref   VÌ  KHÔNG   CÓ  TIỀN  ĐÓNG  HỌC  PHÍ
+VIVOSDEV08_090 hyp  VỚI  KHÔNG  MẤT  TIỀN  ĐÓNG  HỌC  VỚI
+VIVOSDEV08_090 op    S     C     S     C     C    C    S 
+VIVOSDEV08_090 #csid 4 3 0 0
+VIVOSDEV08_093 ref   THÌ  BỖNG   NGHE  MẤY  TIẾNG   OÁC  OÁC  TỪ  VẠT  RỪNG  PHI  LAO
+VIVOSDEV08_093 hyp  THỜI  HỒNG  NGHÈO  MỚI   TIN   QUẠT  MÁT  TỪ  VẬT  RỪNG  PHÍ  LÀO
+VIVOSDEV08_093 op     S     S     S     S     S      S    S    C   S     C    S    S 
+VIVOSDEV08_093 #csid 2 10 0 0
+VIVOSDEV08_100 ref  HAY  ĐẢM  BẢO  RẰNG  NGÀY  NÀO  CHÚNG  CŨNG  ĐƯỢC  ĐI  NHỮNG  ĐÔI   TẤT   SẠCH
+VIVOSDEV08_100 hyp  NÀY  ĐẢM  BẢO  RẰNG   ĐỂ   NÀO  CHÚNG  CŨNG  ĐƯỢC  ĐỀ  NHỮNG  ĐỐI  TƯỢNG   SÁP
+VIVOSDEV08_100 op    S    C    C     C     S    C     C      C     C    S    C     S     S      S 
+VIVOSDEV08_100 #csid 8 6 0 0
+VIVOSDEV08_127 ref  VỀ  VIỆC  MANG  ĐẾN  CHO   CÁC  EM  NIỀM  VUI  HỌC
+VIVOSDEV08_127 hyp  VỀ  VIỆC  MANG  ĐẾN  ***  VIỆC  EM  NIỀM  VUI  HỌC
+VIVOSDEV08_127 op    C    C     C    C    D     S    C    C    C    C 
+VIVOSDEV08_127 #csid 8 1 0 1
+VIVOSDEV08_128 ref  CÓ  LẼ  PHẢI  MẤT  NHIỀU  THỜI  GIAN
+VIVOSDEV08_128 hyp  CÓ  LẼ  PHẢI  MẤT  NHIỀU  THỜI  GIAN
+VIVOSDEV08_128 op    C   C    C    C     C      C     C 
+VIVOSDEV08_128 #csid 7 0 0 0
+VIVOSDEV08_129 ref  NƯỚC  GỖ  TRÊN  CHIẾC  ĐỒNG  HỒ   ĐÃ   BẮT  LÊN  MÀU  GỤ  BÓNG  LOÁNG
+VIVOSDEV08_129 hyp  NƯỚC  GỖ   CẦN    DI   ĐỘNG  HỘ  ĐƯỢC  ĐẶT  LÊN  MÀU  VỤ   HÔ    HOÁN
+VIVOSDEV08_129 op     C    C    S     S      S    S    S    S    C    C    S    S     S  
+VIVOSDEV08_129 #csid 4 9 0 0
+VIVOSDEV08_141 ref  KHI  SỨC   ÉP  BIẾN  MẤT  CHÚNG  TRỞ  LẠI  TÌNH  TRẠNG  MỀM  DẺO  BÌNH  THƯỜNG
+VIVOSDEV08_141 hyp   VÌ   DỄ  GÂY  BIẾN  MẤT  TRUNG  TRỞ  LẠI  TÌNH  TRẠNG  MỀM  NẾU  BÌNH  THƯỜNG
+VIVOSDEV08_141 op    S    S    S     C    C     S     C    C     C     C     C    S     C      C  
+VIVOSDEV08_141 #csid 9 5 0 0
+VIVOSDEV08_143 ref  THAM  GIA  GIẢNG  DẠY  LÀ  LỰC  LƯỢNG  ĐOÀN  VIÊN
+VIVOSDEV08_143 hyp  PHẠM   LÀ   RÀNG  DÀI  LÀ  LỰC  LƯỢNG  BÓNG   VỀ 
+VIVOSDEV08_143 op     S    S     S     S    C   C     C      S     S 
+VIVOSDEV08_143 #csid 3 6 0 0
+VIVOSDEV08_145 ref   VÀ  VẢI  HOẶC  CÓI  NHIỀU  MÀU
+VIVOSDEV08_145 hyp  VÀO  VAI  HOẶC   CÓ  NHIỀU  MÀO
+VIVOSDEV08_145 op    S    S     C    S     C     S 
+VIVOSDEV08_145 #csid 2 4 0 0
+VIVOSDEV08_159 ref  VỚI  NGƯỜI  MẸ  Ở  XÓM  CHÀI  LONG   BIÊN
+VIVOSDEV08_159 hyp  VỚI   DỪA   MÈ  Ở  SƠN   TRÀ  LÒNG  NGƯỜI
+VIVOSDEV08_159 op    C     S     S  C   S     S     S     S  
+VIVOSDEV08_159 #csid 2 6 0 0
+VIVOSDEV08_163 ref  CHƯƠNG  TRÌNH   ĐÃ  TẠO  ĐƯỢC  HIỆU    ỨNG   TỐT  TỪ  PHÍA  KHÁN  GIẢ  NHÍ
+VIVOSDEV08_163 hyp  CHƯƠNG  TRÌNH  ĐÀO  TẠO  ĐƯỢC   ***  THƯỞNG  TỐT  TỪ  VIỆC  ĐÁNH  GIÁ  NHI
+VIVOSDEV08_163 op      C      C     S    C     C     D      S     C    C    S     S    S    S 
+VIVOSDEV08_163 #csid 6 6 0 1
+VIVOSDEV08_166 ref  DỊCH  VỤ  KIỂM  TRA   SỨC  KHỎE  ĐỊNH   KỲ    LÀ  MỘT   Ý    KIẾN  HAY
+VIVOSDEV08_166 hyp  DỊCH  VỤ   ***  ***  TIỀN   RA    SỰ   QUẢN  TRỊ  LÂU  QUY  TRÌNH  NÀY
+VIVOSDEV08_166 op     C    C    D    D     S     S     S     S    S    S    S     S     S 
+VIVOSDEV08_166 #csid 2 9 0 2
+VIVOSDEV08_180 ref  CHÍNH   SỰ  LÊN  SÀN   Ồ    ẠT   ĐÓ
+VIVOSDEV08_180 hyp  CHÍNH  ***  SỬA   RA  NGỘ  NGẶT  ĐÓ
+VIVOSDEV08_180 op     C     D    S    S    S     S    C
+VIVOSDEV08_180 #csid 2 4 0 1
+VIVOSDEV08_182 ref  KẾT  QUẢ  CHỈ  CÓ  VỎN  VẸN  BA  NGƯỜI  CÒN  BIẾT  DỆT
+VIVOSDEV08_182 hyp  RẤT  QUẢ  CHỈ  CÓ  VỎN  VẸN  VÀ  NGƯỜI   CÓ  BIẾT  GIỜ
+VIVOSDEV08_182 op    S    C    C    C   C    C    S    C     S     C    S 
+VIVOSDEV08_182 #csid 7 4 0 0
+VIVOSDEV08_193 ref  LÀ  TƯƠNG  ĐỐI  CÓ  HIỆU  QUẢ
+VIVOSDEV08_193 hyp  VÀ  TƯƠNG  ĐỐI  CÓ  HIỆU  QUẢ
+VIVOSDEV08_193 op    S    C     C    C    C    C 
+VIVOSDEV08_193 #csid 5 1 0 0
+VIVOSDEV08_196 ref  PHẦN  LỚN  HỌC  SINH  GIÀU  CÓ  NGƯỜI  NƯỚC  NGOÀI
+VIVOSDEV08_196 hyp  PHẦN  LỚN  HỌC  SINH   HỌC  CÓ  NGƯỜI  NƯỚC  NGOÀI
+VIVOSDEV08_196 op     C    C    C     C     S    C    C      C     C  
+VIVOSDEV08_196 #csid 8 1 0 0
+VIVOSDEV08_201 ref  KHÔNG  MỘT  HAI  BA  BỐN
+VIVOSDEV08_201 hyp  KHÔNG  MỘT  HAI  BA  BỐN
+VIVOSDEV08_201 op     C     C    C    C   C 
+VIVOSDEV08_201 #csid 5 0 0 0
+VIVOSDEV08_208 ref  HAI  MƯƠI  HAI  HAI  MƯƠI  BA
+VIVOSDEV08_208 hyp  ***   HẠI   BÉ  GÁI   MỚI  BÀ
+VIVOSDEV08_208 op    D     S    S    S     S    S
+VIVOSDEV08_208 #csid 0 5 0 1
+VIVOSDEV08_210 ref  HAI  MƯƠI  SÁU  HAI  MƯƠI  BẢY
+VIVOSDEV08_210 hyp  HAI  LƯỠI  DAO  HAI  MƯƠI  BẢY
+VIVOSDEV08_210 op    C     S    S    C     C    C 
+VIVOSDEV08_210 #csid 4 2 0 0
+VIVOSDEV08_214 ref   BA  MƯƠI  BỐN  BA  MƯƠI  LĂM
+VIVOSDEV08_214 hyp  ***   BỞI  BỐN  BA  MƯƠI  LĂM
+VIVOSDEV08_214 op    D     S    C    C    C    C 
+VIVOSDEV08_214 #csid 4 1 0 1
+VIVOSDEV08_222 ref  NĂM  MƯƠI  NĂM  MƯƠI  MỐT
+VIVOSDEV08_222 hyp  NĂM  MƯƠI  NĂM  MƯƠI  MỐT
+VIVOSDEV08_222 op    C     C    C     C    C 
+VIVOSDEV08_222 #csid 5 0 0 0
+VIVOSDEV08_224 ref  NĂM  MƯƠI  BỐN  NĂM  MƯƠI  LĂM
+VIVOSDEV08_224 hyp  NĂM  MƯƠI  BỐN  NĂM  MƯƠI  LĂM
+VIVOSDEV08_224 op    C     C    C    C     C    C 
+VIVOSDEV08_224 #csid 6 0 0 0
+VIVOSDEV08_233 ref  BẢY  MƯƠI  HAI  BẢY  MƯƠI  BA
+VIVOSDEV08_233 hyp  ***   BÀI  MỆT  MỎI   VÌ   VÀ
+VIVOSDEV08_233 op    D     S    S    S     S    S
+VIVOSDEV08_233 #csid 0 5 0 1
+VIVOSDEV08_270 ref  NÓI  THẬT  ĐẤY  À
+VIVOSDEV08_270 hyp  NÓI  THẬT  ĐẤY  À
+VIVOSDEV08_270 op    C     C    C   C
+VIVOSDEV08_270 #csid 4 0 0 0
+VIVOSDEV08_271 ref  QUÁ  TỐT  RỒI
+VIVOSDEV08_271 hyp  QUÁ  TỐT  RỒI
+VIVOSDEV08_271 op    C    C    C 
+VIVOSDEV08_271 #csid 3 0 0 0
+VIVOSDEV08_274 ref  TÔI  CHẾT  CÙNG  VỚI  ÁNH  TRĂNG
+VIVOSDEV08_274 hyp  TÔI  CHẾT  CÙNG  VỚI  ÁNH  TRĂNG
+VIVOSDEV08_274 op    C     C     C    C    C     C  
+VIVOSDEV08_274 #csid 6 0 0 0
+VIVOSDEV08_277 ref  ĐÀN  ÔNG   CÓ   HAI   THỨ  ĐỂ  BUỒN
+VIVOSDEV08_277 hyp  ***  ***  BÀO  NGOÀI  THỨ  ĐỂ  BUỒN
+VIVOSDEV08_277 op    D    D    S     S     C    C    C 
+VIVOSDEV08_277 #csid 3 2 0 2
+VIVOSDEV08_295 ref  GIÀU  ĐỔI  BẠN  SANG  ĐỔI  VỢ
+VIVOSDEV08_295 hyp  GIÀU  ĐỔI  BẠN  SANG  ĐỔI  VỢ
+VIVOSDEV08_295 op     C    C    C     C    C    C
+VIVOSDEV08_295 #csid 6 0 0 0
+VIVOSDEV08_300 ref  ÁN  MẠNG  TRÊN  TOA  TÀU  TỐC  HÀNH
+VIVOSDEV08_300 hyp  ÁN  MẠNG  TRÊN  TOA  TÀU  TỐC  HÀNH
+VIVOSDEV08_300 op    C    C     C    C    C    C     C 
+VIVOSDEV08_300 #csid 7 0 0 0
+VIVOSDEV11_015 ref   NỮ   DIỄN  VIÊN  XINH  ĐẸP  PHẠM  BĂNG  BĂNG
+VIVOSDEV11_015 hyp  NƠI  THIÊN   VỀ   XINH  ĐẸP   VÀ   MÀNG  MÀNG
+VIVOSDEV11_015 op    S     S      S     C    C     S     S     S 
+VIVOSDEV11_015 #csid 2 6 0 0
+VIVOSDEV11_022 ref  SẼ  LÀM  GIẢM  TÌNH  TRẠNG   ÓI   ỌC  CỦA  TRẺ
+VIVOSDEV11_022 hyp  XE  LÀM   ***  TÌNH  TRẠNG  HỎI  HỌC  CỦA  TRÀ
+VIVOSDEV11_022 op    S   C     D     C     C     S    S    C    S 
+VIVOSDEV11_022 #csid 4 4 0 1
+VIVOSDEV11_033 ref  MÀ  PHẢI  CHE  CHÁI   Ở   TẠM  BÊN  HÔNG  NHÀ  CHA  RUỘT
+VIVOSDEV11_033 hyp  MÀ  PHẢI  ***   CHẾ  TRÀ  TẮM  BÊN  HÔNG  NHÀ  TRA   ĐỘ 
+VIVOSDEV11_033 op    C    C    D     S    S    S    C     C    C    S     S 
+VIVOSDEV11_033 #csid 5 5 0 1
+VIVOSDEV11_036 ref  TÔI  CÓ  THỂ   CĂM  GIẬN  ĐỦ  THỨ
+VIVOSDEV11_036 hyp  TÔI  CÓ  THỂ  TRĂM   LẦN  ĐỔ  THỬ
+VIVOSDEV11_036 op    C    C   C     S     S    S   S 
+VIVOSDEV11_036 #csid 3 4 0 0
+VIVOSDEV11_038 ref  MÀ  PHẢI  CHUYỂN    QUA   HÌNH  THỨC  GIAO  DỊCH
+VIVOSDEV11_038 hyp  MÀ  PHẢI    ***   CHUYỆN  QUẢN  THỰC  GIAO  DỊCH
+VIVOSDEV11_038 op    C    C      D       S      S     S     C     C 
+VIVOSDEV11_038 #csid 4 3 0 1
+VIVOSDEV11_046 ref  ĐỪNG  BAO  GIỜ  ĐỂ  CHO  BẤT  KỲ  AI  NÓI  VỚI  BẠN  RẰNG
+VIVOSDEV11_046 hyp  ĐỪNG  BAO  GIỜ  ĐỂ  CHO  BẤT  KỲ  AI  NÓI  VỚI  BẠN  RẰNG
+VIVOSDEV11_046 op     C    C    C    C   C    C    C   C   C    C    C     C 
+VIVOSDEV11_046 #csid 12 0 0 0
+VIVOSDEV11_048 ref  VÀNG  ÓNG  ĐÔI  GHỆT  CAO  CỔ  CỦA   ***   NGỰ  LÂM  QUÂN
+VIVOSDEV11_048 hyp   VÀ   ÔNG   ĐÓ   LÀ   CAO  CỔ  CỦA  NGƯỜI  LẦM  CỦA  MÌNH
+VIVOSDEV11_048 op     S    S    S     S    C    C   C     I     S    S     S 
+VIVOSDEV11_048 #csid 3 7 1 0
+VIVOSDEV11_057 ref  NẾU   VÌ  CHÚNG  TÔI
+VIVOSDEV11_057 hyp  NẾU  VỚI  CHÚNG  TÔI
+VIVOSDEV11_057 op    C    S     C     C 
+VIVOSDEV11_057 #csid 3 1 0 0
+VIVOSDEV11_063 ref  NẾU  BẠN   VẪN  CẢM  THẤY  TỘI  LỖI
+VIVOSDEV11_063 hyp  NẾU  BẠN  PHẦN  CẢM  THẤY  TỘI  LỖI
+VIVOSDEV11_063 op    C    C     S    C     C    C    C 
+VIVOSDEV11_063 #csid 6 1 0 0
+VIVOSDEV11_075 ref  DÃI  DẦU  NẮNG  GIÓ  TRƯỜNG  SƠN
+VIVOSDEV11_075 hyp  GIÁ  DẦU  NĂNG   SÒ  TRƯỜNG  SƠN
+VIVOSDEV11_075 op    S    C     S    S      C     C 
+VIVOSDEV11_075 #csid 3 3 0 0
+VIVOSDEV11_076 ref  VỚI  TRÊN  LÀ  NÚI   VÀ  DƯỚI  LÀ  SÔNG
+VIVOSDEV11_076 hyp  VỜI  TRÊN  LÀ  NỐI  VÒI  DƯỚI  LÀ  XONG
+VIVOSDEV11_076 op    S     C    C   S    S     C    C    S 
+VIVOSDEV11_076 #csid 4 4 0 0
+VIVOSDEV11_077 ref  VỚI  SỰ  XUẤT  HIỆN  CỦA  QUÁI  THÚ  VÀ  RỒNG
+VIVOSDEV11_077 hyp  VỚI  SỰ  XUẤT  HIỆN  CỦA   QUÁ  THỤ  VÀ  RÒNG
+VIVOSDEV11_077 op    C    C    C     C    C     S    S    C    S 
+VIVOSDEV11_077 #csid 6 3 0 0
+VIVOSDEV11_079 ref  NÉT  MẶT  HỌ  KHÔNG  NGỜI  LÊN  HẠNH  PHÚC  CỦA  NGƯỜI  MẸ
+VIVOSDEV11_079 hyp  NÉT  MẶT  HỌ  KHÔNG   NÓI  LÊN  HẠNH  PHÚC  CỦA  NGƯỜI  MẸ
+VIVOSDEV11_079 op    C    C    C    C      S    C     C     C    C     C     C
+VIVOSDEV11_079 #csid 10 1 0 0
+VIVOSDEV11_081 ref  MỘT  SỐ  NGƯỜI  CHO  RẰNG
+VIVOSDEV11_081 hyp  MỘT  SỐ  NGƯỜI  CHO  RẰNG
+VIVOSDEV11_081 op    C    C    C     C     C 
+VIVOSDEV11_081 #csid 5 0 0 0
+VIVOSDEV11_083 ref  MỘT  SINH  VIÊN  ĐƯỢC  VAY  VỐN  TÍN  DỤNG  HỌC  TẬP
+VIVOSDEV11_083 hyp  MỘT  SINH  VIÊN  ĐƯỢC   VỀ  VỐN  TÍN  DỤNG  HỌC  TẬP
+VIVOSDEV11_083 op    C     C     C     C    S    C    C     C    C    C 
+VIVOSDEV11_083 #csid 9 1 0 0
+VIVOSDEV11_095 ref  MỌI  THỨ  ĐỀU  ĐƯỢC   MỔ  XẺ  LẠI
+VIVOSDEV11_095 hyp  MỌI  THỨ  ĐỀU  ĐƯỢC  MỘT  SẼ  LẠI
+VIVOSDEV11_095 op    C    C    C     C    S    S   C 
+VIVOSDEV11_095 #csid 5 2 0 0
+VIVOSDEV11_122 ref  KHÔNG  PHẢI  NẮP   KHUM
+VIVOSDEV11_122 hyp  KHÔNG  PHẢI  LẬP  KHÔNG
+VIVOSDEV11_122 op     C      C    S     S  
+VIVOSDEV11_122 #csid 2 2 0 0
+VIVOSDEV11_123 ref  CÁC  CÔNG  TY  DU  LỊCH  PHẢI  XÁC  ĐỊNH
+VIVOSDEV11_123 hyp  CÁC  CÔNG  TY  DU  LỊCH  PHẢI  XÁC  ĐỊNH
+VIVOSDEV11_123 op    C     C    C   C    C     C    C     C 
+VIVOSDEV11_123 #csid 8 0 0 0
+VIVOSDEV11_129 ref  ĐI  BỘ  LEO  NÚI  ĐẾN  NHỪ  CHÂN
+VIVOSDEV11_129 hyp  ĐI  BỘ  LEO  NÚI  ĐƠN  NHƯ  TRẦN
+VIVOSDEV11_129 op    C   C   C    C    S    S     S 
+VIVOSDEV11_129 #csid 4 3 0 0
+VIVOSDEV11_131 ref  THÌ  CHỦ  ĐẦU  TƯ  PHẢI  TỰ  PHÁ  DỠ  PHẦN  NỘI  DUNG  SAI  PHÉP  ĐÓ
+VIVOSDEV11_131 hyp  THÌ  CHỦ  ĐẦU  TƯ  PHẢI  TỰ  PHÁ  DỠ  PHẦN  NỘI  DUNG  SAI  PHÉP  ĐÓ
+VIVOSDEV11_131 op    C    C    C    C    C    C   C    C    C    C     C    C     C    C
+VIVOSDEV11_131 #csid 14 0 0 0
+VIVOSDEV11_136 ref   KHI  NHÂN  VIÊN  CỨU  HỘ  CỐ  GẮNG  ĐƯA  NÓ  LÊN  SÀ  LAN
+VIVOSDEV11_136 hyp  THUÊ  NHÂN  VIÊN  CỨU  HỘ  CỐ  GẮNG  ĐƯA  LÒ  LỚN  SÀ  LAN
+VIVOSDEV11_136 op     S     C     C    C    C   C    C    C    S   S    C   C 
+VIVOSDEV11_136 #csid 9 3 0 0
+VIVOSDEV11_137 ref  NHỮNG  NGƯỜI  NÀY  ĐỀU  ĐƯỢC  ĐÀO  TẠO  VỀ  HỘI  HỌA
+VIVOSDEV11_137 hyp  NHỮNG  NGƯỜI  NÀY  ĐỀU  ĐƯỢC  ĐÀO  TẠO  VÀ   TÒ   MÒ
+VIVOSDEV11_137 op     C      C     C    C     C    C    C    S   S    S 
+VIVOSDEV11_137 #csid 7 3 0 0
+VIVOSDEV11_147 ref   GẮN  LÔNG  CHIM  HỘT  ĐÁ  LÓNG  LÁNH   HAY  BÈO  DÚN  TÙA  LUA  ĐẦY  CỔ
+VIVOSDEV11_147 hyp  NẮNG  NÓNG   CHỈ  MỘT  ĐÀ  LÒNG   LÀM  NGÀY  BÈO  DỒN   TỐ   LỘ  ĐẤY  CỔ
+VIVOSDEV11_147 op     S     S     S    S    S    S     S     S    C    S    S    S    S    C
+VIVOSDEV11_147 #csid 2 12 0 0
+VIVOSDEV11_160 ref  NGỤ   ẤP  HÒN  NGANG
+VIVOSDEV11_160 hyp  NGỦ  GẶP  KHÓ   NGÀN
+VIVOSDEV11_160 op    S    S    S     S  
+VIVOSDEV11_160 #csid 0 4 0 0
+VIVOSDEV11_164 ref   ÍT   NHẤT   Ở   HƠN  BA  MƯƠI  TRƯỜNG  THUỘC  CÁC  ĐỊA  PHƯƠNG  NÓI  TRÊN
+VIVOSDEV11_164 hyp  TỊCH  NHẬP  CAO  HƠN  VÀ   MÔI  TRƯỜNG  THUỘC  CÁC  ĐỊA  PHƯƠNG  NÓI  TRÊN
+VIVOSDEV11_164 op     S     S    S    C    S    S      C      C     C    C      C     C     C 
+VIVOSDEV11_164 #csid 8 5 0 0
+VIVOSDEV11_182 ref  ĐẶC  ĐIỂM  CỦA  PHẨY  TRÙNG  TẢ
+VIVOSDEV11_182 hyp  ĐẶC  ĐIỂM  CỦA  PHẢI  TRÔNG  CÁ
+VIVOSDEV11_182 op    C     C    C     S     S     S
+VIVOSDEV11_182 #csid 3 3 0 0
+VIVOSDEV11_193 ref  VÌ  BAN  ĐÊM  CHỊ  NGỦ  KHÔNG  NGON
+VIVOSDEV11_193 hyp  VỀ  BAN  ĐÊM  CHỈ  NGỦ  KHÔNG  NGON
+VIVOSDEV11_193 op    S   C    C    S    C     C      C 
+VIVOSDEV11_193 #csid 5 2 0 0
+VIVOSDEV11_198 ref  LƠ  LỬNG  TRÊN  ĐẦU  LÀ  NHỮNG  CHIẾC  BẪY  ĐÁ  HÀNG  TRĂM  KHỐI
+VIVOSDEV11_198 hyp  LƠ  LỬNG  TRÊN  ĐẦU  LÀ  NHỮNG  CHIẾC  BÀY  RA  HÀNG  TRĂM  KHÔI
+VIVOSDEV11_198 op    C    C     C    C    C    C      C     S    S    C     C     S 
+VIVOSDEV11_198 #csid 9 3 0 0
+VIVOSDEV11_200 ref  NĂM  ĐẦU  TIÊN
+VIVOSDEV11_200 hyp  NĂM  NÀO   VỀ 
+VIVOSDEV11_200 op    C    S     S 
+VIVOSDEV11_200 #csid 1 2 0 0
+VIVOSDEV11_234 ref  BẢY  MƯƠI  BỐN  BẢY  MƯƠI  LĂM
+VIVOSDEV11_234 hyp  BẢY  MƯƠI  BỐN  BẢY  MƯƠI  LĂM
+VIVOSDEV11_234 op    C     C    C    C     C    C 
+VIVOSDEV11_234 #csid 6 0 0 0
+VIVOSDEV11_242 ref   CHÍN    MƯƠI   CHÍN   MƯƠI  MỐT
+VIVOSDEV11_242 hyp  CHUYỆN  NGƯỜI  CHUYÊN  MƯỜI  MỘT
+VIVOSDEV11_242 op      S      S       S      S    S 
+VIVOSDEV11_242 #csid 0 5 0 0
+VIVOSDEV11_246 ref  CHÍN  MƯƠI  TÁM  CHÍN  MƯƠI  CHÍN
+VIVOSDEV11_246 hyp  CHÍN  MƯƠI  TÁM  CHÍN  MƯƠI  CHÍN
+VIVOSDEV11_246 op     C     C    C     C     C     C 
+VIVOSDEV11_246 #csid 6 0 0 0
+VIVOSDEV11_252 ref  BÂY  GIỜ  CƯỚP  NHIỀU  QUÁ  ĐI  ĐƯỜNG  CŨNG  THẤY  SỢ
+VIVOSDEV11_252 hyp  BÂY  GIỜ  CƯỚP  NHIỀU  QUÁ  ĐI  ĐƯỜNG  CŨNG  THẤY  SỢ
+VIVOSDEV11_252 op    C    C     C     C     C    C    C      C     C    C
+VIVOSDEV11_252 #csid 10 0 0 0
+VIVOSDEV11_262 ref  TÌM  HUNG  THỦ  HIẾP  DÂM  BẰNG  NƯỚC  BỌT  NẠN  NHÂN
+VIVOSDEV11_262 hyp  TÌM  HUNG  THỦ  HIẾP  DÂM  BẰNG  NƯỚC  BỌT  NẠN  NHÂN
+VIVOSDEV11_262 op    C     C    C     C    C     C     C    C    C     C 
+VIVOSDEV11_262 #csid 10 0 0 0
+VIVOSDEV11_269 ref  CHÚNG  TÔI  YÊU  NHAU  ĐƯỢC  HAI  NĂM  THÌ  GIA  ĐÌNH  TÔI  XẢY  RA  CHUYỆN
+VIVOSDEV11_269 hyp  CHÚNG  TÔI  YÊU  NHAU  ĐƯỢC  HAI  NĂM  THÌ  GIA  ĐÌNH  TÔI  XẢY  RA  CHUYỆN
+VIVOSDEV11_269 op     C     C    C     C     C    C    C    C    C     C    C    C    C     C  
+VIVOSDEV11_269 #csid 14 0 0 0
+VIVOSDEV11_273 ref  TRỌNG  TÀI  PHẠT  THẺ  ĐỎ
+VIVOSDEV11_273 hyp  TRỌNG  TÀI  PHẠT  THẺ  ĐỎ
+VIVOSDEV11_273 op     C     C     C    C    C
+VIVOSDEV11_273 #csid 5 0 0 0
+VIVOSDEV11_274 ref  KIỂU  NÀY  CHẮC  PHẢI  CẮT  GIẢM  BIÊN  CHẾ
+VIVOSDEV11_274 hyp  KIỂU  NÀY  CHẮC  PHẢI  CẮT  GIẢM  BIÊN  CHẾ
+VIVOSDEV11_274 op     C    C     C     C    C     C     C    C 
+VIVOSDEV11_274 #csid 8 0 0 0
+VIVOSDEV11_282 ref  THÔI  THÌ  CỨ  SẮP  XẾP  NHƯ  VẬY
+VIVOSDEV11_282 hyp  THÔI  THÌ  CỨ  SẮP  XẾP  NHƯ  VẬY
+VIVOSDEV11_282 op     C    C    C   C    C    C    C 
+VIVOSDEV11_282 #csid 7 0 0 0
+VIVOSDEV11_289 ref  THEO  PHÓ  CHỦ  TỊCH   ỦY  BAN  AN  TOÀN  GIAO  THÔNG  QUỐC  GIA
+VIVOSDEV11_289 hyp  THEO  PHÓ  CHỦ  TỊCH  VỚI  BAN  AN  TOÀN  GIAO  THÔNG  QUỐC  GIA
+VIVOSDEV11_289 op     C    C    C     C    S    C    C    C     C     C      C    C 
+VIVOSDEV11_289 #csid 11 1 0 0
+VIVOSDEV11_298 ref  CHUẨN  BỊ  CHO  NGÀY  KHAI  TRƯƠNG  CỬA  HÀNG  ĐẦU  TIÊN
+VIVOSDEV11_298 hyp  CHUẨN  BỊ  CHO  NGÀY  KHAI  TRƯƠNG  CỬA  HÀNG  ĐẦU  TIÊN
+VIVOSDEV11_298 op     C     C   C     C     C      C     C     C    C     C 
+VIVOSDEV11_298 #csid 10 0 0 0
+VIVOSDEV12_006 ref   TỪ   SỰ   DƯ  THỪA  QUÁ  MỨC  CỦA  LUỒNG  TIỀN  NÀY
+VIVOSDEV12_006 hyp  ***  ***  ***   KHỔ  QUÁ  MỨC   CÔ   LUỒN   TỚI  NƠI
+VIVOSDEV12_006 op    D    D    D     S    C    C    S     S      S    S 
+VIVOSDEV12_006 #csid 2 5 0 3
+VIVOSDEV12_011 ref  ĐÓ  CHỨNG  TỎ  RẰNG  CHÚNG  TA   ĐÃ  GIÀ
+VIVOSDEV12_011 hyp  ĐỘ  CHỨNG  TỎ  RẰNG  CHÚNG  TA  BAO  GIỜ
+VIVOSDEV12_011 op    S    C     C    C     C     C   S    S 
+VIVOSDEV12_011 #csid 5 3 0 0
+VIVOSDEV12_015 ref  TRẢ  LẠI  ĐẤT  CHO  RỪNG
+VIVOSDEV12_015 hyp  ***  ***   VÀ  ĐỨT  CHỒI
+VIVOSDEV12_015 op    D    D    S    S     S 
+VIVOSDEV12_015 #csid 0 3 0 2
+VIVOSDEV12_032 ref  CÁC  LOẠI  CÂY  TRỒNG  Ở  RỪNG  NÀY  TOÀN  CÂY   KÉM  GIÁ   TRỊ
+VIVOSDEV12_032 hyp  KẾT   NỐI  CÂY  TRỒNG  Ở   ***  NƠI   CÒN   KÊ  THÊM  GIỜ  TRỜI
+VIVOSDEV12_032 op    S     S    C     C    C    D    S     S    S     S    S     S 
+VIVOSDEV12_032 #csid 3 8 0 1
+VIVOSDEV12_054 ref  THIẾU   SỰ  QUAN   TÂM  ĐÚNG  MỨC  TỪ  CÁC   CƠ  QUAN  CHỨC  NĂNG
+VIVOSDEV12_054 hyp   THỨ   SỚM  HOÀN  TOÀN  ĐỒNG  MỘT  TỜ  KẾT  CẤU  QUAN  CHỨC  NĂNG
+VIVOSDEV12_054 op     S     S     S     S     S    S    S   S    S     C     C     C 
+VIVOSDEV12_054 #csid 3 9 0 0
+VIVOSDEV12_056 ref  TẠI   CHỢ  CÁ
+VIVOSDEV12_056 hyp  BÀI  CHÒI  CÀ
+VIVOSDEV12_056 op    S     S    S
+VIVOSDEV12_056 #csid 0 3 0 0
+VIVOSDEV12_057 ref  KHÔNG  PHẢI  VÌ  TÔI  KHÔNG  COI  TRỌNG  CHẤT  LƯỢNG
+VIVOSDEV12_057 hyp  KHÔNG  PHẢI  VÌ  TÔI  KHÔNG   CÔ  TRỌNG  CHẤT  LƯỢNG
+VIVOSDEV12_057 op     C      C    C   C     C     S     C      C     C  
+VIVOSDEV12_057 #csid 8 1 0 0
+VIVOSDEV12_065 ref   THÌ  ĐỌC  ĐƯỢC  HỒI  KÝ  KHÔNG   THỂ  CHUỘC  LỖI  TRÊN  BÁO  TUỔI  TRẺ
+VIVOSDEV12_065 hyp  THỜI  ĐỌC  ĐƯỢC  HỒI  KỲ  KHÔNG  THỜI  TRUNG   CỔ  TRÊN   BỘ   CỤM  RẠP
+VIVOSDEV12_065 op     S    C     C    C    S    C      S     S     S     C    S     S    S 
+VIVOSDEV12_065 #csid 5 8 0 0
+VIVOSDEV12_066 ref  THIẾU   TƯỚNG   PHẠM  QUÝ  NGỌ  CHO  BIẾT
+VIVOSDEV12_066 hyp   THỨ   TRƯỞNG  PHÒNG  QUÝ  NGỌ  CHO  BIẾT
+VIVOSDEV12_066 op     S       S      S     C    C    C     C 
+VIVOSDEV12_066 #csid 4 3 0 0
+VIVOSDEV12_068 ref  KHÔNG  MỘT  CHÚT  TRẦY  TRỤA  MÀ  ĐỀN  CÁI   GÌ 
+VIVOSDEV12_068 hyp  KHÔNG  MỘT  CHÚT  TRẦY  TRỤA  MÀ  ĐỚN  THẾ  GIỚI
+VIVOSDEV12_068 op     C     C     C     C     C    C   S    S     S 
+VIVOSDEV12_068 #csid 6 3 0 0
+VIVOSDEV12_071 ref  NÓ  ĐƯỢC  ĐẶT  TRONG  MỘT  HỘP   ĐỰNG  TRANG  SỨC  BỌC   DA  ĐỎ
+VIVOSDEV12_071 hyp  NÓ  ĐƯỢC  ĐẶT  TRONG  MỘT  MỘT  ĐƯỜNG   TRẦN  SỨC  BỌC  GIỜ  ĐÓ
+VIVOSDEV12_071 op    C    C    C     C     C    S     S      S     C    C    S    S
+VIVOSDEV12_071 #csid 7 5 0 0
+VIVOSDEV12_075 ref  NHÓM  THANH  LONG   TRẺ  DIỄN  TIỂU  PHẨM  HÀI  HẮC  BẠCH  TRANH  HÙNG
+VIVOSDEV12_075 hyp  NHÓM  THANH  LONG  TRỜI   DUY  TIỂU  PHẨM  HÀI  HẮC  BẠCH  TRANH  HÙNG
+VIVOSDEV12_075 op     C     C      C     S     S     C     C    C    C     C     C      C 
+VIVOSDEV12_075 #csid 10 2 0 0
+VIVOSDEV12_076 ref  TỚ  ĐI   KIẾM   NHÀ  TRỌ  RỒI  NHƯNG  KHÓ  QUÁ
+VIVOSDEV12_076 hyp  TỔ  ĐỂ  CHUYỂN  NHÀ  TRỌ  RỒI  NHƯNG  KHỔ  QUẢ
+VIVOSDEV12_076 op    S   S     S     C    C    C     C     S    S 
+VIVOSDEV12_076 #csid 4 5 0 0
+VIVOSDEV12_079 ref  XANH  CỎ  MƯỢT  MÀ  VEN  ĐƯỜNG
+VIVOSDEV12_079 hyp   SÂN  CÓ   MỘT  MÀ   VỀ  NGUỒN
+VIVOSDEV12_079 op     S    S    S    C   S     S  
+VIVOSDEV12_079 #csid 1 5 0 0
+VIVOSDEV12_080 ref  CHÍNH  THỨC  ĐÃ  LÂY  LAN  RA  BÊN  NGOÀI
+VIVOSDEV12_080 hyp  CHÍNH  THỨC  ĐÓ  LÂY  LAN  RA  BÊN  NGOÀI
+VIVOSDEV12_080 op     C      C    S   C    C    C   C     C  
+VIVOSDEV12_080 #csid 7 1 0 0
+VIVOSDEV12_100 ref  PHỤ  HUYNH   VÀ   HỌC  SINH  ĐANG  PHẢI  È  CỔ  VÌ  SÁCH   GIÁ  CAO
+VIVOSDEV12_100 hyp  ***   PHỦ   VẪN  MỎNG   SƠN  ĐANG  PHẢI  È  CỔ  VÌ  PHẬT  SOÁT  TÀU
+VIVOSDEV12_100 op    D     S     S     S     S     C     C   C   C   C    S     S    S 
+VIVOSDEV12_100 #csid 5 7 0 1
+VIVOSDEV12_101 ref   KHI  CHÍNH  PHỦ  LÚC  ĐẦU   ĐỀ  NGHỊ   ÂN  XÁ  CHO  NHỮNG  NGƯỜI  NỔI  DẬY
+VIVOSDEV12_101 hyp  KHỞI  CHÍNH  PHỦ  LÚC  ĐẦU  ***   ĐỜI  LẨN  XA  CHO  NHỮNG  NGƯỜI  NỔI  LỜI
+VIVOSDEV12_101 op     S     C     C    C    C    D     S    S    S   C     C      C     C    S 
+VIVOSDEV12_101 #csid 8 5 0 1
+VIVOSDEV12_116 ref  DƯỚI  ÁNH  ĐÈN   MỜ    MỜ   ẢO  ẢO
+VIVOSDEV12_116 hyp   ***  LẦN  ĐẾN  MÒNG  MÒNG  ÀO  ÀO
+VIVOSDEV12_116 op     D    S    S     S     S    S   S
+VIVOSDEV12_116 #csid 0 6 0 1
+VIVOSDEV12_128 ref  TRONG  CUỘC  BỎ  PHIẾU  TẠI  HỘI  ĐỒNG  BẢO   AN  HAI  NGÀY  TRƯỚC  ĐÓ
+VIVOSDEV12_128 hyp  TRONG  CUỘC  BỘ  PHIẾU   TÒ   MÒ  ĐỒNG   BỘ  BÀN  HAI  NGÀY  TRƯỚC  ĐÓ
+VIVOSDEV12_128 op     C      C    S    C     S    S     C    S    S    C     C     C     C
+VIVOSDEV12_128 #csid 8 5 0 0
+VIVOSDEV12_132 ref  HẦU  HẾT  NHỮNG  VẤN  ĐỀ  XẢY   RA   TRÊN    THẾ  GIỚI
+VIVOSDEV12_132 hyp  HẦU  HẾT  NHỮNG  VẤN  ĐỀ   XE  RỜI  TRƯỜNG  THỜI   RỒI
+VIVOSDEV12_132 op    C    C     C     C    C   S    S      S      S     S 
+VIVOSDEV12_132 #csid 5 5 0 0
+VIVOSDEV12_135 ref  ÔNG  ĐƯỢC  NHIỀU  NGƯỜI  BIẾT  ĐẾN
+VIVOSDEV12_135 hyp  ÔNG  ĐƯỢC  NHIỀU  NGƯỜI  BIẾT  ĐẾN
+VIVOSDEV12_135 op    C     C     C      C      C    C 
+VIVOSDEV12_135 #csid 6 0 0 0
+VIVOSDEV12_144 ref  TRẢ  LỜI  TÔI  BIẾT
+VIVOSDEV12_144 hyp  ***  TRÒ   CÓ  BIỆT
+VIVOSDEV12_144 op    D    S    S     S 
+VIVOSDEV12_144 #csid 0 3 0 1
+VIVOSDEV12_166 ref   ỊCH  GÃ  TO  BÉO  ỤC  ỊCH
+VIVOSDEV12_166 hyp  THẬT  RA  TO  BÉO  ỤC  ỊCH
+VIVOSDEV12_166 op     S    S   C   C    C   C 
+VIVOSDEV12_166 #csid 4 2 0 0
+VIVOSDEV12_169 ref  ÁO  RÁCH  LƯƠM  BƯƠM
+VIVOSDEV12_169 hyp  ÁO  RÁCH  LƯƠM  BƯƠM
+VIVOSDEV12_169 op    C    C     C     C 
+VIVOSDEV12_169 #csid 4 0 0 0
+VIVOSDEV12_173 ref  ĐỐI  VỚI  NHỮNG  PHẢN  ỨNG  KHÁC  BIỆT  ĐÓ
+VIVOSDEV12_173 hyp  ĐỐI  VỚI  NHỮNG  PHẢN  ỨNG  KHÁC  BIỆT  ĐÓ
+VIVOSDEV12_173 op    C    C     C      C    C     C     C    C
+VIVOSDEV12_173 #csid 8 0 0 0
+VIVOSDEV12_182 ref  VÀ   ĐÃ  HIẾN  MÁU  BA  LẦN
+VIVOSDEV12_182 hyp  VÀ  BẢO  HIỂM  MÀU  BÒ  GÒN
+VIVOSDEV12_182 op    C   S     S    S    S   S 
+VIVOSDEV12_182 #csid 1 5 0 0
+VIVOSDEV12_186 ref  TIẾNG  HÉT  ĐỒNG  THANH  CỦA  MẤY  CHỤC  CON  NGƯỜI
+VIVOSDEV12_186 hyp   TUY   HẾT   BỔN   PHẬN  CỦA  MẤY  CHỤC  CON   MỒI 
+VIVOSDEV12_186 op     S     S     S     S     C    C     C    C     S  
+VIVOSDEV12_186 #csid 4 5 0 0
+VIVOSDEV12_192 ref  TRANG  THỨ  HAI  CỦA  TỜ  BÁO
+VIVOSDEV12_192 hyp    ĐỀ   THỨ  HAI  CỦA  TÒ   MÒ
+VIVOSDEV12_192 op     S     C    C    C    S   S 
+VIVOSDEV12_192 #csid 3 3 0 0
+VIVOSDEV12_197 ref  SAU  ĐÓ  BÀ  HÀNG  XÓM  TÍNH  TÌNH  XỞI  LỞI  CHẠY  QUA  KỂ  VỚI  TÔI
+VIVOSDEV12_197 hyp  SAU  ĐÓ  BÀ  HÀNG  XÓM   CẦN   TỐN  XOI  MÓI  TRẢI  QUA  KỂ  VỚI  TÔI
+VIVOSDEV12_197 op    C    C   C    C    C     S     S    S    S     S    C    C   C    C 
+VIVOSDEV12_197 #csid 9 5 0 0
+VIVOSDEV12_213 ref  BA  MƯƠI  HAI   BA   MƯƠI  BA
+VIVOSDEV12_213 hyp  BÒ   MỚI   HỀ  BÓNG  MƯỢT  MÀ
+VIVOSDEV12_213 op    S    S    S     S     S    S
+VIVOSDEV12_213 #csid 0 6 0 0
+VIVOSDEV12_223 ref  NĂM  MƯƠI  HAI  NĂM  MƯƠI  BA
+VIVOSDEV12_223 hyp  NĂM  MƯƠI  HAI  NĂM  MƯƠI  BA
+VIVOSDEV12_223 op    C     C    C    C     C    C
+VIVOSDEV12_223 #csid 6 0 0 0
+VIVOSDEV12_224 ref  NĂM  MƯƠI   BỐN   NĂM  MƯƠI   LĂM
+VIVOSDEV12_224 hyp  ***   VÀ   MUỐI  BỤNG  NÓNG  LÒNG
+VIVOSDEV12_224 op    D     S     S     S     S     S 
+VIVOSDEV12_224 #csid 0 5 0 1
+VIVOSDEV12_227 ref  SÁU  MƯƠI   SÁU  MƯƠI  MỐT
+VIVOSDEV12_227 hyp  SAU   MỖI  SÒNG  MƯỜI  MỘT
+VIVOSDEV12_227 op    S     S     S     S    S 
+VIVOSDEV12_227 #csid 0 5 0 0
+VIVOSDEV12_232 ref  BẢY  MƯƠI   BẢY  MƯƠI  MỐT
+VIVOSDEV12_232 hyp  BỞI   MÙI  MƯỜI  MƯỜI  MỘT
+VIVOSDEV12_232 op    S     S     S     S    S 
+VIVOSDEV12_232 #csid 0 5 0 0
+VIVOSDEV12_244 ref  CHÍN  MƯƠI  BỐN  CHÍN  MƯƠI  LĂM
+VIVOSDEV12_244 hyp  CHÍN  MƯƠI  BỐN  CHÍN  MƯƠI  LĂM
+VIVOSDEV12_244 op     C     C    C     C     C    C 
+VIVOSDEV12_244 #csid 6 0 0 0
+VIVOSDEV12_248 ref  MỘT  BA   NĂM  BẢY   CHÍN
+VIVOSDEV12_248 hyp  MỘT  VÀ  NỒNG  BỞI  TRƯỚC
+VIVOSDEV12_248 op    C    S    S    S     S  
+VIVOSDEV12_248 #csid 1 4 0 0
+VIVOSDEV12_271 ref  BÀ  CON  RANG  TRÍ  CÀNH  ĐÀO   ĐỂ   CHUẨN   BỊ  ĐÓN  TẾT
+VIVOSDEV12_271 hyp  BÀ  CON  RANG  TRÍ  CÀNH  ĐÀO  ĐỜI  TRƯỜNG  BỞI   ĐỘ   TỢ
+VIVOSDEV12_271 op    C   C     C    C     C    C    S      S     S    S    S 
+VIVOSDEV12_271 #csid 6 5 0 0
+VIVOSDEV12_275 ref  TÔI  KHÔNG  THẤY  GÌ  LÀ  ĐÚNG  KHI  TĂNG  GIÁ  XE  VÀO  CÁC  DỊP  TẾT
+VIVOSDEV12_275 hyp  TÔI  KHÔNG  THẤY  GÌ  LÀ  ĐÚNG  KHI  TĂNG  GIÁ  XE  VÀO  CÁC  DỊP   VỢ
+VIVOSDEV12_275 op    C     C      C    C   C    C    C     C    C    C   C    C    C    S 
+VIVOSDEV12_275 #csid 13 1 0 0
+VIVOSDEV12_280 ref  DU  LỊCH  SẼ  TRỞ  THÀNH  NGÀNH  KINH  TẾ  MŨI  NHỌN
+VIVOSDEV12_280 hyp  DU  LỊCH  SẼ  TRỞ  THÀNH  NGÀNH  KINH  TẾ  MŨI  NHỌN
+VIVOSDEV12_280 op    C    C    C   C     C      C      C    C   C     C 
+VIVOSDEV12_280 #csid 10 0 0 0
+VIVOSDEV12_290 ref   TỪ    KHI   CHỒNG  QUA  ĐỜI  VÌ  BỆNH  TẬT
+VIVOSDEV12_290 hyp  TÔI  KHUYÊN  CHỒNG  QUA  ĐỜI  VÌ  BỆNH  CÒN
+VIVOSDEV12_290 op    S      S      C     C    C    C    C    S 
+VIVOSDEV12_290 #csid 5 3 0 0
+VIVOSDEV16_026 ref  CÙNG   VỢ  ĂN  VỘI  CHÉN  CƠM  THÀNH  LẠI  LO  ÔN  BÀI  LÀM  BÀI  TẬP
+VIVOSDEV16_026 hyp  CÙNG  VỚI  ĂN  VỘI  CHÉN  CƠM  THÀNH  LẠI  LO  ÔM  VAI  LÀM  BÀI  TẬP
+VIVOSDEV16_026 op     C    S    C   C     C    C     C     C    C   S   S    C    C    C 
+VIVOSDEV16_026 #csid 11 3 0 0
+VIVOSDEV16_033 ref  ĐỘI  NÀO  THÀNH  TÍCH  CÀNG  CAO  THÌ  QUẢN  LÝ  CÀNG  KHÓ
+VIVOSDEV16_033 hyp  ĐÔI  NÀO  THÀNH  TÍCH  CÀNG  CAO  THÌ  QUẢN  LÝ  CÀNG  KHÓ
+VIVOSDEV16_033 op    S    C     C      C     C    C    C     C    C    C    C 
+VIVOSDEV16_033 #csid 10 1 0 0
+VIVOSDEV16_048 ref  PHẢI  CHĂNG  XÂY  DỰNG  NIỀM  TIN  VÀO  TÌNH  YÊU  KHÓ  THẾ
+VIVOSDEV16_048 hyp  PHẢI  CHĂNG  PHE  DỰNG  NIỀM  TIN  VÀO  TÌNH  YÊU  KHÓ  THẾ
+VIVOSDEV16_048 op     C     C     S     C     C    C    C     C    C    C    C 
+VIVOSDEV16_048 #csid 10 1 0 0
+VIVOSDEV16_049 ref  ***  CÒN   BA  CẦU  THỦ  VĂN  TRƯƠNG  BẬT  HIẾU  VÀ  HẢI  LÂM  THÌ  SAO  THƯA  ÔNG
+VIVOSDEV16_049 hyp  CON   VÀ  CÁC  CẦU  THỦ  VĂN   THỜI   BẤT  HIẾU  VÀ  HAI  NĂM  THÌ  SAO  THƯA  ÔNG
+VIVOSDEV16_049 op    I    S    S    C    C    C      S     S     C    C   S    S    C    C     C    C 
+VIVOSDEV16_049 #csid 9 6 1 0
+VIVOSDEV16_050 ref  THÁNG  BẢY  NHIỀU  NGƯỜI  CON  KHÓC  NÊN  TRỜI  BUỒN  VÀ  KHÓC  THEO
+VIVOSDEV16_050 hyp  THÁNG  NÀY  NHIỀU  NGƯỜI  CON  KHÓC  NÊN  TRỜI  BUỒN  VÀ  KHÓC  THEO
+VIVOSDEV16_050 op     C     S     C      C     C     C    C     C     C    C    C     C 
+VIVOSDEV16_050 #csid 11 1 0 0
+VIVOSDEV16_051 ref  CA  KHÚC  ĐƯỢC  KHÁN  GIẢ  YÊU  THÍCH  NHẤT  BÀ  TÔI  NGUYỄN  VĨNH   TIẾN
+VIVOSDEV16_051 hyp  CA  KHÚC  ĐƯỢC  KHÁN  GIẢ  YÊU  THÍCH  NHẤT  MÀ  TÔI   NGƯỜI  VĨNH  TIẾNG
+VIVOSDEV16_051 op    C    C     C     C    C    C     C      C    S   C      S      C     S  
+VIVOSDEV16_051 #csid 10 3 0 0
+VIVOSDEV16_058 ref  ĐẦU  TƯ  TIÊU  DÙNG  VÀ  XUẤT  KHẨU  ĐỀU  SẼ  TĂNG  MẠNH
+VIVOSDEV16_058 hyp  ĐẦU  TƯ  TIÊU  DÙNG  VÀ  XUẤT  KHẨU  ĐỀU  SẼ  TĂNG  MẠNH
+VIVOSDEV16_058 op    C    C    C     C    C    C     C    C    C    C     C 
+VIVOSDEV16_058 #csid 11 0 0 0
+VIVOSDEV16_059 ref   ĐỒ  CỔ  KHÔNG  CÔNG  KHAI  NGUỒN  GỐC  PHẢI  BỊ  COI  LÀ  HÀNG  GIẢ
+VIVOSDEV16_059 hyp  ĐẦU  CỔ  KHÔNG  CÔNG  KHAI  NGUỒN  GỐC  PHẢI  BỊ  COI  LÀ  HÀNG  GIẢ
+VIVOSDEV16_059 op    S    C    C      C     C     C     C     C    C   C    C    C    C 
+VIVOSDEV16_059 #csid 12 1 0 0
+VIVOSDEV16_064 ref  TỪNG  LÀ  CHỦ  TẾ  HÀNG  TRĂM   LỄ   AN  TÁNG  MỘ   GIÓ
+VIVOSDEV16_064 hyp   TÂM  LÀ  CHỦ  TẾ  HÀNG  TRĂM  NGHỆ  AN  TOÀN  BỘ  GIAO
+VIVOSDEV16_064 op     S    C   C    C    C     C     S    C    S    S    S 
+VIVOSDEV16_064 #csid 6 5 0 0
+VIVOSDEV16_067 ref  HÌNH  NHƯ  KHÔNG  CÓ  CẢ  MỘT  TRONG  HAI  TÀI  VÀ  ĐỨC
+VIVOSDEV16_067 hyp  HÌNH  NHƯ  KHÔNG  CÓ  CẢ  MỘT  TRONG  HAI  TAY  VÀ  ĐẤT
+VIVOSDEV16_067 op     C    C     C     C   C   C     C     C    S    C   S 
+VIVOSDEV16_067 #csid 9 2 0 0
+VIVOSDEV16_068 ref  BÊN  CẠNH  ĐÓ  CHÚNG  TÔI  CÒN  LÀM  HÀNG  LOẠT  VIỆC  KHÁC  NHƯ
+VIVOSDEV16_068 hyp  BÊN  CẠNH  ĐÓ  CHÚNG  TÔI  CÒN  LÀM  HÀNG  LOẠT  VIỆC  KHÁC  NHƯ
+VIVOSDEV16_068 op    C     C    C    C     C    C    C     C     C     C     C    C 
+VIVOSDEV16_068 #csid 12 0 0 0
+VIVOSDEV16_074 ref  CHÚNG   NÓ  YÊU  NHAU  RẤT  TỰ  NHIÊN   GHÉT  NHAU  CŨNG  RẤT  TỰ  NHIÊN
+VIVOSDEV16_074 hyp  CHÚNG  TÔI  YÊU  NHAU  RẤT  TỰ  NHIÊN  THÍCH  NHAU  CŨNG  RẤT  TỰ  NHIÊN
+VIVOSDEV16_074 op     C     S    C     C    C    C    C      S      C     C    C    C    C  
+VIVOSDEV16_074 #csid 11 2 0 0
+VIVOSDEV16_079 ref  TẤT  CẢ  ĐỂ  CHO  NGƯỜI  BỆNH  VÀ  THÂN  NHÂN  HÀI  LÒNG  KHI  ĐẾN  BỆNH  VIỆN
+VIVOSDEV16_079 hyp  TẤT  CẢ  ĐỂ  CHO  NGƯỜI  BỆNH  VÀ  THÂN  NHÂN  HÀI  LÒNG  KHI  ĐẾN  BỆNH  VIỆN
+VIVOSDEV16_079 op    C    C   C   C     C      C    C    C     C    C     C    C    C     C     C 
+VIVOSDEV16_079 #csid 15 0 0 0
+VIVOSDEV16_101 ref  TÔI  KHẼ  CHỚP  MẮT  VÀ  THẦM  CẦU  NGUYỆN  XIN  CHÚA  GIÚP  CON
+VIVOSDEV16_101 hyp  TÔI  THỂ  CHẤT  MẮT  VÀ  THĂM  CẦU  NGUYỆN  XIN   TRÚ  GIÚP  CON
+VIVOSDEV16_101 op    C    S     S    C    C    S    C      C     C     S     C    C 
+VIVOSDEV16_101 #csid 8 4 0 0
+VIVOSDEV16_112 ref  LÚC  HƯNG   PHẤN  NÓI  CHUYỆN  PHÓNG  LAO  CHẲNG  CÓ  CHI  PHỨC  TẠP
+VIVOSDEV16_112 hyp  LÚC   HƠN  PHONG  NÓI  CHUYỆN  PHÓNG  LAO  CHẲNG  CÓ  CHI  PHỨC  TẠP
+VIVOSDEV16_112 op    C     S     S     C      C      C     C     C     C   C     C    C 
+VIVOSDEV16_112 #csid 10 2 0 0
+VIVOSDEV16_120 ref   SẼ  LÀM  CHÚNG  TA  NGỦ  KHÔNG   ĐỦ  KHÔNG  ĐÚNG  QUY  LUẬT
+VIVOSDEV16_120 hyp  PHE  LÀM  CHÚNG  TA  NGỦ  KHÔNG  ĐẦU  KHÔNG  ĐÚNG  QUY  LUẬT
+VIVOSDEV16_120 op    S    C     C     C   C     C     S     C      C    C     C 
+VIVOSDEV16_120 #csid 9 2 0 0
+VIVOSDEV16_149 ref  CÓ  BAO  GIỜ  ÔNG  GẶP  TÌNH  HUỐNG  KHÔNG  TRẢ  LỜI  ĐƯỢC  CÂU  HỎI  CỦA  DÂN
+VIVOSDEV16_149 hyp  CÓ  BAO  GIỜ  ÔNG   CÓ  TÌNH  HUỐNG  KHÔNG  TRẢ  LỜI  ĐƯỢC  CÂU  HỎI  CỦA  DÂN
+VIVOSDEV16_149 op    C   C    C    C    S     C     C      C     C    C     C    C    C    C    C 
+VIVOSDEV16_149 #csid 14 1 0 0
+VIVOSDEV16_153 ref   CẢ  ĐỜI  CHƯA  BAO  GIỜ  TÔI  CÓ  CẢM  GIÁC  SUNG  SƯỚNG  NHƯ  VẬY
+VIVOSDEV16_153 hyp  CÁI  ĐÂY  CHƯA  BAO  GIỜ  TÔI  CÓ  CẢM  GIÁC  SUNG  SƯỚNG  NHƯ  VẬY
+VIVOSDEV16_153 op    S    S     C    C    C    C    C   C     C     C     C     C    C 
+VIVOSDEV16_153 #csid 11 2 0 0
+VIVOSDEV16_154 ref   ÍT  CÓ  CƠ  HỘI  SỐNG  SÓT  CHO   CÁC  HÀNH  KHÁCH  TRÊN  MÁY  BAY
+VIVOSDEV16_154 hyp  KẾT  CÓ  CƠ  HỘI  SỐNG  SÓT  CÁC  CÁCH  HÀNH  KHÁCH  TRÊN  MÁY  BAY
+VIVOSDEV16_154 op    S    C   C   C     C    C    S     S     C     C      C    C    C 
+VIVOSDEV16_154 #csid 10 3 0 0
+VIVOSDEV16_161 ref  TRUNG  QUỐC  ĐƯA  RA  HÌNH  PHẠT  CỤ  THỂ  ĐỐI  VỚI  TỘI  THAM  NHŨNG
+VIVOSDEV16_161 hyp  TRUNG  QUỐC  ĐƯA  RA  HÀNH  PHẢI  CỤ  THỂ  ĐỐI  VỚI  TÔI  THAM  NHŨNG
+VIVOSDEV16_161 op     C      C    C    C    S     S    C   C    C    C    S     C     C  
+VIVOSDEV16_161 #csid 10 3 0 0
+VIVOSDEV16_168 ref  HAI  CHÁU  NGẠC  NHIÊN  ĐÓN  KHÁCH   LẠ   SUNG  SƯỚNG  ÔM  CẶP  MỚI
+VIVOSDEV16_168 hyp  HAI  CHÁU  NGẠC  NHIÊN  ĐÓN   CÁC   LOẠI  PHUN  SƯƠNG  ÔM  CẶP  MỚI
+VIVOSDEV16_168 op    C     C     C     C     C     S      S     S     S     C   C    C 
+VIVOSDEV16_168 #csid 8 4 0 0
+VIVOSDEV16_173 ref  NHƯNG  CÔ  QUYẾT  CHỨNG  MINH  NGƯỜI   MÙ  KHÔNG  PHẢI  VÔ  DỤNG
+VIVOSDEV16_173 hyp  NHƯNG  CÔ  QUYẾT  CHỨNG  MINH  NGƯỜI  MỘT  KHÔNG  PHẢI  VÔ  DỤNG
+VIVOSDEV16_173 op     C     C    C      C      C     C     S     C      C    C    C 
+VIVOSDEV16_173 #csid 10 1 0 0
+VIVOSDEV16_175 ref  HỌ  ĐÃ  TRAO  NHAU  LỜI  HẸN  ƯỚC  NÊN  DUYÊN  CHỒNG   VỢ
+VIVOSDEV16_175 hyp  HỌ  ĐÃ  TRAO  NHAU  LỜI  HẸN  THỨ  NÊN  DUYÊN  TRONG  VÀO
+VIVOSDEV16_175 op    C   C    C     C    C    C    S    C     C      S     S 
+VIVOSDEV16_175 #csid 8 3 0 0
+VIVOSDEV16_177 ref  NẾU  THỈNH  THOẢNG  CÓ  VÀI  NGÀY  NGHỈ  NGƯỜI  THỤY  ĐIỂN  THƯỜNG  RA  ĐẢO  CHƠI
+VIVOSDEV16_177 hyp  NÀO  THỈNH  THOẢNG  CÓ  VÀI  NGÀY  NGHỈ  NGƯỜI   THÌ  BIỂN  THƯƠNG  RA  ĐẠO  CHƠI
+VIVOSDEV16_177 op    S     C       C     C   C     C     C     C      S     S      S     C   S     C 
+VIVOSDEV16_177 #csid 9 5 0 0
+VIVOSDEV16_182 ref  NHỮNG  NGƯỜI  CÔ  LẬP  MÌNH  CÓ  THỂ  GẶP  PHẢI  CHỨNG  TRẦM  CẢM  HOẶC  LO  LẮNG
+VIVOSDEV16_182 hyp  NHỮNG  NGƯỜI  CÓ  LẮP   NÊN  CÓ  THỂ  GẶP  PHẢI  CHỨNG  TRẦM  CẢM  HOẶC  LO  LẮNG
+VIVOSDEV16_182 op     C      C     S   S     S    C   C    C     C     C      C    C     C    C    C 
+VIVOSDEV16_182 #csid 12 3 0 0
+VIVOSDEV16_193 ref  THỰC  TẾ  VAI  TRÒ  CỦA  BẠN  VÀ  NGƯỜI  PHỎNG  VẤN  ĐỐI  CHIẾU  NHAU
+VIVOSDEV16_193 hyp  THỰC  TẾ  VAI  TRÒ  CỦA  BẠN  VÀ  NGƯỜI  PHỎNG  VẤN  ĐỐI  CHIẾU  NHAU
+VIVOSDEV16_193 op     C    C   C    C    C    C    C    C      C     C    C     C      C 
+VIVOSDEV16_193 #csid 13 0 0 0
+VIVOSDEV16_196 ref  SỰ  GIÚP  ĐỠ  CỦA  BÀ  LÀ  VÔ  CÙNG  QUÍ  BÁU   CHO  CHÚNG  TÔI
+VIVOSDEV16_196 hyp  SỰ  GIÚP  ĐỠ  CỦA  BÀ  LÀ  VÔ  CÙNG  QUÝ  BÁO  CHÁY  CHÚNG  TÔI
+VIVOSDEV16_196 op    C    C    C   C    C   C   C    C    S    S     S     C     C 
+VIVOSDEV16_196 #csid 10 3 0 0
+VIVOSDEV16_197 ref  NHÀ  TRƯỜNG  ĐỘT  NGỘT  HỦY  ĐỀ  TÀI  KHIẾN  TÔI  MẤT  PHƯƠNG  HƯỚNG
+VIVOSDEV16_197 hyp  NHÀ  TRƯỜNG  ĐỘT  NGỘT   MỸ  ĐỀ  TÀI  KHIẾN  TÔI  MẤT  PHƯƠNG  HƯỚNG
+VIVOSDEV16_197 op    C      C     C     C    S    C   C     C     C    C      C      C  
+VIVOSDEV16_197 #csid 11 1 0 0
+VIVOSDEV16_198 ref  CÁC  PHẬT  TỬ  HƯỞNG  ỨNG  LỜI  KÊU  GỌI  CỦA  THẦY  NHƯ  THẾ  NÀO
+VIVOSDEV16_198 hyp  CÁC  PHẦN  TỬ  HƯỞNG  ỨNG  LỜI  KÊU  GỌI  CỦA  THAY  NHƯ  THẾ  NÀO
+VIVOSDEV16_198 op    C     S    C    C     C    C    C    C    C     S    C    C    C 
+VIVOSDEV16_198 #csid 11 2 0 0
+VIVOSDEV16_203 ref   VẬY  NHỮNG  ĐỐI  TƯỢNG  NÀY  SẼ  ĐƯỢC  GIẢI  QUYẾT  NHƯ  THẾ  NÀO
+VIVOSDEV16_203 hyp  PHẢI  NHỮNG  ĐỐI  TƯỢNG  NÀY  SẼ  ĐƯỢC  GIẢI  QUYẾT  NHƯ  THẾ  NÀO
+VIVOSDEV16_203 op     S     C     C     C     C    C    C     C     C     C    C    C 
+VIVOSDEV16_203 #csid 11 1 0 0
+VIVOSDEV16_228 ref  XEN  KẼ  GIỮA  NHỮNG  MÀN  BIỂU  DIỄN  LÀ  NHỮNG  PHÚT  VUI  CHƠI  TẬP  THỂ
+VIVOSDEV16_228 hyp  XEN  KẼ  GIỮA  NHỮNG  MÀN  BIỂU  DIỄN  RA  NHỮNG  PHÚT  VUI  CHƠI  TẬP  THỂ
+VIVOSDEV16_228 op    C    C    C     C     C     C     C    S    C      C    C     C    C    C 
+VIVOSDEV16_228 #csid 13 1 0 0
+VIVOSDEV16_233 ref  SÁNG  RA  THẤY  DÂN  TÌNH   XÚM  QUANH  CON   TÊ  GIÁC  KHỔNG   LỒ  ĐÃ  CHẾT
+VIVOSDEV16_233 hyp  SÁNG  RA  THẤY  DÁN   TEM  XUNG  QUANH  CON  CÁI  CHẾT  KHÔNG  LÂU  ĐÃ  CHẾT
+VIVOSDEV16_233 op     C    C    C    S     S     S     C     C    S     S     S     S    C    C 
+VIVOSDEV16_233 #csid 7 7 0 0
+VIVOSDEV16_239 ref  VÀ  MỘT  ĐIỀU  SÂU  XA  LÀ  MÌNH  ĐÃ  THẬT  SỰ  YÊU  BẠN
+VIVOSDEV16_239 hyp  VÀ  MỘT  ĐIỀU  XẤU  XA  LA  MÌNH  ĐÃ  THỰC  SỰ  YÊU  BẠN
+VIVOSDEV16_239 op    C   C     C    S    C   S    C    C    S    C   C    C 
+VIVOSDEV16_239 #csid 9 3 0 0
+VIVOSDEV16_247 ref  NHIỀU  HÔM  MƯA  GIÓ  BÁN   Ế   GÁNH   CHÈ  NẶNG   TRĨU  TRÊN  VAI  MẸ
+VIVOSDEV16_247 hyp  NHIỀU  HƠN  VỚI  GIÁ  BÁN  HẾT  GÁNH  CHÉN  NĂNG  TRIỆU  TRÊN  VAI  MẸ
+VIVOSDEV16_247 op     C     S    S    S    C    S     C     S     S     S      C    C    C
+VIVOSDEV16_247 #csid 6 7 0 0
+VIVOSDEV16_266 ref  PHÍA  DƯỚI  VÀ  XUNG  QUANH  KỆ  LÀ  NƯỚC   BẨN  LÊNH  LÁNG  CHẢY  QUA
+VIVOSDEV16_266 hyp  PHÍA  DƯỚI  VÀ  XUNG  QUANH  KỂ  LÀ  NƯỚC  BÓNG   LÊN   ÁN   CHẠY  QUA
+VIVOSDEV16_266 op     C     C    C    C     C     S   C    C     S     S     S     S    C 
+VIVOSDEV16_266 #csid 8 5 0 0
+VIVOSDEV16_267 ref  TÔI  ĐỨNG  TRƯỚC   HAI  LỐI  RẼ  VÀ  TÔI  CHỌN  CON  ĐƯỜNG   ÍT  NGƯỜI  ĐI  HƠN
+VIVOSDEV16_267 hyp  TÔI  ĐỨNG  TRƯỚC  THÁI  LÔI  RẺ  VÀ  TÔI  CHỌN  CON  ĐƯỜNG  ***  NGƯỜI  ĐI  HƠN
+VIVOSDEV16_267 op    C     C     C      S    S    S   C   C     C    C     C     D     C     C   C 
+VIVOSDEV16_267 #csid 11 3 0 1
+VIVOSDEV16_273 ref  CHÚNG  TÔI  ĐÃ  ĐIỀU  TRA  NHỮNG  TRƯỜNG  HỢP  CÓ  NGHI  VẤN  GIAN  DỐI
+VIVOSDEV16_273 hyp  CHÚNG  TÔI  ĐÃ  ĐIỀU  TRA  NHỮNG  TRƯỜNG  HỢP  CÓ  NGHI  VẤN  GIAN  DỐI
+VIVOSDEV16_273 op     C     C    C    C    C     C       C     C    C    C    C     C    C 
+VIVOSDEV16_273 #csid 13 0 0 0
+VIVOSDEV16_279 ref  VẬY  CHỪNG  NÀO  MỚI  TỚI  XIN  LỖI  NHÂN  DÂN  TẬP  CUỐI
+VIVOSDEV16_279 hyp  TAY   CHÂN  NÀO   MÀ  TÔI  XIN  LỖI  NHÂN  DÂN  TẬP  CUỐI
+VIVOSDEV16_279 op    S     S     C    S    S    C    C     C    C    C     C 
+VIVOSDEV16_279 #csid 7 4 0 0
+VIVOSDEV16_298 ref  HÔM  NÀO   TAN   CA  SỚM  HẠNH  ĐƯỢC  GIAO  NHIỆM  VỤ  ĐI  CHỢ  CHO   BỮA  TỐI
+VIVOSDEV16_298 hyp  HÔM  NÀO  TANG  CÁC  XÓM  HÀNH  ĐƯỢC  GIAO  NHIỆM  VỤ  ĐI  CHỢ  CHO  BUỔI  TỐI
+VIVOSDEV16_298 op    C    C     S    S    S     S     C     C     C     C   C   C    C     S    C 
+VIVOSDEV16_298 #csid 10 5 0 0
+VIVOSDEV16_299 ref   VÀO  ĐƯỢC  NHÀ  ANH  ĐẤY  SỬA  CỬA  ĐI  NGUY  HIỂM  ĐẤY
+VIVOSDEV16_299 hyp  PHAO  ĐƯỢC  NHÀ  ANH   ẤY   SỰ  CỬA  ĐI  NGUY  HIỂM  ĐÂY
+VIVOSDEV16_299 op     S     C    C    C    S    S    C    C    C     C    S 
+VIVOSDEV16_299 #csid 7 4 0 0
+VIVOSDEV17_011 ref  RỒI  MẶC   DÙ  BIẾT  LÀ  NGỚ  NGẨN  TÔI  CỨ  NÓI  RA
+VIVOSDEV17_011 hyp  RỒI  BẮT  ĐẦU  BIẾT  LÀ  NGỚ  NGẨN  TÔI  CỨ  NÓI  RA
+VIVOSDEV17_011 op    C    S    S     C    C   C     C    C    C   C    C
+VIVOSDEV17_011 #csid 9 2 0 0
+VIVOSDEV17_024 ref  RIÊNG  ÔNG  NGUYỄN  VĂN  BA  BỊ  GỖ   ĐÈ  DẬP   SỌ   NÃO  CHẾT  NGAY  TẠI  CHỖ
+VIVOSDEV17_024 hyp   TIN   ÔNG  NGUYỄN  VĂN  VÀ  BỊ  LỘ  ĐÈN  GẶP  PHẢN  HỒI  CHỨC  NGAY  TẠI  CHỖ
+VIVOSDEV17_024 op     S     C      C     C    S   C   S   S    S     S    S     S     C    C    C 
+VIVOSDEV17_024 #csid 7 8 0 0
+VIVOSDEV17_032 ref  MỖI  NGƯỜI   NỞ  MỘT  NỤ  CƯỜI  VỚI  NHỮNG  Ý  NGHĨA  KHÁC  NHAU
+VIVOSDEV17_032 hyp  MỖI  NGƯỜI  NÀO  MỘT  NỤ  CƯỜI  VỚI  NHỮNG  Ý  NGHĨA  KHÁC  NHAU
+VIVOSDEV17_032 op    C     C     S    C    C    C    C     C    C    C      C     C 
+VIVOSDEV17_032 #csid 11 1 0 0
+VIVOSDEV17_043 ref  DO  VẬY  SẼ  ẢNH  HƯỞNG  TỚI  VIỆC  THU  SÓNG  VÔ  TUYẾN
+VIVOSDEV17_043 hyp  DO  VẬY  SẼ  ẢNH  HƯỞNG  TỚI  VIỆC  THU  SỐNG  VÔ  TUYẾN
+VIVOSDEV17_043 op    C   C    C   C     C     C     C    C     S    C    C  
+VIVOSDEV17_043 #csid 10 1 0 0
+VIVOSDEV17_048 ref  PHIM  CHIẾU  NGUYÊN  BẢN  TIẾNG  PHÁP  CÓ  PHỤ  ĐỀ  TIẾNG  VIỆT
+VIVOSDEV17_048 hyp  PHIM  CHIẾU  NGUYÊN  BẢN  TIẾNG  PHÁP  CÔ  PHỦ  ĐỂ  TIẾNG   VỀ 
+VIVOSDEV17_048 op     C     C       C     C     C      C    S   S    S    C      S 
+VIVOSDEV17_048 #csid 7 4 0 0
+VIVOSDEV17_060 ref  BÓNG  MÀU  XANH  LÀ  VÙNG  ***  TÂM  BÃO  CÓ  THỂ  ĐI  QUA
+VIVOSDEV17_060 hyp  BÓNG  MÀU  XANH  LÀ  VÙNG  CẢM  BẠN  HỌC  CÓ  THỂ  ĐI  QUA
+VIVOSDEV17_060 op     C    C     C    C    C    I    S    S    C   C    C   C 
+VIVOSDEV17_060 #csid 9 2 1 0
+VIVOSDEV17_062 ref  SAU  MỘT  NGÀY  LAO  ĐỘNG  CĂNG  MỆT  BẠN  ƯU  TIÊN   CHỌN
+VIVOSDEV17_062 hyp  SAU  MỘT  NGÀY  LAO  ĐỘNG  CĂNG  MỎI  BẠN  CỐ  TÌNH  TRẠNG
+VIVOSDEV17_062 op    C    C     C    C     C     C    S    C    S    S     S  
+VIVOSDEV17_062 #csid 7 4 0 0
+VIVOSDEV17_070 ref  HÀ  CŨNG  CHẲNG  NHỚ  MÌNH  CÓ  NÓI  HAY  KHÔNG  ĐỂ  CÃI  LẠI  ÔNG  ẤY
+VIVOSDEV17_070 hyp  HÀ  CŨNG  TRẠNG  NHỚ  MÌNH  CÓ  NÓI  HAY  KHÔNG  ĐỂ  TRẢ  LẠI  ÔNG  ẤY
+VIVOSDEV17_070 op    C    C     S     C     C    C   C    C     C     C   S    C    C    C
+VIVOSDEV17_070 #csid 12 2 0 0
+VIVOSDEV17_071 ref  BẢN  THÂN  TÔI  CŨNG  THAM  GIA  MỘT   VAI   RẤT  NHỎ  NỮA
+VIVOSDEV17_071 hyp  BẢN  THÂN  TÔI  CŨNG  THAM  GIA  MỘT  PHẢI  ĐƯỢC  NHỎ  NỮA
+VIVOSDEV17_071 op    C     C    C     C     C    C    C     S     S    C    C 
+VIVOSDEV17_071 #csid 9 2 0 0
+VIVOSDEV17_077 ref  HÔM  SAU  MỞ  MÁY  THẤY  CÁI  TRUYỆN  ĐÃ  TỰ  HOÀN  CHỈNH  RỒI
+VIVOSDEV17_077 hyp  HÔM  SAU  MỞ  MÁY  THẤY  CÁI  CHUYỆN  ĐÃ  TỰ  HÀNH  TRÌNH  RỒI
+VIVOSDEV17_077 op    C    C    C   C     C    C      S     C   C    S     S     C 
+VIVOSDEV17_077 #csid 9 3 0 0
+VIVOSDEV17_090 ref  BÂY  GIỜ  THÌ  ĐÁNG  ĐƯỢC  KHEN  LÀ  THÔNG  MINH  CHỨ  HẢ
+VIVOSDEV17_090 hyp  BÂY  GIỜ  THÌ  ĐÁNG  ĐƯỢC  KHEN  LÀ  THÔNG  MINH  CHỨ  HẢ
+VIVOSDEV17_090 op    C    C    C     C     C     C    C    C      C    C    C
+VIVOSDEV17_090 #csid 11 0 0 0
+VIVOSDEV17_099 ref  CHỊ  TÌM  NHÀ  CHO  EM  Ở  TRỌ  NGAY  CỔNG  TRƯỜNG  CHỊ  HỌC
+VIVOSDEV17_099 hyp  CHỊ  THÌ  NHÀ  CHO  EM  Ở  TRỌ  NGAY  CỔNG  TRƯỜNG  CHỈ  HỌC
+VIVOSDEV17_099 op    C    S    C    C    C  C   C     C     C      C     S    C 
+VIVOSDEV17_099 #csid 10 2 0 0
+VIVOSDEV17_100 ref  ĐẾN  ĐÀ  LẠT  BẠN  PHẢI  CHUẨN  BỊ  ĐÔI  CHÂN  ĐỂ  ĐI  BỘ
+VIVOSDEV17_100 hyp  ĐẾN  ĐÀ  LẠT  BẠN  PHẢI  CHUẨN  BỊ  ĐƯA  CHÂN  ĐỂ  ĐI  BỘ
+VIVOSDEV17_100 op    C    C   C    C     C     C     C   S     C    C   C   C
+VIVOSDEV17_100 #csid 11 1 0 0
+VIVOSDEV17_107 ref  HỌ  ĐƯỢC  BỌN  ĐẦU  NẬU  NHỮNG  TAY   TRÙM  THUÊ  VỚI  GIÁ  RẺ   MẠT
+VIVOSDEV17_107 hyp  HỌ  ĐƯỢC  BỌN  ĐẦU  NÀO  NHỮNG  CÂY  TRỒNG  THÊM  VỚI  GIÁ  RẺ  MẠNG
+VIVOSDEV17_107 op    C    C    C    C    S     C     S     S      S    C    C    C    S 
+VIVOSDEV17_107 #csid 8 5 0 0
+VIVOSDEV17_109 ref  MỘT   BÀ  SANG  TRỌNG  ĐẾN  GẶP  BÁC  SĨ  TRẺ  KHÁM  BỆNH  BÁC  SĨ  HỎI
+VIVOSDEV17_109 hyp  MỘT  VÀI  SANG  TRỌNG  ĐẾN  GẶP  BÁC  SĨ  TRẺ  KHÁM  BỆNH  BÁC  SĨ  HỎI
+VIVOSDEV17_109 op    C    S     C     C     C    C    C    C   C     C     C    C    C   C 
+VIVOSDEV17_109 #csid 13 1 0 0
+VIVOSDEV17_114 ref   NHÂN  LỰC  NGÀNH  THIẾT  KẾ   ĐỒ  HỌA  ĐẮT  GIÁ  VÀ  KHAN  HIẾM
+VIVOSDEV17_114 hyp  NHƯNG  LẬP  NGÀNH  THIẾT  KẾ  ĐỘC  HẠI  ĐẮT  GIÁ  VÀ  KHAN  HIẾM
+VIVOSDEV17_114 op     S     S     C      C     C   S    S    C    C    C    C     C 
+VIVOSDEV17_114 #csid 8 4 0 0
+VIVOSDEV17_120 ref  SAU  ĐÓ  BẢN  THÂN  HỌC  SINH  PHẢI  LÀM  ĐƠN  XIN  HỌC  BỔNG
+VIVOSDEV17_120 hyp  SAU  ĐÓ  BẢN  THÂN  HỌC  SINH  PHẢI  LÀM  ĐƠN  XIN  HỌC  BÕNG
+VIVOSDEV17_120 op    C    C   C     C    C     C     C    C    C    C    C     S 
+VIVOSDEV17_120 #csid 11 1 0 0
+VIVOSDEV17_133 ref  CHỈ  CÓ  THỰC  PHẨM  MỚI  GIÚP  BẠN  LÀM  ĐƯỢC  VIỆC  NÀY
+VIVOSDEV17_133 hyp  CHỈ  CÓ  THỰC  PHẨM  MỚI  GIÚP  BẠN  LÀM  ĐƯỢC  VIỆC  NÀY
+VIVOSDEV17_133 op    C    C    C     C    C     C    C    C     C     C    C 
+VIVOSDEV17_133 #csid 11 0 0 0
+VIVOSDEV17_147 ref  VỚI  CÁC  DÁT  MÀU  CÀ  PHÊ  SỮA  KHÔNG  CẦN  ĐIỀU  TRỊ
+VIVOSDEV17_147 hyp  VỚI  CÁC  NÉT  MÀU  CÀ  PHÊ  PHỞ  KHÔNG  CẦN  ĐIỀU  TRỊ
+VIVOSDEV17_147 op    C    C    S    C    C   C    S     C     C     C    C 
+VIVOSDEV17_147 #csid 9 2 0 0
+VIVOSDEV17_169 ref   HỌ  BẢO  TÔI  GIỐNG  ***  NGƯỜI   HÀN  THÌ  TÔI  LẠI  THẤY   HỌ  GIỐNG  NGƯỜI  VIỆT
+VIVOSDEV17_169 hyp  HẢO  BẢO  TÔI  GIỐNG  NHƯ  NGƯỜI  HÀNG  THÌ  TÔI  LẠI  THẤY  HẢI  GIỐNG  NGƯỜI   VỀ 
+VIVOSDEV17_169 op    S    C    C     C     I     C      S    C    C    C     C    S     C      C      S 
+VIVOSDEV17_169 #csid 10 4 1 0
+VIVOSDEV17_170 ref  VÀ  ĐỘI  TUYỂN  PHÁP  ĐANG  LÀ  ĐỘI  CHIẾM  ƯU  THẾ  HƠN  SO  VỚI  THỤY   SĨ
+VIVOSDEV17_170 hyp  VÀ  ĐỘI  TUYỂN  PHÁP  ĐANG  LÀ  ĐỔI  CHIẾM  ƯU  THẾ  HƠN  SO  VỚI   THỂ  XẢY
+VIVOSDEV17_170 op    C   C     C      C     C    C   S     C     C   C    C    C   C     S    S 
+VIVOSDEV17_170 #csid 12 3 0 0
+VIVOSDEV17_173 ref  TRÌNH  ĐỘ  CHUYÊN  MÔN  CỦA  CÔ  KHIẾN  CÔ  QUÁ  THỪA   TƯ  CÁCH
+VIVOSDEV17_173 hyp  TRÌNH  ĐỘ  CHUYÊN  MÔN  CỦA  CÔ  KHIẾN  CÔ  QUÁ   THÔ  TÔI  CÁCH
+VIVOSDEV17_173 op     C     C     C     C    C    C    C     C   C     S    S     C 
+VIVOSDEV17_173 #csid 10 2 0 0
+VIVOSDEV17_181 ref  NHỮNG  CÂU  HỎI  TRÊN  SẼ  GIÚP  BẠN  LÀM  ĐƯỢC  ĐIỀU  NÀY
+VIVOSDEV17_181 hyp  NHỮNG  CÂU  HỎI  TRÊN  SẼ  GIÚP  BẠN  LÀM  ĐƯỢC  ĐIỀU  NÀY
+VIVOSDEV17_181 op     C     C    C     C    C    C    C    C     C     C    C 
+VIVOSDEV17_181 #csid 11 0 0 0
+VIVOSDEV17_189 ref  VẪN  CÒN  NHƯNG  BẠN  KHÔNG  DÁM  CHẮC  HỌ  CÓ  HẠNH  PHÚC  HAY  KHÔNG
+VIVOSDEV17_189 hyp  VẪN  CÒN  NHƯNG  BẠN  KHÔNG  DÁM  CHẮC  HỌ  CÓ  HẠNH  PHÚC  HAY  KHÔNG
+VIVOSDEV17_189 op    C    C     C     C     C     C     C    C   C    C     C    C     C  
+VIVOSDEV17_189 #csid 13 0 0 0
+VIVOSDEV17_192 ref  ĐÓ  CŨNG  LÀ  SỰ  TIẾP  XÚC  GẦN  GŨI  NHẤT  CỦA  BỌN  EM
+VIVOSDEV17_192 hyp  ĐÓ  CŨNG  LÀ  SỰ  TIẾP  XÚC  GẦN  CỦA  NHẤT  CỦA  BỌN  EM
+VIVOSDEV17_192 op    C    C    C   C    C    C    C    S     C    C    C    C
+VIVOSDEV17_192 #csid 11 1 0 0
+VIVOSDEV17_204 ref  EM  HÃY  TỈNH  TÁO  MÀ  TÌM  NHỮNG  ĐỊNH  HƯỚNG  TỐT  HƠN  CHO  TƯƠNG  LAI
+VIVOSDEV17_204 hyp  EM  HÃY  TỈNH  TÁO  MÀ  TÌM  NHỮNG  ĐỊNH  HƯỚNG  TỐT  HƠN  CHO  TƯƠNG  LAI
+VIVOSDEV17_204 op    C   C     C    C    C   C     C      C     C     C    C    C     C     C 
+VIVOSDEV17_204 #csid 14 0 0 0
+VIVOSDEV17_208 ref  NHƯNG  CHẲNG  CÓ  ĐIỂM  SẢN  XUẤT  NÀO  DÙNG  BẠT  PHỦ  CHE  CHẮN
+VIVOSDEV17_208 hyp  NHƯNG  CHẲNG  CÓ  ĐIỂM  SẢN  XUẤT  NÀO  DỤNG   VÀ  PHỦ  CHE  CHẮN
+VIVOSDEV17_208 op     C      C     C    C    C     C    C     S    S    C    C     C 
+VIVOSDEV17_208 #csid 10 2 0 0
+VIVOSDEV17_212 ref  CÓ  MẤY  NGƯỜI  ĐỤNG  PHẢI  NÓ   SUÝT   NGÃ  CHÚI  XUỐNG  ĐƯỜNG
+VIVOSDEV17_212 hyp  CÓ  MẤY  NGƯỜI  ĐÚNG  PHẢI  NÓ  TRÍCH  LẠNH  CHUI  XUỐNG  ĐƯỜNG
+VIVOSDEV17_212 op    C   C     C      S     C    C    S      S     S     C      C  
+VIVOSDEV17_212 #csid 7 4 0 0
+VIVOSDEV17_213 ref  ĐOÀN  ĐI  THUYỀN  ĐẾN  MỘT  KHU  LÀNG   DÂN   TỘC  THIỂU  SỐ
+VIVOSDEV17_213 hyp  ĐANG  ĐI  THUYỀN  ĐẾN  MỘT  KHU  LÀNG  NHỮNG  TẬP   THỂ   SO
+VIVOSDEV17_213 op     S    C     C     C    C    C     C     S     S     S     S
+VIVOSDEV17_213 #csid 6 5 0 0
+VIVOSDEV17_217 ref   THÌ   HỢP  ĐỒNG  THẾ  CHẤP  NÀY  CŨNG  KHÔNG  CÓ  GIÁ  TRỊ  PHÁP  LÝ
+VIVOSDEV17_217 hyp  THẤY  HOẠT  ĐỘNG  THẾ  CHẤP  NÀY  CŨNG  KHÔNG  CÓ  GIÁ  TRỊ  PHÁP  LÝ
+VIVOSDEV17_217 op     S     S     S    C     C    C     C     C     C   C    C     C    C
+VIVOSDEV17_217 #csid 10 3 0 0
+VIVOSDEV17_239 ref  BA  TÔI  HÃNH  DIỆN  NÓI  CHUYỆN  VỚI  SỐ  HỌC  SINH  CÙNG  LÊN  XE  ĐÒ
+VIVOSDEV17_239 hyp  BA  TÔI  HẠNH  DIỄN  NÓI  CHUYỆN  VỚI  SỐ  HỌC  SINH  CŨNG  LÊN  XE  ĐÓ
+VIVOSDEV17_239 op    C   C     S     S    C      C     C    C   C     C     S    C    C   S
+VIVOSDEV17_239 #csid 10 4 0 0
+VIVOSDEV17_241 ref  MỘT  ANH  TRAI  TUẤN  ĐANG  NGỒI  TÙ  VÌ  TỘI  GIẾT  NGƯỜI
+VIVOSDEV17_241 hyp  MỘT  ANH  TRAI  TUẤN  ĐANG  NGỒI  TỐ  VÌ  TỘI  GIẾT  NGƯỜI
+VIVOSDEV17_241 op    C    C     C     C     C     C    S   C   C     C     C  
+VIVOSDEV17_241 #csid 10 1 0 0
+VIVOSDEV17_245 ref  ĐƯỢC  BÀY  TRÊN  NHỮNG  BỆ  THỜ  BÊN  CẠNH  NHỮNG   BÓ  SEN  HUỆ   THƠM   NỨC
+VIVOSDEV17_245 hyp  ĐƯỢC  BÀI  TRÊN  NHỮNG  BÉ  THỎ  BÊN  CẠNH  NHỮNG  MÓN  SEN   HỆ  THỐNG  PHÚC
+VIVOSDEV17_245 op     C    S     C     C     S   S    C     C     C     S    C    S     S      S 
+VIVOSDEV17_245 #csid 7 7 0 0
+VIVOSDEV17_254 ref  CÁC  BƯỚC  SAU  ĐÂY  SẼ  GIÚP  BẠN  TÌM  RA  ỨNG  CỬ  VIÊN  THÍCH  HỢP
+VIVOSDEV17_254 hyp  CÁC  BƯỚC  SAU  ĐÂY  SẼ  GIÚP  BẠN  TÌM  RA  ỨNG  CỬ  VIÊN  THÍCH  HỢP
+VIVOSDEV17_254 op    C     C    C    C    C    C    C    C    C   C    C    C     C     C 
+VIVOSDEV17_254 #csid 14 0 0 0
+VIVOSDEV17_268 ref  VÌ  CHÚNG  CÓ  THỂ  LÀM  RĂNG  CỦA  BẠN  DỄ  BỊ  Ố  VÀNG
+VIVOSDEV17_268 hyp  VÌ  CHÚNG  CÓ  THỂ  LÀM  TĂNG  CỦA  BẠN  DỄ  BỊ  Ố  VÀNG
+VIVOSDEV17_268 op    C    C     C   C    C     S    C    C    C   C  C    C 
+VIVOSDEV17_268 #csid 11 1 0 0
+VIVOSDEV17_271 ref  GIẢI  NHẤT  HUY  CHƯƠNG  VÀNG  THUỘC  VỀ  NHÀ  NHIẾP  ẢNH  CỦA  CỘNG  HÒA   SÉC
+VIVOSDEV17_271 hyp  GIẢI  NHẤT  HUY  CHƯƠNG  VÀNG  THUỘC  VỀ  NHÀ   NHƯ   ẢNH  CỦA  CỘNG  HOÀ  PHÉP
+VIVOSDEV17_271 op     C     C    C      C      C     C     C   C     S     C    C     C    S     S 
+VIVOSDEV17_271 #csid 11 3 0 0
+VIVOSDEV17_285 ref  ĐỂ  XIN   THỊ  THỰC  CÔNG  TÁC  VỀ  CƠ  BẢN  BẠN  PHẢI  CÓ
+VIVOSDEV17_285 hyp  ĐỂ  XIN  THẤY  THẬT  CÔNG  TÁC  VỀ  CƠ  BẢN  BẠN  PHẢI  CÓ
+VIVOSDEV17_285 op    C   C     S     S     C    C    C   C   C    C     C    C
+VIVOSDEV17_285 #csid 10 2 0 0
+VIVOSDEV17_288 ref  TÔI  NẮM  BÀN  TAY    XƯA   BA  TÔI  TỪNG  THƯƠNG  YÊU  ĐAU  XÓT   CẦM  GIỮ
+VIVOSDEV17_288 hyp  TÔI  NĂM  BÀN  TAY  PHƯƠNG  BA  TÔI  TỪNG  THƯƠNG  TÔI  ĐAU  XÓT  THAM   DỰ
+VIVOSDEV17_288 op    C    S    C    C      S     C   C     C      C     S    C    C     S    S 
+VIVOSDEV17_288 #csid 9 5 0 0
+VIVOSDEV17_297 ref  TRONG  DÒNG  THÁC  NGƯỜI  CHỈ  NHÌN  ĐƯỢC  MẮT  KÍNH  VÀ  KHẨU  TRANG
+VIVOSDEV17_297 hyp  TRONG  DÒNG  THÁC  NGƯỜI  CHỈ  NHẬN  ĐƯỢC  MẶT  KÍNH  VÀ  KHẨU   CHÉM
+VIVOSDEV17_297 op     C      C     C     C     C     S     C    S     C    C    C     S  
+VIVOSDEV17_297 #csid 9 3 0 0
+VIVOSDEV17_299 ref  KHAI  MẠC  TRIỂN  LÃM  QUY  MÔ  LỚN  VỀ  TRANH   SƠN  MÀI  VIỆT  NAM
+VIVOSDEV17_299 hyp  KHAI  MẠC  TRIỂN  LÃM  QUY  MÔ  LỚN  VÀ  TRÁNH  PHÂN  MẠI  VIỆT  NAM
+VIVOSDEV17_299 op     C    C     C     C    C    C   C    S    S      S    S     C    C 
+VIVOSDEV17_299 #csid 9 4 0 0
+VIVOSSPK01_R001 ref  KHÁCH   SẠN
+VIVOSSPK01_R001 hyp  KHÁCH  PHẠM
+VIVOSSPK01_R001 op     C      S 
+VIVOSSPK01_R001 #csid 1 1 0 0
+VIVOSSPK01_R002 ref  CHỈ  BẰNG  CÁCH  LUÔN  NỖ  LỰC  THÌ  CUỐI  CÙNG  BẠN  MỚI  ĐƯỢC  ĐỀN  ĐÁP
+VIVOSSPK01_R002 hyp  CHỈ  BẰNG  CÁCH  LUÔN  NỖ  LỰC  THÌ  CUỐI  CÙNG  BẠN  MỚI  ĐƯỢC  ĐỀN  ĐÁP
+VIVOSSPK01_R002 op    C     C     C     C    C   C    C     C     C    C    C     C    C    C 
+VIVOSSPK01_R002 #csid 14 0 0 0
+VIVOSSPK01_R003 ref  TRONG  SỐ  CÁC  QUỐC  GIA  CÔNG  NGHIỆP  PHÁT  TRIỂN
+VIVOSSPK01_R003 hyp  TRONG  SỐ  CÁC  QUỐC  GIA  CÔNG  NGHIỆP  PHÁT  TRIỂN
+VIVOSSPK01_R003 op     C     C   C     C    C     C      C      C     C  
+VIVOSSPK01_R003 #csid 9 0 0 0
+VIVOSSPK01_R004 ref  ANH    ĐÃ    NHÌN  THẤY  TRONG  NHỮNG  LẢI  NHẢI  DÔNG  DÀI   ***  CỦA  NHU
+VIVOSSPK01_R004 hyp  ANH  NGANG  NHIÊN  THẤY  TRONG  NHỮNG  LẢI  NHẢI  DÔNG  DÀI  CŨNG  CỦA  NHU
+VIVOSSPK01_R004 op    C     S      S      C     C      C     C     C     C    C     I    C    C 
+VIVOSSPK01_R004 #csid 10 2 1 0
+VIVOSSPK01_R005 ref  KHỦNG  HOẢNG  MÔI  TRƯỜNG  CẦN  ĐƯỢC  NGĂN  CHẶN
+VIVOSSPK01_R005 hyp  KHÔNG   LÀM   MÔI  TRƯỜNG  CẦN  ĐƯỢC  NGĂN  CHẶN
+VIVOSSPK01_R005 op     S      S     C      C     C     C     C     C 
+VIVOSSPK01_R005 #csid 6 2 0 0
+VIVOSSPK01_R006 ref  TRÔNG  THẤY  TÀU  CÁ  ĐẰNG   XA  ANH  ĐÃ  ẤN  CÒI  CẢNH  BÁO
+VIVOSSPK01_R006 hyp  TRONG  THẤY  ĐAU  CA  ĐANG  PHA  ANH  ĐÃ  ẤN  CÒI  CẢNH  BÁO
+VIVOSSPK01_R006 op     S      C    S    S    S    S    C    C   C   C     C    C 
+VIVOSSPK01_R006 #csid 7 5 0 0
+VIVOSSPK01_R007 ref  MẤY  SÀO  RUỘNG  CỦA  GIA  ĐÌNH   ÔNG  ĐÀNH  BỎ  HOANG  CHO  CỎ  MỌC
+VIVOSSPK01_R007 hyp  MẤY  SÀO  RUỘNG  CỦA  GIA  ĐÌNH  LONG  ĐÀNH  BỎ  HOANG  CHO  CỎ  MỌC
+VIVOSSPK01_R007 op    C    C     C     C    C     C     S     C    C    C     C    C   C 
+VIVOSSPK01_R007 #csid 12 1 0 0
+VIVOSSPK01_R008 ref  CÓ  ĐÊM  GẶP  PHẢI  HEO  NỌC  NÓ  RƯỢT
+VIVOSSPK01_R008 hyp  CÓ  ĐÊM  GẶP  PHẢI  HEO  NỌC  NÓ  RƯỢT
+VIVOSSPK01_R008 op    C   C    C     C    C    C    C    C 
+VIVOSSPK01_R008 #csid 8 0 0 0
+VIVOSSPK01_R009 ref  CÁC  BÀN  HỌC  NHỎ  HẰNG  NGÀY  NAY  TRỞ  THÀNH  BÀN  THỜ  CỦA  CÁC  CHÁU
+VIVOSSPK01_R009 hyp  CÁC  BÀN  HỌC  NHỎ  HẰNG  NGÀY  NAY  TRỞ  THÀNH  BÀN  THỜ  CỦA  CÁC  CHÁU
+VIVOSSPK01_R009 op    C    C    C    C     C     C    C    C     C     C    C    C    C     C 
+VIVOSSPK01_R009 #csid 14 0 0 0
+VIVOSSPK01_R010 ref  CHA  MẸ  TÔI  THƯỜNG  CHÌ  CHIẾT  NHAU  BẰNG  NHỮNG  LỜI  LẼ  KHÓ  NGHE
+VIVOSSPK01_R010 hyp  CHA  MẸ  TÔI  THƯỜNG  CHÌ  CHIẾT  NHAU  BẰNG  NHỮNG  LỜI  LẼ  KHÓ  NGHE
+VIVOSSPK01_R010 op    C    C   C      C     C     C      C     C     C     C    C   C     C 
+VIVOSSPK01_R010 #csid 13 0 0 0
+VIVOSSPK01_R011 ref  HẤP  DẪN  NHẤT  LÀ  CUỘC  THI  BƠI  THUYỀN  TRUYỀN  THỐNG
+VIVOSSPK01_R011 hyp  HẤP  DẪN  NHẤT  LÀ  CUỘC  THI  BƠI  THUYỀN  TRUYỀN  THỐNG
+VIVOSSPK01_R011 op    C    C     C    C    C    C    C      C       C      C  
+VIVOSSPK01_R011 #csid 10 0 0 0
+VIVOSSPK01_R012 ref  VỚI  NHỮNG   CỜ  LÍP  NHẠC  TRUYỀN  HÌNH
+VIVOSSPK01_R012 hyp  VỚI  NHỮNG  TÔI  LÍP  NHẠC  TRUYỀN  HÌNH
+VIVOSSPK01_R012 op    C     C     S    C     C      C      C 
+VIVOSSPK01_R012 #csid 6 1 0 0
+VIVOSSPK01_R013 ref  MỘT  TRONG  NHỮNG  CÁCH  TỐT  NHẤT
+VIVOSSPK01_R013 hyp  MỘT  TRONG  NHỮNG  CÁCH  TỐT  NHẤT
+VIVOSSPK01_R013 op    C     C      C      C    C     C 
+VIVOSSPK01_R013 #csid 6 0 0 0
+VIVOSSPK01_R014 ref  ĂN  CẮP  PHỖNG  TƯỢNG
+VIVOSSPK01_R014 hyp  ĂN  CẮP  PHỖNG  TƯỢNG
+VIVOSSPK01_R014 op    C   C     C      C  
+VIVOSSPK01_R014 #csid 4 0 0 0
+VIVOSSPK01_R015 ref  TỚI  VỖ  VAI  HỎI  VỀ  CHIẾC  ÁO  MỚI  MUA
+VIVOSSPK01_R015 hyp  TÔI  VỖ  VAI  HỎI  VỀ  CHIẾC  ÁO  MỚI  MUA
+VIVOSSPK01_R015 op    S    C   C    C    C    C     C   C    C 
+VIVOSSPK01_R015 #csid 8 1 0 0
+VIVOSSPK01_R016 ref  BÀO  CHẾ  NHỮNG  LOẠI  THUỐC  CHỮA  NGHIỆN  MA  TÚY
+VIVOSSPK01_R016 hyp  BÀO  CHẾ  NHỮNG  LOẠI  THUỐC  CHỮA  NGHIỆN  MA  TUÝ
+VIVOSSPK01_R016 op    C    C     C      C     C      C      C     C   S 
+VIVOSSPK01_R016 #csid 8 1 0 0
+VIVOSSPK01_R017 ref  NHỮNG  MÁI  NGÓI  ÂM  DƯƠNG  CỔ  KÍNH
+VIVOSSPK01_R017 hyp  NHỮNG  MÁI  NGÓI  ÂM  DƯƠNG  CỔ  KÍNH
+VIVOSSPK01_R017 op     C     C     C    C    C     C    C 
+VIVOSSPK01_R017 #csid 7 0 0 0
+VIVOSSPK01_R018 ref  MẶT  MŨI  NÓ  CÒN  CÀU  CẠU
+VIVOSSPK01_R018 hyp  MẶT  MŨI  NÓ  CÒN   CÓ  VÀO
+VIVOSSPK01_R018 op    C    C    C   C    S    S 
+VIVOSSPK01_R018 #csid 4 2 0 0
+VIVOSSPK01_R019 ref  NẮNG  ĐÀO  LÀM  ỬNG  HỒNG  NHỮNG  ĐÔI  MÁ  THIẾU  NỮ  HÀ  THÀNH
+VIVOSSPK01_R019 hyp  NẮNG  ĐÀO  LÀM   Ở   MONG  NHỮNG  ĐÔI  MÁ  THIẾU  NỮ  HÀ  THÀNH
+VIVOSSPK01_R019 op     C    C    C    S     S     C     C    C    C     C   C    C  
+VIVOSSPK01_R019 #csid 10 2 0 0
+VIVOSSPK01_R020 ref  CHIẾC  Ổ  THƯỜNG  XUYÊN  ĐƯỢC  KHÓA  CHẶT  VÀO  BÀN
+VIVOSSPK01_R020 hyp  CHIẾC  Ổ  THƯỜNG  XUYÊN   NÓ    VA   CHẠM  VÀO  BÀN
+VIVOSSPK01_R020 op     C    C     C      C      S     S     S    C    C 
+VIVOSSPK01_R020 #csid 6 3 0 0
+VIVOSSPK01_R021 ref  LÀM  TÓC  KIỂU  NÀY  TRÔNG  BẠN  QUÝ  PHÁI  MỘT  CÁCH  TỰ  NHIÊN
+VIVOSSPK01_R021 hyp  LÀM  TÓC  KIỂU  NÀY  TRONG  BẠN  QUÝ  PHÁI  MỘT  CÁCH  TỰ  NHIÊN
+VIVOSSPK01_R021 op    C    C     C    C     S     C    C     C    C     C    C    C  
+VIVOSSPK01_R021 #csid 11 1 0 0
+VIVOSSPK01_R022 ref  ĐỒNG  NGHIỆP  TÂY  BẢO  NHẠC  CỦA  TÔI  CHỈ  THOÁNG  NGHE
+VIVOSSPK01_R022 hyp  ĐỒNG  NGHIỆP  TÂY  BAN   NHA  CỦA  TÔI  CHỈ  THOÁNG  NGHE
+VIVOSSPK01_R022 op     C      C     C    S     S    C    C    C      C      C 
+VIVOSSPK01_R022 #csid 8 2 0 0
+VIVOSSPK01_R023 ref  ĐÂU  LÀ  TÌNH  YÊU  ĐÍCH  THỰC
+VIVOSSPK01_R023 hyp  ĐÂU  LÀ  TÌNH  YÊU  ĐÍCH  THỰC
+VIVOSSPK01_R023 op    C    C    C    C     C     C 
+VIVOSSPK01_R023 #csid 6 0 0 0
+VIVOSSPK01_R024 ref  CŨNG  SẼ  GẶP  KHÓ  KHĂN   VÌ  KHÔNG  CÓ  HÌNH  ẢNH  ĐỂ  ĐỐI  CHIẾU
+VIVOSSPK01_R024 hyp  CŨNG  SẼ  GẶP  KHÓ  KHĂN  KHI  KHÔNG  CÓ  HÌNH  ẢNH  ĐỂ  ĐỐI  CHIẾU
+VIVOSSPK01_R024 op     C    C   C    C     C    S     C     C    C    C    C   C     C  
+VIVOSSPK01_R024 #csid 12 1 0 0
+VIVOSSPK01_R025 ref  TAY  CẦM  MỘT  CỌC  TIỀN  ĐẾM  XOÈN  XOẸT  ĐƯA  CHO  CHA  MẸ  CÔ  DÂU
+VIVOSSPK01_R025 hyp  TAY  CẦM  MỘT  CỌC  TIỀN  ĐẾM  XOÈN  XOẸT  ĐƯA  CHO  CHA  MẸ  CÔ  DÂU
+VIVOSSPK01_R025 op    C    C    C    C     C    C     C     C    C    C    C    C   C   C 
+VIVOSSPK01_R025 #csid 14 0 0 0
+VIVOSSPK01_R026 ref  TRONG  NIỀM   PHẤN  KHỞI  CỦA  BÀ  CON   NGƯ   DÂN
+VIVOSSPK01_R026 hyp  TRONG  NIÊM  PHONG  KHÓI  CỦA  BÀ  CON  NGƯỜI  VĂN
+VIVOSSPK01_R026 op     C      S     S      S    C    C   C     S     S 
+VIVOSSPK01_R026 #csid 4 5 0 0
+VIVOSSPK01_R027 ref  BẮT  ĐẦU  LỌC  CỌC  TIẾNG  DÙI  ĐỤC  CỦA  THỢ  MỘC
+VIVOSSPK01_R027 hyp  BẮT  ĐẦU  LỌC  CỌC  TIẾNG  DÙI  ĐỤC  CỦA   HỌ  MỘT
+VIVOSSPK01_R027 op    C    C    C    C     C     C    C    C    S    S 
+VIVOSSPK01_R027 #csid 8 2 0 0
+VIVOSSPK01_R028 ref  VIỆC  THIẾT  LẬP  TỐC  ĐỘ  NHÁY  CHUỘT
+VIVOSSPK01_R028 hyp  VIỆC  THIẾT  LẬP  TỐC  ĐỘ  NHÁY  CHUỘT
+VIVOSSPK01_R028 op     C     C     C    C    C    C     C  
+VIVOSSPK01_R028 #csid 7 0 0 0
+VIVOSSPK01_R029 ref  KẾT  LUẬN  TRÊN  ĐÃ  CHO  THẤY
+VIVOSSPK01_R029 hyp  KẾT  LUẬN  CHEN  ĐÃ  CHO  THẤY
+VIVOSSPK01_R029 op    C     C     S    C   C     C 
+VIVOSSPK01_R029 #csid 5 1 0 0
+VIVOSSPK01_R030 ref  LẶN  NGỤP  VEN  HỒ  TÂY  ĐỂ  KIẾM  SỐNG
+VIVOSSPK01_R030 hyp  LẶN  NGỤP  VEN  HỒ  TÂY  ĐỂ  KIẾM  SỐNG
+VIVOSSPK01_R030 op    C     C    C    C   C    C    C     C 
+VIVOSSPK01_R030 #csid 8 0 0 0
+VIVOSSPK01_R031 ref  CHÚNG  TÔI  CỨ  LEN  LÉN  NHÌN  VÀ  CHẲNG  THẤY  NGƯỢNG  NGẬP
+VIVOSSPK01_R031 hyp  CHÚNG  TÔI  CỨ  LEN  LÉN   ĐI   MÀ  CHẲNG  THẤY   NGỘT   NGẠT
+VIVOSSPK01_R031 op     C     C    C   C    C     S    S    C      C      S      S 
+VIVOSSPK01_R031 #csid 7 4 0 0
+VIVOSSPK01_R032 ref  CỦA  NGƯỜI  MẸ  ĐANG  PHẢI  CẦM  HƠI  BẰNG  LÁ  CÂY
+VIVOSSPK01_R032 hyp  CỦA  NGƯỜI  MẸ  ĐANG  PHẢI   TA  MỚI  BẰNG  LÁ  CÂY
+VIVOSSPK01_R032 op    C     C     C    C     C    S    S     C    C   C 
+VIVOSSPK01_R032 #csid 8 2 0 0
+VIVOSSPK01_R033 ref    HUN   ĐÚC  NÊN  TINH  THẦN  THI  ĐẤU  QUẢ  CẢM  VỚI  ĐỒNG  THÁP
+VIVOSSPK01_R033 hyp  KHOANH   NỢ  NÊN  TINH  THẦN  THI  ĐẤU   VÀ  CẢM  VỚI  ĐỒNG  THÁP
+VIVOSSPK01_R033 op      S     S    C     C     C    C    C    S    C    C     C     C 
+VIVOSSPK01_R033 #csid 9 3 0 0
+VIVOSSPK01_R034 ref  KHÔNG  DÈ  LẦN  LÊN  COI  THỬ
+VIVOSSPK01_R034 hyp  KHÔNG  LE   LÀ  LÊN  COI  THỬ
+VIVOSSPK01_R034 op     C     S   S    C    C    C 
+VIVOSSPK01_R034 #csid 4 2 0 0
+VIVOSSPK01_R035 ref  NÊN  VIỆC  PHÁ  RỪNG  ĐỐT  THAN  NGÀY  CÀNG  TRỞ  NÊN  BỨC  XÚC
+VIVOSSPK01_R035 hyp  NÊN  VIỆC  PHÁ  RỪNG  ĐỐT  THAN  NGÀY  CÀNG  TRỞ  NÊN  BỨC  XÚC
+VIVOSSPK01_R035 op    C     C    C     C    C     C     C     C    C    C    C    C 
+VIVOSSPK01_R035 #csid 12 0 0 0
+VIVOSSPK01_R036 ref   Ở  ĐỜI  PHÀM  CÁI  GÌ  ĐÚNG  THỜI  CƠ  MỚI  ĐẠT  HIỆU  QUẢ
+VIVOSSPK01_R036 hyp  TO  ĐÔI  KHÁM  CÁI  VI  ĐỒNG  THỜI  CÓ  MỚI  ĐẠT  HIỆU  QUẢ
+VIVOSSPK01_R036 op    S   S     S    C    S    S     C    S   C    C     C    C 
+VIVOSSPK01_R036 #csid 6 6 0 0
+VIVOSSPK01_R037 ref  CÒN  CÓ  TÁC  DỤNG
+VIVOSSPK01_R037 hyp  CÒN  CÓ  TÁC  DỤNG
+VIVOSSPK01_R037 op    C    C   C     C 
+VIVOSSPK01_R037 #csid 4 0 0 0
+VIVOSSPK01_R038 ref  DẤU  HIỆU  DUY  NHẤT  ĐỂ  NHẬN  RA  KHO  LÚA  VĨNH  THÀNH
+VIVOSSPK01_R038 hyp  DẤU  HIỆU  DUY  NHẤT  ĐỂ  NHẬN  RA  KHO  LÚA  VĨNH  THÀNH
+VIVOSSPK01_R038 op    C     C    C     C    C    C    C   C    C     C     C  
+VIVOSSPK01_R038 #csid 11 0 0 0
+VIVOSSPK01_R039 ref  NHƯNG  RỒI  CŨNG  KHỔ   SỞ  ĐẾN   DƯỜNG  NÀO
+VIVOSSPK01_R039 hyp  NHƯNG  TÔI  CŨNG   HỖ  PHÓ  ĐẾN  THƯƠNG  NÀO
+VIVOSSPK01_R039 op     C     S     C    S    S    C      S     C 
+VIVOSSPK01_R039 #csid 4 4 0 0
+VIVOSSPK01_R040 ref  GIÁ  CẢ  THUỘC  DẠNG  VÔ  CÙNG  LÊN  BỔNG  XUỐNG  TRẦM  TẸP  NHẸP
+VIVOSSPK01_R040 hyp  GIÁ  CẢ  THUỘC  NĂNG  VÔ  CÙNG  LÊN  BỔNG  XUỐNG  TRẦM  TẸP  NHẸP
+VIVOSSPK01_R040 op    C    C    C      S    C    C    C     C     C      C    C     C 
+VIVOSSPK01_R040 #csid 11 1 0 0
+VIVOSSPK01_R041 ref  NỮ  THẦN  TỰ  DO  VỚI  BÀN  TAY  CẦM  ĐUỐC
+VIVOSSPK01_R041 hyp  NỮ  THẦN  TỰ  DO  VỚI  BÀN  TAY  CẦM  ĐUỐC
+VIVOSSPK01_R041 op    C    C    C   C   C    C    C    C     C 
+VIVOSSPK01_R041 #csid 9 0 0 0
+VIVOSSPK01_R042 ref  NHỮNG  CON  SÂU  TRÚNG  THUỐC  RƠI  XUỐNG  GIÃY  GIỤA
+VIVOSSPK01_R042 hyp  NHỮNG  CON  SÂU  TRÚNG  THUỐC  VÒI   PHUN   VẨY   LỘ 
+VIVOSSPK01_R042 op     C     C    C     C      C     S     S      S     S 
+VIVOSSPK01_R042 #csid 5 4 0 0
+VIVOSSPK01_R043 ref  VỪA  ĐI  VỪA  CA  NGHÊU  NGAO
+VIVOSSPK01_R043 hyp  VỪA  ĐI  VỪA  CA  NGHÊU  NGAO
+VIVOSSPK01_R043 op    C    C   C    C    C      C 
+VIVOSSPK01_R043 #csid 6 0 0 0
+VIVOSSPK01_R044 ref  ***  DƯỚI   ĐÁY  BIỂN
+VIVOSSPK01_R044 hyp  VỚI   ĐÂY  BIẾT  MÌNH
+VIVOSSPK01_R044 op    I     S     S     S 
+VIVOSSPK01_R044 #csid 0 3 1 0
+VIVOSSPK01_R045 ref  NHỮNG  SỢI  BÚN  ĐƯỢC  CUỘN  THÀNH  DÂY  CHÃO
+VIVOSSPK01_R045 hyp  NHỮNG  SỢI  BÚN  NƯỚC  QUẬN  THANH  DÂY  CHÃO
+VIVOSSPK01_R045 op     C     C    C     S     S     S     C     C 
+VIVOSSPK01_R045 #csid 5 3 0 0
+VIVOSSPK01_R046 ref  KHOANH  TRÒN  TRÊN  TẤM   LÁ  CHUỐI
+VIVOSSPK01_R046 hyp  KHOANH  TRÒN  TRÊN  TẤM  LÀM   RỐI 
+VIVOSSPK01_R046 op      C      C     C    C    S     S  
+VIVOSSPK01_R046 #csid 4 2 0 0
+VIVOSSPK01_R047 ref  RƠI  VÀO  CẢNH  ĐÌU  HIU  BỞI  DU  KHÁCH  THƯA  THỚT
+VIVOSSPK01_R047 hyp  RƠI  VÀO  CẢNH  ĐÌU  HIU  BỞI  DU  KHÁCH  THƯA  THỚT
+VIVOSSPK01_R047 op    C    C     C    C    C    C    C    C      C     C 
+VIVOSSPK01_R047 #csid 10 0 0 0
+VIVOSSPK01_R048 ref  SAU  ĐÓ  NHỮNG  NGƯỜI  NÀY  ĐƯỢC  TRẮC  NGHIỆM  KHẢ  NĂNG  GHI  NHỚ
+VIVOSSPK01_R048 hyp  SAU  ĐÓ  NHỮNG  NGƯỜI  NÀY  ĐƯỢC  TRẮC  NGHIỆM  KHẢ  NĂNG  GHI  NHỚ
+VIVOSSPK01_R048 op    C    C    C      C     C     C     C      C     C     C    C    C 
+VIVOSSPK01_R048 #csid 12 0 0 0
+VIVOSSPK01_R049 ref  MUỐN  SÀNH  ĐIỆU  NGUYÊN  CON
+VIVOSSPK01_R049 hyp  MUỐN  SÀNH  ĐIỆU  NGUYÊN  CON
+VIVOSSPK01_R049 op     C     C     C      C     C 
+VIVOSSPK01_R049 #csid 5 0 0 0
+VIVOSSPK01_R050 ref  VỚI  NHỮNG  TRÀNG  PHÁO  TAY  VÀ  TIẾNG  TRẦM  TRỒ  TÁN  THƯỞNG  KHÔNG  NGỚT
+VIVOSSPK01_R050 hyp  VỚI  NHỮNG  TRÀNG  PHÁO  TAY  VÀ  TIẾNG  TRẦM  TRỒ  TÁN  THƯỞNG  KHÔNG   MÓC
+VIVOSSPK01_R050 op    C     C      C      C    C    C    C      C    C    C      C      C      S 
+VIVOSSPK01_R050 #csid 12 1 0 0
+VIVOSSPK01_R051 ref  HI  VỌNG   Ở  LẦN  SINH  NHẬT   SAU
+VIVOSSPK01_R051 hyp  HI  VỌNG  LÀ  LẦN   DUY  NHẤT  PHAO
+VIVOSSPK01_R051 op    C    C    S   C     S     S     S 
+VIVOSSPK01_R051 #csid 3 4 0 0
+VIVOSSPK01_R052 ref  THEO  LUẬT  NHÂN  QUẢ  MÀ  GẦN  ĐÂY  KHOA  HỌC  ĐÃ  CHỨNG  MINH  ĐƯỢC
+VIVOSSPK01_R052 hyp  THEO  LUẬT  NHÂN  QUẢ  MÀ  LÊN  ĐÂY  KHOA  HỌC  ĐÃ  CHỨNG  MINH  ĐƯỢC
+VIVOSSPK01_R052 op     C     C     C    C    C   S    C     C    C    C    C      C     C 
+VIVOSSPK01_R052 #csid 12 1 0 0
+VIVOSSPK01_R053 ref  ÔNG  LƯỚT  NHẸ  NGÓN  TAY  GẦY  GUỘC  TRÊN  NHỮNG  CON   CHỮ 
+VIVOSSPK01_R053 hyp  ÔNG  LƯỚT  NHẸ  NGÓN  TAY  GẦY  GUỘC  TRÊN  NHỮNG  CON  TRƯỚC
+VIVOSSPK01_R053 op    C     C    C     C    C    C     C     C     C     C     S  
+VIVOSSPK01_R053 #csid 10 1 0 0
+VIVOSSPK01_R054 ref  PHẢI   DỪNG  MÁY  TÀU  VÀ  LẶN  XUỐNG  BIỂN  DÙNG  DAO  MÀ  CẮT
+VIVOSSPK01_R054 hyp  THÁI  DƯƠNG  MAY  TAO  VÀ  LÀM   DÂU    MỀM  DÙNG  DAO  MÀ  CÁC
+VIVOSSPK01_R054 op     S     S     S    S    C   S     S      S     C    C    C   S 
+VIVOSSPK01_R054 #csid 4 8 0 0
+VIVOSSPK01_R055 ref  VÀ  MỘT  NHÓM  NGƯỜI  ĐANG  HÍ  HÚI  QUAY  PHIM
+VIVOSSPK01_R055 hyp  BA  MỘT  NHÓM  NGƯỜI  ĐANG  HÍ  HÚI  QUAY  PHIM
+VIVOSSPK01_R055 op    S   C     C     C      C    C   C     C     C 
+VIVOSSPK01_R055 #csid 8 1 0 0
+VIVOSSPK01_R056 ref  HAI  BÀN  CHÂN  TÍ  XÍU  KIA  MỚI  ĐƯA  ĐƯỢC  CÁC  EM  VỀ  TỚI  NHÀ
+VIVOSSPK01_R056 hyp  HAI  BÀN  CHÂN  TÍ  XÍU  KIA  MỚI  ĐƯA  ĐƯỢC  CÁC  EM  VỀ  TỚI  NHÀ
+VIVOSSPK01_R056 op    C    C     C    C   C    C    C    C     C    C    C   C   C    C 
+VIVOSSPK01_R056 #csid 14 0 0 0
+VIVOSSPK01_R057 ref  CHẢY  NHÃO  DƯỚI  NẮNG
+VIVOSSPK01_R057 hyp  TRAI   NHÀ   VỚI  NĂNG
+VIVOSSPK01_R057 op     S     S     S     S 
+VIVOSSPK01_R057 #csid 0 4 0 0
+VIVOSSPK01_R058 ref  TÔI  XIN  PHÉP  RA  NGOÀI  VỊ  GIÁM  THỊ  TRẺ   XẴNG  GIỌNG
+VIVOSSPK01_R058 hyp  TÔI  XIN  PHÉP  RA  NGOÀI  VÌ   NAM  THỊ  TRẺ  PHÓNG   LAO 
+VIVOSSPK01_R058 op    C    C     C    C    C     S    S    C    C     S      S  
+VIVOSSPK01_R058 #csid 7 4 0 0
+VIVOSSPK01_R059 ref  NHƯNG  THỰC  RA  CÓ  THỂ  KHÔNG  PHẢI  LÀ  NHƯ  VẬY
+VIVOSSPK01_R059 hyp  NHƯNG  THỰC  RA  CÓ  THỂ  KHÔNG  PHẢI  LÀ  NHƯ  VẬY
+VIVOSSPK01_R059 op     C      C    C   C   C     C      C    C   C    C 
+VIVOSSPK01_R059 #csid 10 0 0 0
+VIVOSSPK01_R060 ref  DÁC  DÁO  DÁC  TÌM  GIÚP  VIỆC  SAU  TẾT
+VIVOSSPK01_R060 hyp  DÁC  DÁO  DÁC  TÌM  GIÚP  VIỆC  SAU  TẾT
+VIVOSSPK01_R060 op    C    C    C    C     C     C    C    C 
+VIVOSSPK01_R060 #csid 8 0 0 0
+VIVOSSPK01_R061 ref  NÊN  ĐẶT  BÚT  KÝ  HỢP  ĐỒNG  CHO  THUÊ  VỚI  GIÁ  BÈO
+VIVOSSPK01_R061 hyp  NÊN  ĐẶT  BÚT  KÝ  HỢP  ĐỒNG  CHO  THUÊ  VỚI  GIÁ  BÈO
+VIVOSSPK01_R061 op    C    C    C    C   C     C    C     C    C    C    C 
+VIVOSSPK01_R061 #csid 11 0 0 0
+VIVOSSPK01_R062 ref  TÔI  KHÔNG  SỢ  CON  ĐƯỜNG  DẰNG  DẶC  TỪ  THỊ  THÀNH
+VIVOSSPK01_R062 hyp  TÔI  KHÔNG  SỢ  CON   NÔNG   DÂN  LẬP  TỪ  THỊ  THÀNH
+VIVOSSPK01_R062 op    C     C     C   C     S      S    S    C   C     C  
+VIVOSSPK01_R062 #csid 7 3 0 0
+VIVOSSPK01_R063 ref  MỘT  NGƯỜI  GÁNH  NƯỚC  DƯỚI  KHE  SUỐI  LÊN
+VIVOSSPK01_R063 hyp  MỘT  NGƯỜI  ĐANG  NƯỚC   VỚI  PHE  PHỐI  LÊN
+VIVOSSPK01_R063 op    C     C      S     C     S    S     S    C 
+VIVOSSPK01_R063 #csid 4 4 0 0
+VIVOSSPK01_R064 ref  SÀNG   SẢY  THÓC  NGAY  NGÕ  GẠCH
+VIVOSSPK01_R064 hyp  SANG  PHẢI  THÓC  NGAY  NGÕ  GẠCH
+VIVOSSPK01_R064 op     S     S     C     C    C     C 
+VIVOSSPK01_R064 #csid 4 2 0 0
+VIVOSSPK01_R065 ref  NGAY  CẢ  NỀN  SẢN  XUẤT  HIỆN  ĐẠI  NHƯ  MỸ
+VIVOSSPK01_R065 hyp  NGAY  CẢ  NÊN  SẢN  XUẤT  HIỆN  ĐẠI  NHƯ  MỸ
+VIVOSSPK01_R065 op     C    C   S    C     C     C    C    C    C
+VIVOSSPK01_R065 #csid 8 1 0 0
+VIVOSSPK01_R066 ref  VỀ  HÀNH  VI  TRUYỀN  BÁ  VĂN  HÓA  PHẨM  ĐỒI  TRỤY  KHÔNG  NGUỒN  GỐC
+VIVOSSPK01_R066 hyp  VỀ  HÀNH  VI   TRÊN   BA  VĂN  HOÁ  PHẨM  TÔI   THÌ  KHÔNG  NGUỒN  GỐC
+VIVOSSPK01_R066 op    C    C    C     S     S   C    S     C    S     S     C      C     C 
+VIVOSSPK01_R066 #csid 8 5 0 0
+VIVOSSPK01_R067 ref  CÓ  THỂ  ĐÂY  LÀ  CÁI  CẠM  BẪY  PHÁ  HOẠI  CỦA  BỌN   PHẢN  ĐỘNG
+VIVOSSPK01_R067 hyp  CÓ  THỂ  ĐÂY  LÀ  CÁI  CẠM  BẪY  PHÁ  HOẠI  CỦA  BOM  THÀNH  ĐỘNG
+VIVOSSPK01_R067 op    C   C    C    C   C    C    C    C     C    C    S     S      C 
+VIVOSSPK01_R067 #csid 11 2 0 0
+VIVOSSPK01_R068 ref  NẾU  TẬP  TRUNG  TẠI  TRUNG  TÂM  HUẤN  LUYỆN  THỂ  THAO  QUỐC  GIA  I  NHỔN
+VIVOSSPK01_R068 hyp  NẾU  TẬP  TRUNG  TẠI  TRUNG  TÂM  HUẤN  LUYỆN  THỂ  THAO  QUỐC   LÀ  I  NHỔN
+VIVOSSPK01_R068 op    C    C     C     C     C     C     C     C     C     C     C    S   C    C 
+VIVOSSPK01_R068 #csid 13 1 0 0
+VIVOSSPK01_R069 ref  CHIẾN  KHU  RỪNG   SÁC  LÀ  MỘT  VÙNG  ĐẦM  LẦY  NƯỚC  MẶN
+VIVOSSPK01_R069 hyp  CHÍNH  KHU   HỮU  PHÁP  LÀ  MỘT  VÙNG  ĐẦM  LẦY  NƯỚC  MẮM
+VIVOSSPK01_R069 op     S     C     S     S    C   C     C    C    C     C    S 
+VIVOSSPK01_R069 #csid 7 4 0 0
+VIVOSSPK01_R070 ref  KHIẾN  CHIẾC  THUYỀN  TRÒNG  TRÀNH  RỒI  LẬT  NHÀO
+VIVOSSPK01_R070 hyp  KHIẾN  CHIẾC  THUYỀN  TRÒNG  TRÀNH  RỒI  LẬP  NHAU
+VIVOSSPK01_R070 op     C      C       C      C      C     C    S     S 
+VIVOSSPK01_R070 #csid 6 2 0 0
+VIVOSSPK01_R071 ref  CÓ  THỂ  CHO  ÍT  NƯỚC  MUỐI  VÀO  LÒNG  BÀN  TAY
+VIVOSSPK01_R071 hyp  CÓ  THỂ  CHO  ÍT  NƯỚC  MUỐI  VÀO  LÒNG  BÀN  TAY
+VIVOSSPK01_R071 op    C   C    C    C    C     C    C     C    C    C 
+VIVOSSPK01_R071 #csid 10 0 0 0
+VIVOSSPK01_R072 ref  TÔI  TÌNH  CỜ  PHÁT  HIỆN  KHẢ  NĂNG  HÚT  THÌA  MUỖNG
+VIVOSSPK01_R072 hyp  TÔI   TIN  CÓ  PHÁT  HIỆN  KHẢ  NĂNG  HÚT  THÌA  MUỖNG
+VIVOSSPK01_R072 op    C     S    S    C     C    C     C    C     C     C  
+VIVOSSPK01_R072 #csid 8 2 0 0
+VIVOSSPK01_R073 ref  KHI  CẢ  HAI  VỪA  CHIẾN  THẮNG  NGOẠN  MỤC
+VIVOSSPK01_R073 hyp  KHI  CẢ  HAI  VỚI  THIÊN   THẦN   ANH   MỘT
+VIVOSSPK01_R073 op    C    C   C    S     S      S      S     S 
+VIVOSSPK01_R073 #csid 3 5 0 0
+VIVOSSPK01_R074 ref  TÔI  ĐÃ  TRẢI  QUA  GIÂY  PHÚT  NHIỄM  SÉT  NHƯ  THẾ
+VIVOSSPK01_R074 hyp  TÔI  ĐÃ  TRẢI  QUA  GIÂY  PHÚT  NHIỄM  SÉT  NHƯ  THẾ
+VIVOSSPK01_R074 op    C    C    C    C     C     C     C     C    C    C 
+VIVOSSPK01_R074 #csid 10 0 0 0
+VIVOSSPK01_R075 ref  ĐÃ  ĐẠT  GẦN  ĐẾN  CHUẨN  QUỐC  TẾ
+VIVOSSPK01_R075 hyp  ĐÁ  ĐẠT  GẦN  ĐẾN  CHUẨN  QUỐC  TẾ
+VIVOSSPK01_R075 op    S   C    C    C     C      C    C
+VIVOSSPK01_R075 #csid 6 1 0 0
+VIVOSSPK01_R076 ref  KHI  LÀM  MỚI  CHỦ  YẾU  LÀ  TRÁNG  NHỰA  CHỨ  KHÔNG  MỞ  RỘNG
+VIVOSSPK01_R076 hyp  KHI  LÀM  MỚI  CHỦ  YẾU  LÀ  TRÁNG  NHỰA  CHỨ  KHÔNG  MỞ   GÓC
+VIVOSSPK01_R076 op    C    C    C    C    C    C    C      C    C     C     C    S 
+VIVOSSPK01_R076 #csid 11 1 0 0
+VIVOSSPK01_R077 ref  TÌM  CÁCH  LẬT  MẶT  KẺ  CẬY  QUYỀN  GIỮA  CHỐN  CÔNG  ĐƯỜNG
+VIVOSSPK01_R077 hyp  TÌM  CÁCH  LÀM  MẶT  KẺ  CẬY  QUYỀN  GIỮA  CHỐN  CÔNG   ĐÔN 
+VIVOSSPK01_R077 op    C     C    S    C    C   C     C      C     C     C     S  
+VIVOSSPK01_R077 #csid 9 2 0 0
+VIVOSSPK01_R078 ref   DỰNG    CỨ  DỰNG
+VIVOSSPK01_R078 hyp  PHƯỢNG  CƠN   LỐC
+VIVOSSPK01_R078 op      S     S     S 
+VIVOSSPK01_R078 #csid 0 3 0 0
+VIVOSSPK01_R079 ref   UY   TÍN  CỦA  MỘT  PHÓNG  VIÊN
+VIVOSSPK01_R079 hyp  TIẾT  TIN   CÓ  MỘT  PHÓNG  VIÊN
+VIVOSSPK01_R079 op     S    S    S    C     C      C 
+VIVOSSPK01_R079 #csid 3 3 0 0
+VIVOSSPK01_R080 ref  MỘT  LÒ  GẠCH  CHÔNG  CHÊNH  TRÊN  SƯỜN  ĐỒI
+VIVOSSPK01_R080 hyp  MỘT  LÒ  GẠCH  TRONG  TRANH  TRÊN   SÂN  ĐÔI
+VIVOSSPK01_R080 op    C    C    C     S      S      C     S    S 
+VIVOSSPK01_R080 #csid 4 4 0 0
+VIVOSSPK01_R081 ref  GIỮA  QUẠNH  HIU  LÁ  CỎ
+VIVOSSPK01_R081 hyp  GIỮA  QUẠNH  HIU  LÁ  CỎ
+VIVOSSPK01_R081 op     C     C     C    C   C
+VIVOSSPK01_R081 #csid 5 0 0 0
+VIVOSSPK01_R082 ref  BEN  THẤY   HỮU  THẬT  BUỒN  CƯỜI
+VIVOSSPK01_R082 hyp  BEN  THẤY  HIỆU  THẬT  BUỒN  CƯỜI
+VIVOSSPK01_R082 op    C     C     S     C     C     C 
+VIVOSSPK01_R082 #csid 5 1 0 0
+VIVOSSPK01_R083 ref  CHÚNG  TA  LÀM  CHO  MỌI  THỨ  RỐI  TUNG  LÊN
+VIVOSSPK01_R083 hyp  CHÚNG  TA  LÀM  CHO  MỌI  THỨ  RỐI  TUNG  LÊN
+VIVOSSPK01_R083 op     C     C   C    C    C    C    C     C    C 
+VIVOSSPK01_R083 #csid 9 0 0 0
+VIVOSSPK01_R084 ref  HẾT  LẦN  NÀY  ĐẾN  LẦN  KHÁC
+VIVOSSPK01_R084 hyp  HẾT  LẦN  NÀY  ĐẾN  LẦN  KHÁC
+VIVOSSPK01_R084 op    C    C    C    C    C     C 
+VIVOSSPK01_R084 #csid 6 0 0 0
+VIVOSSPK01_R085 ref  LÊ  THỊ  HỒNG  NGỌC  CHỦ  QUÁN  CƠM  NIÊU  TRÊN  ĐƯỜNG  TÚ  XƯƠNG
+VIVOSSPK01_R085 hyp  LÊ  THỊ  HỒNG  NGỌC  CHỦ  QUÁN  CƠM  NIÊU  TRÊN   ĐÔNG  TÚ  XƯƠNG
+VIVOSSPK01_R085 op    C   C     C     C    C     C    C     C     C     S     C    C  
+VIVOSSPK01_R085 #csid 11 1 0 0
+VIVOSSPK01_R086 ref  VỤ  VIỆC  CHỈ  KẾT  THÚC  SAU  CUỘC  ĐỘT  KÍCH
+VIVOSSPK01_R086 hyp  VỤ  VIỆC  CHỈ  KẾT  THÚC  SAU  CUỘC  ĐỘT   KẾT
+VIVOSSPK01_R086 op    C    C    C    C     C    C     C    C     S 
+VIVOSSPK01_R086 #csid 8 1 0 0
+VIVOSSPK01_R087 ref  BẰNG  MỌT  CÚ  SÚT  XA  ĐẸP  MẮT
+VIVOSSPK01_R087 hyp  BẰNG  MỌT  CÚ  SÚT  XA  ĐẸP  MẮT
+VIVOSSPK01_R087 op     C    C    C   C    C   C    C 
+VIVOSSPK01_R087 #csid 7 0 0 0
+VIVOSSPK01_R088 ref  NÓI  CÂU  GÌ  CŨNG  PHẢI  CÓ  ĐẦU  CÓ  ĐUÔI
+VIVOSSPK01_R088 hyp  NÓI  CÂU  VỀ  CŨNG  PHẢI  CÓ  ĐÂU  CÓ   ĐÔI
+VIVOSSPK01_R088 op    C    C    S    C     C    C   S    C    S 
+VIVOSSPK01_R088 #csid 6 3 0 0
+VIVOSSPK01_R089 ref  CHỚ  KHÔNG  ĐƯỢC  NÓI  NHĂNG  NHÍT
+VIVOSSPK01_R089 hyp  CHO    HỌ    MƠ   NÓI  NHĂNG  NHÍT
+VIVOSSPK01_R089 op    S     S      S    C     C      C 
+VIVOSSPK01_R089 #csid 3 3 0 0
+VIVOSSPK01_R090 ref  KHÔNG  ĐƯỢC  LẤY  QUE  CỜI  GÕ  GÕ  LÊN  TẤM  LƯNG  CÒNG  CỦA  CÁC  NGÀI
+VIVOSSPK01_R090 hyp  KHÔNG   ĐỘC  LẤY  QUE  CỜI  GÕ  CÓ  LÊN  TẤM  LƯNG  CÒNG  CỦA  CÁC  NGÀY
+VIVOSSPK01_R090 op     C      S    C    C    C    C   S   C    C     C     C    C    C     S 
+VIVOSSPK01_R090 #csid 11 3 0 0
+VIVOSSPK01_R091 ref  LUÔN  SĂN  ĐẦU  KHÁCH  VỚI  NHỮNG  LỜI  NŨNG  NỊU  ĐẾN  ***  MỀM  LÒNG
+VIVOSSPK01_R091 hyp  LUÔN  SĂN  ĐẦU  KHÁCH  VỚI  NHỮNG  LỜI  NŨNG  NỊU  ĐẾN   MẸ   EM   LÂM
+VIVOSSPK01_R091 op     C    C    C     C     C     C     C     C    C    C    I    S     S 
+VIVOSSPK01_R091 #csid 10 2 1 0
+VIVOSSPK01_R092 ref  LÀM  THỔI  TUNG  CẢ  MỘT  ĐỘI  QUÂN  CỦA  KẺ  THÙ
+VIVOSSPK01_R092 hyp  LÀM  THỔI  TUNG  CẢ  MỘT  ĐỘI  QUÂN  CỦA  KẺ  THÙ
+VIVOSSPK01_R092 op    C     C     C    C   C    C     C    C    C   C 
+VIVOSSPK01_R092 #csid 10 0 0 0
+VIVOSSPK01_R093 ref  CẢM  THẤY  XÚC  ĐỘNG  TRƯỚC  MỘT  ĐIỀU  GÌ  ĐÓ
+VIVOSSPK01_R093 hyp  CẢM  THẤY  XÚC  ĐỘNG  TRƯỚC  MỘT  ĐIỀU  GÌ  ĐÓ
+VIVOSSPK01_R093 op    C     C    C     C     C     C     C    C   C
+VIVOSSPK01_R093 #csid 9 0 0 0
+VIVOSSPK01_R094 ref  LÀM  DÃY  NHÀ  CHO  THUÊ  CỦA  MỘT  HỘ  DÂN  PHẢI  BỎ  TRỐNG
+VIVOSSPK01_R094 hyp  LÀM  DÃY  NHÀ  CHO  THUÊ  CỦA  MỘT  HỘ  DÂN  PHẢI  BỎ  TRỐNG
+VIVOSSPK01_R094 op    C    C    C    C     C    C    C    C   C     C    C    C  
+VIVOSSPK01_R094 #csid 12 0 0 0
+VIVOSSPK01_R095 ref  TIÊU  HỦY  TẤT  CẢ  CÁC  BẦY  ĐÀN
+VIVOSSPK01_R095 hyp  THEO   Ý   TẤT  CẢ  CÁC  BẦY  ĐÀN
+VIVOSSPK01_R095 op     S    S    C    C   C    C    C 
+VIVOSSPK01_R095 #csid 5 2 0 0
+VIVOSSPK01_R096 ref   MÀ  NHÀ  CỬA  VÀ  CÔNG  VIỆC  CHẲNG  ĐÂU  VÀO  ĐÂU
+VIVOSSPK01_R096 hyp  NAY  NHÀ  CỬA  VÀ  CÔNG  VIỆC  CHẲNG  ĐÂU  VÀO  ĐÂU
+VIVOSSPK01_R096 op    S    C    C    C    C     C     C     C    C    C 
+VIVOSSPK01_R096 #csid 9 1 0 0
+VIVOSSPK01_R097 ref  BÀ  CON  TRONG  XÓM  ĐẾN  DỰ  RÌNH  RANG
+VIVOSSPK01_R097 hyp  BÀ  CON  TRONG  XÓM  ĐẾN  SỰ  VINH  DANH
+VIVOSSPK01_R097 op    C   C     C     C    C    S    S     S 
+VIVOSSPK01_R097 #csid 5 3 0 0
+VIVOSSPK01_R098 ref  CHỈ  CHĂM  CHẮM  VÀO  NHỮNG  ĐỐI  TƯỢNG  CAO  CẤP
+VIVOSSPK01_R098 hyp  KHI  CHĂM  CHẮM  VÀO  NHỮNG  ĐỐI  TƯỢNG  CAO  CẤP
+VIVOSSPK01_R098 op    S     C     C    C     C     C     C     C    C 
+VIVOSSPK01_R098 #csid 8 1 0 0
+VIVOSSPK01_R099 ref  LÙNG  SỤC  MUA  HEO  BỆNH  CHỞ  ĐI  GIẾT  MỔ
+VIVOSSPK01_R099 hyp  LÙNG  SỤC  MUA  HEO  BỆNH  CHO  ĐI  GIẾT  MỔ
+VIVOSSPK01_R099 op     C    C    C    C     C    S    C    C    C
+VIVOSSPK01_R099 #csid 8 1 0 0
+VIVOSSPK01_R100 ref  CHÚNG  XẨY  NHÀ  RA  BỤI  ĐỜI  ĐI  GIẬT  DỌC  ĐÂM  CHÉM  QUẬY  PHÁ
+VIVOSSPK01_R100 hyp  CHÚNG  XẨY  NHÀ  RA  BỤI  ĐỜI  ĐI  GIẬT  DỌC  ĐÂM  CHÉM  QUẬY  PHÁ
+VIVOSSPK01_R100 op     C     C    C    C   C    C    C    C    C    C     C     C    C 
+VIVOSSPK01_R100 #csid 13 0 0 0
+VIVOSSPK01_R101 ref  TUẦN  RỒI
+VIVOSSPK01_R101 hyp   CON  RỐI
+VIVOSSPK01_R101 op     S    S 
+VIVOSSPK01_R101 #csid 0 2 0 0
+VIVOSSPK01_R102 ref  HUỲNH  PHƯƠNG  ĐÔNG
+VIVOSSPK01_R102 hyp  HUỲNH  PHƯƠNG  ĐÔNG
+VIVOSSPK01_R102 op     C       C      C 
+VIVOSSPK01_R102 #csid 3 0 0 0
+VIVOSSPK01_R103 ref  HIỆN  CÔNG  AN  PHƯỜNG  CỐC  LẾU  ĐANG  HOÀN  CHỈNH  HỒ  SƠ
+VIVOSSPK01_R103 hyp  HIỆN  CÔNG  AN  PHƯỜNG  CỐC  LẾU  ĐANG   LÊN   TRÊN  HỒ  SƠ
+VIVOSSPK01_R103 op     C     C    C     C     C    C     C     S     S     C   C
+VIVOSSPK01_R103 #csid 9 2 0 0
+VIVOSSPK01_R104 ref  MÀ  LỢN  CÓ  KHI  CHI  PHÍ  NUÔI  KHÔNG  ĐỦ  HUỀ  VỐN
+VIVOSSPK01_R104 hyp  MÀ  LỢN  CÓ  KHI  CHI  PHÍ  NUÔI  KHÔNG  ĐỦ  HUỀ  VỐN
+VIVOSSPK01_R104 op    C   C    C   C    C    C     C     C     C   C    C 
+VIVOSSPK01_R104 #csid 11 0 0 0
+VIVOSSPK01_R105 ref  CÓ  KHI  ANH  ẤY  NÓI  NĂNG  LỖ  MÃNG  VÀ  ĐÁNH  EM  NỮA
+VIVOSSPK01_R105 hyp  CÓ  KHI  ANH  ẤY  NÓI  NĂNG  LỖ  MÃNG  VÀ  ĐÁNH  EM  NỮA
+VIVOSSPK01_R105 op    C   C    C    C   C     C    C    C    C    C    C   C 
+VIVOSSPK01_R105 #csid 12 0 0 0
+VIVOSSPK01_R106 ref  NHƯ  THÍCH  ĐI  CHẦM  CHẬM  TRÊN  NHỮNG  CON  ĐƯỜNG   QUÊ
+VIVOSSPK01_R106 hyp  NHỚ  THÍCH  ĐI  CHẦM  CHẬM  TRÊN  NHỮNG  CON  ĐƯỜNG  QUAY
+VIVOSSPK01_R106 op    S     C     C    C     C     C     C     C     C      S 
+VIVOSSPK01_R106 #csid 8 2 0 0
+VIVOSSPK01_R107 ref  CHO  VIỆC  PHÁT  TRIỂN  SỰ  NGHIỆP  CỦA  HỌ  TẠI  VIỆT  NAM
+VIVOSSPK01_R107 hyp  CHO  VIỆC  PHÁT  TRIỂN  SỰ  NGHIỆP  CỦA  HỌ  TẠI  VIỆT  NAM
+VIVOSSPK01_R107 op    C     C     C     C     C     C     C    C   C     C    C 
+VIVOSSPK01_R107 #csid 11 0 0 0
+VIVOSSPK01_R108 ref   ***  THỬ  ĐỊA  KHÔNG   DƯ   HOÀNG  HẠC  LÂU
+VIVOSSPK01_R108 hyp  THỪA  NIA   ĐÃ  KHÔNG  NGƯU  HOÀNG  HẠC  LÂU
+VIVOSSPK01_R108 op     I    S    S     C      S     C     C    C 
+VIVOSSPK01_R108 #csid 4 3 1 0
+VIVOSSPK01_R109 ref  MỆ  NÓI  MUỐN  NẤU  ĂN  NGON  PHẢI  GỬI  GẮM  TÂM  TRẠNG  MÌNH  VÀO  TRONG  ĐÓ
+VIVOSSPK01_R109 hyp  MẸ  NÓI  MUỐN  NẤU  ĂN  NGON  PHẢI  GỬI  GẮM  TÂM  TRẠNG  MÌNH  VÀO  TRONG  ĐÓ
+VIVOSSPK01_R109 op    S   C     C    C    C    C     C    C    C    C     C      C    C     C     C
+VIVOSSPK01_R109 #csid 14 1 0 0
+VIVOSSPK01_R110 ref  HIẾM  KHI  LẶP  LẠI  NHỮNG  CÂU  ĐÃ  NÓI
+VIVOSSPK01_R110 hyp  HIẾM  KHI  LẶP  LẠI  NHỮNG  CÂU  ĐÃ  NÓI
+VIVOSSPK01_R110 op     C    C    C    C     C     C    C   C 
+VIVOSSPK01_R110 #csid 8 0 0 0
+VIVOSSPK01_R111 ref  TÔI  SẼ  KHÔNG  CỐ  GẮNG  ĐỂ  BÁN  CHÚNG  HAY  TRƯNG  BÀY  CHÚNG  NỮA
+VIVOSSPK01_R111 hyp  TÔI  SẼ  KHÔNG  CỐ  GẮNG  ĐỂ  BÁN  CHÚNG  HAY  TRƯNG  BÀY  CHÚNG   NÓ
+VIVOSSPK01_R111 op    C    C    C     C    C    C   C     C     C     C     C     C     S 
+VIVOSSPK01_R111 #csid 12 1 0 0
+VIVOSSPK01_R112 ref  LỜI  KHUYÊN  HỮU  ÍCH  DÀNH  CHO  BẠN
+VIVOSSPK01_R112 hyp  LỜI  KHUYÊN  YÊU  ÍCH  DÀNH  CHO  BẠN
+VIVOSSPK01_R112 op    C      C     S    C     C    C    C 
+VIVOSSPK01_R112 #csid 6 1 0 0
+VIVOSSPK01_R113 ref  MÀ  NHỮNG  MÁI  HIÊN  NÀY  CÒN  CÓ   ĐƯỢC    SỰ    RIÊNG  TƯ  CẦN  THIẾT
+VIVOSSPK01_R113 hyp  MÀ  NHỮNG  MÁI  HIÊN  NÀY  CÒN  CÓ  THƯỚC  PHƯƠNG  RIÊNG  TƯ  CẦN  THIẾT
+VIVOSSPK01_R113 op    C    C     C     C    C    C    C    S       S      C     C   C     C  
+VIVOSSPK01_R113 #csid 11 2 0 0
+VIVOSSPK01_R114 ref  MINH  ĐẾN  PHÒNG  TẬP  THỂ  HÌNH  CỦA  TRƯỜNG  ĐỂ  NÂNG  TẠ
+VIVOSSPK01_R114 hyp  MINH  ĐẾN  PHÒNG  TẬP  THỂ  HÌNH  CỦA  TRƯỜNG  ĐỂ  NÂNG  TẠ
+VIVOSSPK01_R114 op     C    C     C     C    C     C    C      C     C    C    C
+VIVOSSPK01_R114 #csid 11 0 0 0
+VIVOSSPK01_R115 ref  TẾT  NĂM  NGOÁI  CẢ  NHÀ  CHÍN  MIỆNG  ĂN
+VIVOSSPK01_R115 hyp  TẾT  NĂM  NGOÁI  CẢ  NHÀ  CHÍN  MIỆNG  ĂN
+VIVOSSPK01_R115 op    C    C     C     C   C     C     C     C
+VIVOSSPK01_R115 #csid 8 0 0 0
+VIVOSSPK01_R116 ref   VẠT   ÁO   SỄ   XUỐNG
+VIVOSSPK01_R116 hyp  PHÁP  CÁC  PHÉP  XUỐNG
+VIVOSSPK01_R116 op     S    S     S     C  
+VIVOSSPK01_R116 #csid 1 3 0 0
+VIVOSSPK01_R117 ref  CHỨ  KHÔNG  PHẢI  LÀ  TỪ  CÁC  YÊU  CẦU  RIÊNG  LẺ
+VIVOSSPK01_R117 hyp  CHỨ  KHÔNG  PHẢI  LÀ  TỪ  CÁC  YÊU  CẦU  RIÊNG  LẺ
+VIVOSSPK01_R117 op    C     C      C    C   C   C    C    C     C     C
+VIVOSSPK01_R117 #csid 10 0 0 0
+VIVOSSPK01_R118 ref  CÔNG  NGHỆ  NÀY    SỬ    DỤNG  NGUYÊN  LIỆU  ĐẬU  NÀNH
+VIVOSSPK01_R118 hyp   CÓ   NGÀY  NAY  PHƯƠNG  DỤNG  NGUYÊN  LIỆU  ĐẬU  NÀNH
+VIVOSSPK01_R118 op     S     S    S      S      C      C      C    C     C 
+VIVOSSPK01_R118 #csid 5 4 0 0
+VIVOSSPK01_R119 ref  KHI  TÊN  LỬA  BAY  LÊN
+VIVOSSPK01_R119 hyp  KHI  TÊN  LỬA  BAY  LÊN
+VIVOSSPK01_R119 op    C    C    C    C    C 
+VIVOSSPK01_R119 #csid 5 0 0 0
+VIVOSSPK01_R120 ref  HẬU  QUẢ  CỦA  NHỮNG  TRẬN  SÊN  HÚT  MÁU
+VIVOSSPK01_R120 hyp  HẬU  QUẢ  CỦA  NHỮNG  TRẬN  SÊN  HÚT  MÁU
+VIVOSSPK01_R120 op    C    C    C     C      C    C    C    C 
+VIVOSSPK01_R120 #csid 8 0 0 0
+VIVOSSPK01_R121 ref  NẰM   ẨN   MÌNH  TRONG  VƯỜN  CÂY  PHÍA  SAU  DÃY  PHỐ   ỒN   ÀO
+VIVOSSPK01_R121 hyp  NAM  MANH  MINH  TRONG  VƯỜN  CÂY  PHÍA  SAU  GÁY  PHỐ  ***  NÀO
+VIVOSSPK01_R121 op    S     S     S     C      C    C     C    C    S    C    D    S 
+VIVOSSPK01_R121 #csid 6 5 0 1
+VIVOSSPK01_R122 ref   PHẦN  NÀO  MANG  TÍNH  ĐIỀU  HÒA  THỊ  TRƯỜNG
+VIVOSSPK01_R122 hyp  THANH  NÀO  MANG   TÊN   ĐEO  HOA  THỊ  TRƯỜNG
+VIVOSSPK01_R122 op     S     C     C     S     S    S    C      C  
+VIVOSSPK01_R122 #csid 4 4 0 0
+VIVOSSPK01_R123 ref  TỤI  CON  CÒN   DỄ  NHỚ   HƠN  PHIÊN   ÂM  RA  LOẰNG  NGOẰNG  QUÁ
+VIVOSSPK01_R123 hyp  ***  TÔI   CÓ  CON   VÉ  NHÓM   PHÍA  NAM  VÀ  LOẰNG  NGOẰNG  QUÁ
+VIVOSSPK01_R123 op    D    S    S    S    S     S     S     S    S    C       C     C 
+VIVOSSPK01_R123 #csid 3 8 0 1
+VIVOSSPK01_R124 ref  MANG  TÍNH  CƠ  HỘI  TRONG  THỊ  HIẾU  PHÁP
+VIVOSSPK01_R124 hyp  MANG   TÊN  ĐÓ  HỎI  TRONG  THỊ  HIẾU  PHÁP
+VIVOSSPK01_R124 op     C     S    S   S     C     C     C     C 
+VIVOSSPK01_R124 #csid 5 3 0 0
+VIVOSSPK01_R125 ref  NHỮNG  TRÀNG  VỖ  TAY  VANG  DỘI  NHƯ  THỜI  HÁT  NHÓM
+VIVOSSPK01_R125 hyp  NHỮNG  TRÀNG  VỖ  TAY  VANG  DỘI  NHƯ  THÔI  HÁT  NHÓM
+VIVOSSPK01_R125 op     C      C     C   C     C    C    C     S    C     C 
+VIVOSSPK01_R125 #csid 9 1 0 0
+VIVOSSPK01_R126 ref  CHỈ  HOÀN  THÀNH  NHÕN  BA  CÂY  SỐ  KHÚC  GIỮA
+VIVOSSPK01_R126 hyp  KHI  HOÀN  THÀNH  NHÓM  BA  CÂY  SỐ  KHÚC   MÓC
+VIVOSSPK01_R126 op    S     C     C      S    C   C    C    C     S 
+VIVOSSPK01_R126 #csid 6 3 0 0
+VIVOSSPK01_R127 ref  BAN  TÀI  CHÍNH  QUẢN  TRỊ  TRUNG  ƯƠNG  THUỘC  VĂN  PHÒNG  TRUNG  ƯƠNG  ĐẢNG
+VIVOSSPK01_R127 hyp  BAN  TÀI  CHÍNH  QUẢN  TRỊ  TRUNG  ƯƠNG  THUỘC  VĂN  PHÒNG  TRUNG  ƯƠNG  ĐẢNG
+VIVOSSPK01_R127 op    C    C     C      C    C     C      C     C     C     C      C      C     C 
+VIVOSSPK01_R127 #csid 13 0 0 0
+VIVOSSPK01_R128 ref  VÌ  CHỈ  CÓ  MẸ  LÀ  NGƯỜI  DANG  RỘNG  VÒNG  TAY
+VIVOSSPK01_R128 hyp  VI  CHỈ  CÓ  MẸ  LÀ  NGƯỜI  GIÀU  LÒNG  VÒNG  TAY
+VIVOSSPK01_R128 op    S   C    C   C   C    C      S     S     C    C 
+VIVOSSPK01_R128 #csid 7 3 0 0
+VIVOSSPK01_R129 ref  ĐƯỜNG  VÀO  HANG  PHẢI  QUA  NHIỀU  ĐOẠN  NGOẰN  NGOÈO  VỚI  CÁC  HỒ  NƯỚC  SÂU
+VIVOSSPK01_R129 hyp   ĐÔNG   VÀ  HANG  PHẢI  QUÁ  NHIỀU  ĐOẠN  NGOẰN  NGOÈO  VỚI  CÁC  HỒ  NƯỚC  SÂU
+VIVOSSPK01_R129 op     S     S     C     C    S     C      C     C      C     C    C    C    C    C 
+VIVOSSPK01_R129 #csid 11 3 0 0
+VIVOSSPK01_R130 ref  GIÚP  HÃNG  TĂNG  THỊ  PHẦN
+VIVOSSPK01_R130 hyp   XÚC   HAM  TĂNG  THÌ   VĂN
+VIVOSSPK01_R130 op     S     S     C    S     S 
+VIVOSSPK01_R130 #csid 1 4 0 0
+VIVOSSPK01_R131 ref   HỪNG  HỰC  ĐẾN  TẬN  NỬA  ĐÊM
+VIVOSSPK01_R131 hyp  HƯƠNG  HỢP  ĐẾN  TẬN  NỬA  ĐÊM
+VIVOSSPK01_R131 op     S     S    C    C    C    C 
+VIVOSSPK01_R131 #csid 4 2 0 0
+VIVOSSPK01_R132 ref  SAU  ĐÓ  VẼ  THÊM  CÁC  NÉT  PHÁC  HỌA  MÀU  ĐEN  VÀO  LÚC  KHÁC
+VIVOSSPK01_R132 hyp  SAU  ĐÓ  BÉ  THÊM  CÁC  NÉT  PHÁC   MẠ  MÀU  ĐEN  VÀO  LÚC  KHÁC
+VIVOSSPK01_R132 op    C    C   S    C    C    C     C    S    C    C    C    C     C 
+VIVOSSPK01_R132 #csid 11 2 0 0
+VIVOSSPK01_R133 ref  RẤT  NHIỀU  NGƯỜI  DÂN
+VIVOSSPK01_R133 hyp  RẤT  NHIỀU  NGƯỜI  DÂN
+VIVOSSPK01_R133 op    C     C      C     C 
+VIVOSSPK01_R133 #csid 4 0 0 0
+VIVOSSPK01_R134 ref  ĐỀU  QUAY  CUỒNG  ĐƠN  GIẢN  LÀ  DO  BẠN  ĐÃ  QUÁ  CHÉN
+VIVOSSPK01_R134 hyp  NẾU  QUAY  CUỒNG  ĐƠN  GIẢN  LÀ  DO  BẠN  ĐÃ  QUÁ  CHÉN
+VIVOSSPK01_R134 op    S     C     C     C     C    C   C   C    C   C     C 
+VIVOSSPK01_R134 #csid 10 1 0 0
+VIVOSSPK01_R135 ref  VÀ  SẮP  XẾP  THEO  ĐÚNG  BỐI  CẢNH  PHIM
+VIVOSSPK01_R135 hyp  VÀ  SẮP  XẾP  THEO  ĐÚNG  BỐI  CẢNH  PHIM
+VIVOSSPK01_R135 op    C   C    C     C     C    C     C     C 
+VIVOSSPK01_R135 #csid 8 0 0 0
+VIVOSSPK01_R136 ref  VÀ  ĐÃ  ĐƠN  PHƯƠNG  YÊU  TỪ  MỘT  PHÍA  NHƯ  VẬY
+VIVOSSPK01_R136 hyp  VÀ  ĐÁ  ĐƠN  PHƯƠNG  YÊU  TỪ  MỘT  PHÍA  NHƯ  VẬY
+VIVOSSPK01_R136 op    C   S   C      C     C    C   C     C    C    C 
+VIVOSSPK01_R136 #csid 9 1 0 0
+VIVOSSPK01_R137 ref  MỖI  TUẦN  TÔI  LẠI  CÓ  MỘT  CHUYẾN  RỜ  TUA  TRÀ  VINH  SÀI  GÒN
+VIVOSSPK01_R137 hyp  MỖI   CON  TÔI  LẠI  CÓ  MỘT   CHÂN   LƠ  TÔI  TRÀ  VINH  SÀI  GÒN
+VIVOSSPK01_R137 op    C     S    C    C    C   C      S     S   S    C     C    C    C 
+VIVOSSPK01_R137 #csid 9 4 0 0
+VIVOSSPK01_R138 ref  BÊN  DƯỚI  MỘT  HÀNG  CHỮ  MẢNH
+VIVOSSPK01_R138 hyp  BÊN  DƯỚI  MỘT  HÌNH  CHỮ  MẢNH
+VIVOSSPK01_R138 op    C     C    C     S    C     C 
+VIVOSSPK01_R138 #csid 5 1 0 0
+VIVOSSPK01_R139 ref  TRONG  TÔI  PHẢI  TỰ  RĂN  MÌNH  ĐỪNG  BAO  GIỜ  TỰ  HUYỄN
+VIVOSSPK01_R139 hyp  TRONG  TÔI  PHẢI  TỰ  RĂN  MÌNH  ĐỪNG  BAO  GIỜ  TỰ  HUYỄN
+VIVOSSPK01_R139 op     C     C     C    C   C     C     C    C    C    C    C  
+VIVOSSPK01_R139 #csid 11 0 0 0
+VIVOSSPK01_R140 ref   MÀ   SẼ   CÓ  CÁCH  RA   ĐỀ  PHÙ  HỢP
+VIVOSSPK01_R140 hyp  MAI  PHÉP  CÓ  CÁCH  GA  ĐÂY  PHÙ  HỢP
+VIVOSSPK01_R140 op    S     S    C    C    S   S    C    C 
+VIVOSSPK01_R140 #csid 4 4 0 0
+VIVOSSPK01_R141 ref   HÀ   ANH  TUẤN  MỘT  NGÔI  SAO  ĐIỂM  HẸN  MỚI  TOANH  CŨNG  THỪA  NHẬN  MÙ  NHẠC
+VIVOSSPK01_R141 hyp  ***  HANH   CÓ   MỘT  NGÔI  SAO  ĐIỂM  HẸN  MỚI  TOANH  CŨNG  THỪA  NHẬN  MÙ  NHẠC
+VIVOSSPK01_R141 op    D     S     S    C     C    C     C    C    C     C      C     C     C    C    C 
+VIVOSSPK01_R141 #csid 12 2 0 1
+VIVOSSPK01_R142 ref  CÓ  THÊM  NIỀM  VUI  MỚI  LÀ  RA  TẮM  GIỮA  CÁC  HŨM  NƯỚC  CẠN
+VIVOSSPK01_R142 hyp  CÓ  THÊM  NIỀM  VUI  MỚI  LÀ  GA  TĂM   HƠI  CÁC  HŨM  NƯỚC  CÁC
+VIVOSSPK01_R142 op    C    C     C    C    C    C   S   S     S    C    C     C    S 
+VIVOSSPK01_R142 #csid 9 4 0 0
+VIVOSSPK01_R143 ref  MANG  HÌNH  DÁNG  CỦA  MỘT  CON  KHỈ
+VIVOSSPK01_R143 hyp  MANG  HÌNH  DÁNG  CỦA  MỘT  CON  KHỈ
+VIVOSSPK01_R143 op     C     C     C    C    C    C    C 
+VIVOSSPK01_R143 #csid 7 0 0 0
+VIVOSSPK01_R144 ref  DOANH  DOANH
+VIVOSSPK01_R144 hyp  DOANH  DOANH
+VIVOSSPK01_R144 op     C      C  
+VIVOSSPK01_R144 #csid 2 0 0 0
+VIVOSSPK01_R145 ref  NGAY  CẢ  TRƯỚC  KHI  NÓ  ĐƯỢC  CHÍNH  THỨC  CÔNG  BỐ
+VIVOSSPK01_R145 hyp  NGAY  CẢ  TRƯỚC  KHI  NÓ  ĐƯỢC  CHÍNH  THỨC  CÔNG  BỐ
+VIVOSSPK01_R145 op     C    C    C     C    C    C     C      C     C    C
+VIVOSSPK01_R145 #csid 10 0 0 0
+VIVOSSPK01_R146 ref  ANH  LÝ  CHẠY  XE  ÔM
+VIVOSSPK01_R146 hyp  ANH  LÝ  CHẠY  XE  ÔM
+VIVOSSPK01_R146 op    C    C    C    C   C
+VIVOSSPK01_R146 #csid 5 0 0 0
+VIVOSSPK01_R147 ref  VIỆC  ĐẦU  TIÊN  TÔI  NGHĨ  ĐẾN
+VIVOSSPK01_R147 hyp  VIỆC  ĐẦU  TIÊN  TÔI  NGHĨ  ĐẾN
+VIVOSSPK01_R147 op     C    C     C    C     C    C 
+VIVOSSPK01_R147 #csid 6 0 0 0
+VIVOSSPK01_R148 ref  NẤU  NGUỘI  NGẬM  GỚM  CÁI  MÓN  THỊT  GÀ  CỨ  DAI  NGOÁCH  CẢ   RA
+VIVOSSPK01_R148 hyp  NẤU  NGUỘI  NGẬM  GỚM  CÁI  MÓN  THỊT  GÀ  CỨ  DAI   HOẠCH  CẢ  GIA
+VIVOSSPK01_R148 op    C     C      C    C    C    C     C    C   C   C      S     C   S 
+VIVOSSPK01_R148 #csid 11 2 0 0
+VIVOSSPK01_R149 ref   Ờ   THẰNG  ĐÓ  CHÁU  NỘI  TƯ   XẠO
+VIVOSSPK01_R149 hyp  TÔI  THẰNG  ĐÓ  CHÁU  NỐI  TƯ  PHÁP
+VIVOSSPK01_R149 op    S     C     C    C    S    C    S 
+VIVOSSPK01_R149 #csid 4 3 0 0
+VIVOSSPK01_R150 ref  TRONG  SUỐT  THẾ  KỶ  QUA
+VIVOSSPK01_R150 hyp  TRONG  SUỐT  THẾ  KỶ  QUA
+VIVOSSPK01_R150 op     C      C    C    C   C 
+VIVOSSPK01_R150 #csid 5 0 0 0
+VIVOSSPK01_R151 ref  HAY  THÂM  TÍM  CHẬM  LÀNH
+VIVOSSPK01_R151 hyp  HAY  THÂM  TÍM  CHẬM  LÀNH
+VIVOSSPK01_R151 op    C     C    C     C     C 
+VIVOSSPK01_R151 #csid 5 0 0 0
+VIVOSSPK01_R152 ref  THƯỜNG  CUNG  CẤP  NHỮNG  MANH  MỐI
+VIVOSSPK01_R152 hyp  THƯƠNG  VONG  CÁC   NHÂN  MANH  MỐI
+VIVOSSPK01_R152 op      S      S    S     S      C    C 
+VIVOSSPK01_R152 #csid 2 4 0 0
+VIVOSSPK01_R153 ref  NHƯNG  VẪN  KHÔNG  SÁNH  BẰNG  NỖI  ĐAU  CỦA  MỘT  CON  NGƯỜI  BỊ  CHÀ  ĐẠP
+VIVOSSPK01_R153 hyp  NHƯNG  BẠN  KHÔNG  SÁNH  BẰNG  NỖI  ĐAU  CỦA  MỘT  CON  NGƯỜI  BỊ  CHÀ  ĐẠP
+VIVOSSPK01_R153 op     C     S     C      C     C    C    C    C    C    C     C     C   C    C 
+VIVOSSPK01_R153 #csid 13 1 0 0
+VIVOSSPK01_R154 ref  CHO  SƠN  CHẢY  THẲNG  LÊN  GIẤY
+VIVOSSPK01_R154 hyp  CHO  SƠN  CHẢY  THẲNG  LÊN  GIẤY
+VIVOSSPK01_R154 op    C    C     C     C     C     C 
+VIVOSSPK01_R154 #csid 6 0 0 0
+VIVOSSPK01_R155 ref  NGÀY  THƯỜNG  MẮT  TRƯỚC  MẮT  SAU  GỒNG  GÁNH  CHẠY  PHẠT
+VIVOSSPK01_R155 hyp  NGAY  THƯƠNG  MẮT  TRƯỚC  MẮT  SAU  GỒNG  GÁNH  CHẠY  PHẠT
+VIVOSSPK01_R155 op     S      S     C     C     C    C     C     C     C     C 
+VIVOSSPK01_R155 #csid 8 2 0 0
+VIVOSSPK01_R156 ref  CỨ  ĐẶT  CON  DAO  DÍNH  TIẾT  TRÊN  CÁI  DĨA
+VIVOSSPK01_R156 hyp  CƠ  BẮP   CÓ   GA  VINH  TIẾP  TRÊN  CÁI  DĨA
+VIVOSSPK01_R156 op    S   S    S    S     S     S     C    C    C 
+VIVOSSPK01_R156 #csid 3 6 0 0
+VIVOSSPK01_R157 ref  MÀ  LÒNG   CỨ  PHÂN  VÂN   VỀ  LẼ  ĐIÊN  TỈNH  Ở  ĐỜI
+VIVOSSPK01_R157 hyp  MA  LONG  CỨU  PHAN  VĂN  GÂY  LẼ  ĐIÊN  TỈNH  Ở  ĐỜI
+VIVOSSPK01_R157 op    S    S    S     S    S    S    C    C     C   C   C 
+VIVOSSPK01_R157 #csid 5 6 0 0
+VIVOSSPK01_R158 ref  TRÊN  ĐƯỜNG  ĐI  THỈNH  THOẢNG   XE   PHẢI  DỪNG  LẠI
+VIVOSSPK01_R158 hyp  TRÊN  ĐƯỜNG  ĐI  THỈNH  THOẢNG  PHÉP  PHẢI  DỪNG  LẠI
+VIVOSSPK01_R158 op     C     C     C    C       C      S     C     C    C 
+VIVOSSPK01_R158 #csid 8 1 0 0
+VIVOSSPK01_R159 ref   TÍA  CON  HAI  RỚT  CHUẨN  BỊ  CHÂM  LỬA  NGỌN  BÙI  NHÙI
+VIVOSSPK01_R159 hyp  BIẾT  CAN  HAI  LỚP  CHUẨN  BỊ  CHĂM   LO  NGỌN  BÙI   ***
+VIVOSSPK01_R159 op     S    S    C    S     C     C    S    S     C    C     D 
+VIVOSSPK01_R159 #csid 5 5 0 1
+VIVOSSPK01_R160 ref  BỞI  ĐÓ  LÀ  MỘT  TRONG  NHỮNG  ĐIỀU  RĂN  CHUNG
+VIVOSSPK01_R160 hyp  BỞI  ĐÓ  LÀ  MỘT  TRONG  NHỮNG  ĐIỀU  RĂN  CHUNG
+VIVOSSPK01_R160 op    C    C   C   C     C      C      C    C     C  
+VIVOSSPK01_R160 #csid 9 0 0 0
+VIVOSSPK01_R161 ref  NGƯỜI  TA  KỊP  KÉO  CHỊ  TA  LẠI
+VIVOSSPK01_R161 hyp  NGƯỜI  TA  KỊP  KÉO  CHỊ  TA  LẠI
+VIVOSSPK01_R161 op     C     C   C    C    C    C   C 
+VIVOSSPK01_R161 #csid 7 0 0 0
+VIVOSSPK01_R162 ref  CÓ  THỂ  KÍCH  THÍCH  SỰ  PHÁT  TRIỂN  CỦA  CÁC  TẾ  BÀO  NÃO
+VIVOSSPK01_R162 hyp  CÓ  THỂ  KÍCH  THÍCH  SỰ  PHÁT  TRIỂN  CỦA  CÁC  TẾ  BÀO  NÃO
+VIVOSSPK01_R162 op    C   C     C     C     C    C     C     C    C    C   C    C 
+VIVOSSPK01_R162 #csid 12 0 0 0
+VIVOSSPK01_R163 ref  LỊNH  RA  LỊNH
+VIVOSSPK01_R163 hyp  LỆNH  RA  LỆNH
+VIVOSSPK01_R163 op     S    C    S 
+VIVOSSPK01_R163 #csid 1 2 0 0
+VIVOSSPK01_R164 ref  CÓ  THỂ  GÂY  RA  NHỮNG  VẾT  ĐỎ
+VIVOSSPK01_R164 hyp  CÓ  THỂ  GÂY  RA  NHỮNG  VẾT  ĐỎ
+VIVOSSPK01_R164 op    C   C    C    C    C     C    C
+VIVOSSPK01_R164 #csid 7 0 0 0
+VIVOSSPK01_R165 ref  VIỆC  XEM  XÉT  PHẢI  DO  HỘI  ĐỒNG  CÁC  CHUYÊN  GIA
+VIVOSSPK01_R165 hyp  VIÊN  XEM  XÉT   VAI  DO  HỘI  ĐỒNG  CÁC  CHUYÊN  GIA
+VIVOSSPK01_R165 op     S    C    C     S    C   C     C    C      C     C 
+VIVOSSPK01_R165 #csid 8 2 0 0
+VIVOSSPK01_R166 ref  CHIẾN  DỊCH  CUỐI  CÙNG  TRONG  NỖ  LỰC  CHỐNG  NẠN  ĂN  CẮP  BẢN  QUYỀN
+VIVOSSPK01_R166 hyp   TRÊN   DÂY  CUỐI  CÙNG  TRONG  NỖ  LỰC  CHỐNG  NẠN  ĂN  CẮP  BẢN  QUYỀN
+VIVOSSPK01_R166 op     S      S     C     C     C     C   C     C     C    C   C    C     C  
+VIVOSSPK01_R166 #csid 11 2 0 0
+VIVOSSPK01_R167 ref   SÔNG  HẬU  MỚI  BẮT  ĐẦU  CHUYỂN  MÀU  ĐỎ  QUẠCH  CỐ  ***   HỮU   CỦA  PHÙ  SA
+VIVOSSPK01_R167 hyp  PHÓNG  MÀU  MỚI  BẮT  ĐẦU  CHUYỂN  MÀU  ĐỎ  QUẠCH  CỐ   Ý   NGHĨA  CỦA  PHÙ  SA
+VIVOSSPK01_R167 op     S     S    C    C    C      C     C    C    C     C   I     S     C    C    C
+VIVOSSPK01_R167 #csid 11 3 1 0
+VIVOSSPK01_R168 ref  ĐA  SỐ  BÁN  CHUI  VÀ  QUẢNG  CÁO  NHƯ   THẦN  DƯỢC
+VIVOSSPK01_R168 hyp  ĐA  SỐ  BÁN  CHUI  VÀ  QUẢNG  CÁO  NHƯ  THANH   TỐT
+VIVOSSPK01_R168 op    C   C   C     C    C    C     C    C     S      S 
+VIVOSSPK01_R168 #csid 8 2 0 0
+VIVOSSPK01_R169 ref  NGHỆ   SĨ   HÀI  MAI  THANH  DUNG  VÀ  MINH  VƯỢNG
+VIVOSSPK01_R169 hyp  NGAY  PHÍA  HAI  MAI  THANH  LONG  VÀ  MINH  VƯỢNG
+VIVOSSPK01_R169 op     S     S    S    C     C      S    C    C     C  
+VIVOSSPK01_R169 #csid 5 4 0 0
+VIVOSSPK01_R170 ref  TỐT  HƠN  LÀ  NGAY  TỪ  ĐẦU  BẠN  HÃY  ĐẶT   RA  NHỮNG  CÂU  HỎI
+VIVOSSPK01_R170 hyp  TỐT  HƠN  LÀ  NGAY  TỪ  ĐẦU  BẠN  HÃY  NĂM  NAY  NHỮNG  CÂU  HỎI
+VIVOSSPK01_R170 op    C    C    C    C    C   C    C    C    S    S     C     C    C 
+VIVOSSPK01_R170 #csid 11 2 0 0
+VIVOSSPK01_R171 ref  KHI  CÁC  NHÀ  KHOA  HỌC  HÀN  QUỐC  PHÁT  HIỆN
+VIVOSSPK01_R171 hyp  KHI  CÁC  NHÀ  KHOA  HỌC  HÀN  QUỐC  PHÁT  HIẾM
+VIVOSSPK01_R171 op    C    C    C     C    C    C     C     C     S 
+VIVOSSPK01_R171 #csid 8 1 0 0
+VIVOSSPK01_R172 ref  CÂU  CHUYỆN   VỀ  ANH  SINH  VIÊN  TÌNH  NGUYỆN  BỊ  TAI  NẠN
+VIVOSSPK01_R172 hyp  CÂU  CHUYỆN  NÀY  ANH  SINH  VIÊN  TÌNH  NGUYỆN  BỊ  TAI  NẠN
+VIVOSSPK01_R172 op    C      C     S    C     C     C     C      C     C   C    C 
+VIVOSSPK01_R172 #csid 10 1 0 0
+VIVOSSPK01_R173 ref  ĐO   SÂU  NHƯ  THẾ  THÌ  NGUY  HIỂM  LẮM
+VIVOSSPK01_R173 hyp  ĐÓ  PHAO  NHƯ  THẾ  THÌ  NGUY  HIỂM  LẮM
+VIVOSSPK01_R173 op    S    S    C    C    C     C     C    C 
+VIVOSSPK01_R173 #csid 6 2 0 0
+VIVOSSPK01_R174 ref  VÀ  DÙNG  DÂY  THẮT  LƯNG  SIẾT  CỔ  ANH  NHIỆM  CHO  ĐẾN  NGẤT  XỈU
+VIVOSSPK01_R174 hyp  VÀ  DÙNG  DÂY  THẮT  LƯNG  SIẾT  CỔ  ANH   DÀNH  CHO  ĐẾN  NGẤT  XỈU
+VIVOSSPK01_R174 op    C    C    C     C     C     C    C   C     S     C    C     C    C 
+VIVOSSPK01_R174 #csid 12 1 0 0
+VIVOSSPK01_R175 ref  BÀ  CON  THƯỜNG  XUYÊN  ĐAU  ỐM
+VIVOSSPK01_R175 hyp  BA  CON  THƯỜNG  XUYÊN  ĐAU  ỐM
+VIVOSSPK01_R175 op    S   C      C      C     C    C
+VIVOSSPK01_R175 #csid 5 1 0 0
+VIVOSSPK01_R176 ref  HỌ  CHÀO  NHAU  CƯỜI  NÓI  HÔ  HỐ  RỒI  NHAY  LÊN  XE  MÁY  PHÓNG  ĐI
+VIVOSSPK01_R176 hyp  HỌ  CHÀO  NHAU  CƯỜI  NÓI  HÔ  HỐ  RỒI  NHAY  LÊN  XE  MÁY  PHÓNG  ĐI
+VIVOSSPK01_R176 op    C    C     C     C    C    C   C   C     C    C    C   C     C     C
+VIVOSSPK01_R176 #csid 14 0 0 0
+VIVOSSPK01_R177 ref  CỦA   DÌ   CỦA  MẸ  VÀ  MẤY  EM
+VIVOSSPK01_R177 hyp  CỦA  GIÂY  CỦA  MẸ  VÀ  MẤY  EM
+VIVOSSPK01_R177 op    C     S    C    C   C   C    C
+VIVOSSPK01_R177 #csid 6 1 0 0
+VIVOSSPK01_R178 ref  NGỦ  NGÁY
+VIVOSSPK01_R178 hyp  NGÔ  NGAY
+VIVOSSPK01_R178 op    S     S 
+VIVOSSPK01_R178 #csid 0 2 0 0
+VIVOSSPK01_R179 ref  VÀ  NGĂN  NGỪA  CÁC  BIẾN  CHỨNG
+VIVOSSPK01_R179 hyp  VÀ  NGĂN  NGỪA  CÁC   BÊN  TRONG
+VIVOSSPK01_R179 op    C    C     C    C     S     S  
+VIVOSSPK01_R179 #csid 4 2 0 0
+VIVOSSPK01_R180 ref  NHƯNG  PHẦN  BIỂU   DƯƠNG   LỰC   LƯỢNG  ĐÃ  GÂY  ẤN  TƯỢNG  MẠNH
+VIVOSSPK01_R180 hyp   NHÂN   VĂN  MIẾU  THƯƠNG  LƯỢNG   NÔNG  ĐÃ  GÂY  ẤN  TƯỢNG  MẠNH
+VIVOSSPK01_R180 op     S      S     S      S      S      S     C   C    C    C      C 
+VIVOSSPK01_R180 #csid 5 6 0 0
+VIVOSSPK01_R181 ref  CHÚNG  CAM  KẾT   SẼ   THẢ  CÁC  CON  TIN
+VIVOSSPK01_R181 hyp  CHÚNG  ĐÁP  CÁC  PHÉP  THẢ  CÁC  CON  TIN
+VIVOSSPK01_R181 op     C     S    S     S    C    C    C    C 
+VIVOSSPK01_R181 #csid 5 3 0 0
+VIVOSSPK01_R182 ref  LÀ  TRÁCH  NHIỆM  KIỂM  TRA  CỦA  QUẢN  LÝ  THỊ  TRƯỜNG
+VIVOSSPK01_R182 hyp  LÀ  TRÁCH  NHIỆM  KIỂM  TRA   VỤ  QUẢN  LÝ  THỊ  TRƯỜNG
+VIVOSSPK01_R182 op    C    C      C      C    C    S     C    C   C      C  
+VIVOSSPK01_R182 #csid 9 1 0 0
+VIVOSSPK01_R183 ref   ĐỂ  NÂNG  CAO  CHẤT  LƯỢNG  SẢN  PHẨM
+VIVOSSPK01_R183 hyp  ĐẾN  NÂNG  CAO  CHẤT  LƯỢNG  SẢN  PHẨM
+VIVOSSPK01_R183 op    S     C    C     C     C     C     C 
+VIVOSSPK01_R183 #csid 6 1 0 0
+VIVOSSPK01_R184 ref  KHÚC  HÁT  CHIẾN  SĨ  BIÊN  PHÒNG  THÀNH  PHỐ
+VIVOSSPK01_R184 hyp  KHÚC  HÁT  CHIẾN  SĨ  BIÊN  PHÒNG  THÀNH  PHỐ
+VIVOSSPK01_R184 op     C    C     C     C    C     C      C     C 
+VIVOSSPK01_R184 #csid 8 0 0 0
+VIVOSSPK01_R185 ref  VỚI  CÁC  PHA  DỨT  ĐIỂM  GỌN  GHẼ
+VIVOSSPK01_R185 hyp  VỚI  CÁC  PHA  DỨT  ĐIỂM  GỌN  GHẼ
+VIVOSSPK01_R185 op    C    C    C    C     C    C    C 
+VIVOSSPK01_R185 #csid 7 0 0 0
+VIVOSSPK01_R186 ref  NẾU  KHÔNG  BIẾT  ĐƯỢC  NHỮNG  ĐIỀU  NÀY
+VIVOSSPK01_R186 hyp  NẾU  KHÔNG  BIẾT  ĐƯỢC  NHỮNG  ĐIỀU  NÀY
+VIVOSSPK01_R186 op    C     C      C     C     C      C    C 
+VIVOSSPK01_R186 #csid 7 0 0 0
+VIVOSSPK01_R187 ref  CÁC  EM  THẬM  CHÍ  CÓ  THỂ  TRỞ  THÀNH  NHỮNG  NHÀ  LẬP  TRÌNH  VI  TÍNH
+VIVOSSPK01_R187 hyp  CÁC  EM  THẬM  CHÍ  CÓ  THỂ  TRỞ  THÀNH  NHỮNG  NHÀ  LẬP  TRÌNH  VI  TÌNH
+VIVOSSPK01_R187 op    C    C    C    C    C   C    C     C      C     C    C     C     C    S 
+VIVOSSPK01_R187 #csid 13 1 0 0
+VIVOSSPK01_R188 ref  NGƯỜI  TA  CŨNG  THẤY  DẤU  CHÂN  CÀ  THỌT  CỦA  ÔNG
+VIVOSSPK01_R188 hyp  NGƯỜI  TA  CŨNG  THẤY  DẤU  CHÂN  CÀ  THỌT  CỦA  ÔNG
+VIVOSSPK01_R188 op     C     C    C     C    C     C    C    C    C    C 
+VIVOSSPK01_R188 #csid 10 0 0 0
+VIVOSSPK01_R189 ref  Ở  ĐÓ  CÓ  KHOA  KHÁM  CHUYÊN  VỀ  LÉ  CHO  TRẺ  EM
+VIVOSSPK01_R189 hyp  Ở  ĐÓ  CÓ  KHOA  KHÁM   TRÊN   VỀ  LÉ  CHO  TRẺ  EM
+VIVOSSPK01_R189 op   C   C   C    C     C      S     C   C   C    C    C
+VIVOSSPK01_R189 #csid 10 1 0 0
+VIVOSSPK01_R190 ref  SÁNG  SÁNG  TRONG  TIẾNG  CHIM  TRAO  TRẢO  RÂM  RAN  ĐÂY  ĐÓ
+VIVOSSPK01_R190 hyp   PHA   VA   TRONG  TIẾNG  CHIM  TRAO  TRẢO  RÂM  RAN  ĐÂY  ĐÓ
+VIVOSSPK01_R190 op     S     S     C      C      C     C     C    C    C    C    C
+VIVOSSPK01_R190 #csid 9 2 0 0
+VIVOSSPK01_R191 ref  KHÉO  TÁN
+VIVOSSPK01_R191 hyp  THEO  TAN
+VIVOSSPK01_R191 op     S    S 
+VIVOSSPK01_R191 #csid 0 2 0 0
+VIVOSSPK01_R192 ref  NHƯNG  NÓ  KHÔNG  CÒN  LÀ  MÁI  ẤM  CỦA  BẠN  NỮA
+VIVOSSPK01_R192 hyp  NHƯNG  NÓ  KHÔNG  CÒN  LÀ  MÁI  ẤM  CỦA  BẠN  NỮA
+VIVOSSPK01_R192 op     C     C    C     C    C   C    C   C    C    C 
+VIVOSSPK01_R192 #csid 10 0 0 0
+VIVOSSPK01_R193 ref  CUNG  THIẾU  CẦU  TĂNG  LẰNG  NHẰNG  CHUYÊN  NGHIỆP
+VIVOSSPK01_R193 hyp  CŨNG   THEO  CÂU  TĂNG  LẰNG  NHẰNG  CHUYÊN  NGHIỆP
+VIVOSSPK01_R193 op     S     S     S     C     C     C       C       C  
+VIVOSSPK01_R193 #csid 5 3 0 0
+VIVOSSPK01_R194 ref   TỔ  CHỨC  HOẠT  ĐỘNG  NÀY  NHẰM  CÓ  KẾ  HOẠCH  DÀI  HẠN
+VIVOSSPK01_R194 hyp  TÔI  CHẤP  HÀNH  ĐỘNG  NÀY  NHẰM  CÓ  KẾ  HOẠCH  DÀI  HẠN
+VIVOSSPK01_R194 op    S     S     S     C    C     C    C   C    C     C    C 
+VIVOSSPK01_R194 #csid 8 3 0 0
+VIVOSSPK01_R195 ref  TÚI  CHẤT  ĐẦY  ĐỒ  VẬT  TRÔNG  KỆNH  LÊN
+VIVOSSPK01_R195 hyp  TÔI  CHẮC  ĐẦY  ĐỒ  VẬT  TRONG  CÁCH  LÊN
+VIVOSSPK01_R195 op    S     S    C    C   C     S      S    C 
+VIVOSSPK01_R195 #csid 4 4 0 0
+VIVOSSPK01_R196 ref  CÔNG  CHÚNG   ĐÃ  QUÁ  LỜN  MẮT
+VIVOSSPK01_R196 hyp  CÔNG  CHÚNG  ĐÁP  QUÁ  LỜN  MẮT
+VIVOSSPK01_R196 op     C     C     S    C    C    C 
+VIVOSSPK01_R196 #csid 5 1 0 0
+VIVOSSPK01_R197 ref  NỖI  THẤT  VỌNG  VỠ  ÒA  TRONG  TÂM  HỒN  CỦA  CẬU  BÉ  MÙ  LÒA
+VIVOSSPK01_R197 hyp  NỘI  THẤT  VỌNG  ĐÓ  LÀ  TRONG  TÂM  HỒN  CỦA  CẬU  BÉ  MÙ   RA
+VIVOSSPK01_R197 op    S     C     C    S   S    C     C    C    C    C    C   C   S 
+VIVOSSPK01_R197 #csid 9 4 0 0
+VIVOSSPK01_R198 ref  GIẢNH  CHỈ  CẤY  TỐI  ĐA  HAI  GIẢNH
+VIVOSSPK01_R198 hyp   DANH  THÌ  CÂY  TỐI  ĐA  HAI  GIẢNH
+VIVOSSPK01_R198 op     S     S    S    C    C   C     C  
+VIVOSSPK01_R198 #csid 4 3 0 0
+VIVOSSPK01_R199 ref  ĐƯỢC  TÌM  THẤY
+VIVOSSPK01_R199 hyp  NƯỚC  ĐÊM  THẤY
+VIVOSSPK01_R199 op     S    S     C 
+VIVOSSPK01_R199 #csid 1 2 0 0
+VIVOSSPK01_R200 ref  LÀM  MẤT  ĐI  BẢN  CHẤT  TỰ  NHIÊN  CỦA  CUỘC  SỐNG
+VIVOSSPK01_R200 hyp  LÀM  MẤT  ĐI  BÁN   RẤT  TỰ  NHIÊN  CỦA  CUỘC  SỐNG
+VIVOSSPK01_R200 op    C    C    C   S     S    C    C     C     C     C 
+VIVOSSPK01_R200 #csid 8 2 0 0
+VIVOSSPK01_T001 ref  LÀ  CHỊ  ĐÂY  SAO  EM  KHÔNG  BẮT  MÁY
+VIVOSSPK01_T001 hyp  LÀ  CHỊ  ĐÂY  SAO  EM  KHÔNG  BẮT  MÁY
+VIVOSSPK01_T001 op    C   C    C    C    C    C     C    C 
+VIVOSSPK01_T001 #csid 8 0 0 0
+VIVOSSPK01_T002 ref  CÓ  TRẢ  TIỀN  CHO  BỐ  KHÔNG  THÌ  BẢO
+VIVOSSPK01_T002 hyp  CÓ  TRẢ  TIỀN  CHO  BỐ  KHÔNG  THÌ  BẢO
+VIVOSSPK01_T002 op    C   C     C    C    C    C     C    C 
+VIVOSSPK01_T002 #csid 8 0 0 0
+VIVOSSPK01_T003 ref  NHẬN  ĐƯỢC  TIN  NÀY  GỌI  LẠI  CHO  TÔI  GẤP
+VIVOSSPK01_T003 hyp  NHẬN  ĐƯỢC  TIN  NÀY  GỌI  LẠI  CHO  TÔI  GẤP
+VIVOSSPK01_T003 op     C     C    C    C    C    C    C    C    C 
+VIVOSSPK01_T003 #csid 9 0 0 0
+VIVOSSPK01_T004 ref  ANH  ĐANG  NẰM  MƠ  À
+VIVOSSPK01_T004 hyp  ANH  ĐANG  NẰM  MƠ  À
+VIVOSSPK01_T004 op    C     C    C    C  C
+VIVOSSPK01_T004 #csid 5 0 0 0
+VIVOSSPK01_T005 ref  CÁI  TỔNG  ĐÀI  NÀY  HAY  PHẾT  NHỈ
+VIVOSSPK01_T005 hyp  CÁI  TỔNG  ĐÀI  NÀY  HAY  PHẾT  NHỈ
+VIVOSSPK01_T005 op    C     C    C    C    C     C    C 
+VIVOSSPK01_T005 #csid 7 0 0 0
+VIVOSSPK01_T006 ref  CHÉM  GIÓ  VÃI
+VIVOSSPK01_T006 hyp  CHÉM  GIÓ  VÃI
+VIVOSSPK01_T006 op     C    C    C 
+VIVOSSPK01_T006 #csid 3 0 0 0
+VIVOSSPK01_T007 ref  TRƯỜNG  ĐẠI  HỌC  KHOA  HỌC  TỰ  NHIÊN  THÀNH  PHỐ  HỒ  CHÍ  MINH
+VIVOSSPK01_T007 hyp  TRƯỜNG  ĐẠI  HỌC  KHOA  HỌC  TỰ  NHIÊN  THÀNH  PHỐ  HỒ  CHÍ  MINH
+VIVOSSPK01_T007 op      C     C    C     C    C    C    C      C     C    C   C     C 
+VIVOSSPK01_T007 #csid 12 0 0 0
+VIVOSSPK01_T008 ref  MỘT  ĐỒNG  CHÍ  ĐÃ  QUA  ĐỜI  VÌ  BỆNH  LẬU
+VIVOSSPK01_T008 hyp  MỘT  ĐỒNG  CHÍ  ĐÃ  QUA  ĐỜI  VÌ  BỆNH  LẬU
+VIVOSSPK01_T008 op    C     C    C    C   C    C    C    C    C 
+VIVOSSPK01_T008 #csid 9 0 0 0
+VIVOSSPK01_T009 ref  CHO  TÔI  NHẮN  ĐẠI  TIN  NÀO  CŨNG  ĐƯỢC
+VIVOSSPK01_T009 hyp  CHO  TÔI  NHẮN  ĐẠI  TIN  NÀO  CŨNG  ĐƯỢC
+VIVOSSPK01_T009 op    C    C     C    C    C    C     C     C 
+VIVOSSPK01_T009 #csid 8 0 0 0
+VIVOSSPK01_T010 ref  THÀNH  THẬT  CHIA  BUỒN
+VIVOSSPK01_T010 hyp  THÀNH  THẬT  CHIA  BUỒN
+VIVOSSPK01_T010 op     C      C     C     C 
+VIVOSSPK01_T010 #csid 4 0 0 0
+VIVOSSPK01_T011 ref  KẾT  THÚC  CHƯƠNG  TRÌNH  TUẦN  NÀY  ĐẾN  ĐÂY  LÀ  HẾT
+VIVOSSPK01_T011 hyp  KẾT  THÚC  CHƯƠNG  TRÌNH  TUẦN  NÀY  ĐẾN  ĐÂY  LÀ  HẾT
+VIVOSSPK01_T011 op    C     C      C      C      C    C    C    C    C   C 
+VIVOSSPK01_T011 #csid 10 0 0 0
+VIVOSSPK01_T012 ref  CHỈ  CÒN  CÓ  BỐN  NGÀY  CUỐI  CÙNG  CỐ  LÊN  ANH  NHÉ
+VIVOSSPK01_T012 hyp  CHỈ  CÒN  CÓ  BỐN  NGÀY  CUỐI  CÙNG  CỐ  LÊN  ANH  NHÉ
+VIVOSSPK01_T012 op    C    C    C   C     C     C     C    C   C    C    C 
+VIVOSSPK01_T012 #csid 11 0 0 0
+VIVOSSPK01_T013 ref  LÀM  SAO  ĐỂ  CÓ  TIỀN  NHANH  NHẤT
+VIVOSSPK01_T013 hyp  LÀM  SAO  ĐỂ  CÓ  TIỀN  NHANH  NHẤT
+VIVOSSPK01_T013 op    C    C    C   C    C     C      C 
+VIVOSSPK01_T013 #csid 7 0 0 0
+VIVOSSPK01_T014 ref  TA  CHỈ  CÓ  HAI  NGUYỆN  VỌNG  CUỐI  CÙNG
+VIVOSSPK01_T014 hyp  TA  CHỈ  CÓ  HAI  NGUYỆN  VỌNG  CUỐI  CÙNG
+VIVOSSPK01_T014 op    C   C    C   C      C      C     C     C 
+VIVOSSPK01_T014 #csid 8 0 0 0
+VIVOSSPK01_T015 ref  MỘT  LÀ  GẶP  LẠI  TẤT  CẢ  CÁC  EM  PHÒ
+VIVOSSPK01_T015 hyp  MỘT  LÀ  GẶP  LẠI  TẤT  CẢ  CÁC  EM  PHÒ
+VIVOSSPK01_T015 op    C    C   C    C    C    C   C    C   C 
+VIVOSSPK01_T015 #csid 9 0 0 0
+VIVOSSPK01_T016 ref  HAI  LÀ  CÓ  THÊM  HAI  NGUYỆN  VỌNG  NỮA
+VIVOSSPK01_T016 hyp  HAI  LÀ  CÓ  THÊM  HAI  NGUYỆN  VỌNG  NỮA
+VIVOSSPK01_T016 op    C    C   C    C    C      C      C    C 
+VIVOSSPK01_T016 #csid 8 0 0 0
+VIVOSSPK01_T017 ref  TRƯỜNG  MUỐN  VỢ
+VIVOSSPK01_T017 hyp  TRƯỜNG  MUỐN  VỢ
+VIVOSSPK01_T017 op      C      C    C
+VIVOSSPK01_T017 #csid 3 0 0 0
+VIVOSSPK01_T018 ref  NHỮNG  SAI  LẦM  KHI  ĐI  CHỌN  KHÁCH  SẠN
+VIVOSSPK01_T018 hyp  NHỮNG  SAI  LẦM  KHI  ĐI  CHỌN  KHÁCH  SẠN
+VIVOSSPK01_T018 op     C     C    C    C    C    C     C     C 
+VIVOSSPK01_T018 #csid 8 0 0 0
+VIVOSSPK01_T019 ref  MỘT  NGÀY  CUỐI  ĐÔNG
+VIVOSSPK01_T019 hyp  MỘT  NGÀY  CUỐI  ĐÔNG
+VIVOSSPK01_T019 op    C     C     C     C 
+VIVOSSPK01_T019 #csid 4 0 0 0
+VIVOSSPK01_T020 ref  NÓI  THẬT  ĐẤY  À
+VIVOSSPK01_T020 hyp  NÓI  THẬT  ĐẤY  À
+VIVOSSPK01_T020 op    C     C    C   C
+VIVOSSPK01_T020 #csid 4 0 0 0
+VIVOSSPK01_T021 ref  QUÁ  TỐT  RỒI
+VIVOSSPK01_T021 hyp  QUÁ  TỐT  RỒI
+VIVOSSPK01_T021 op    C    C    C 
+VIVOSSPK01_T021 #csid 3 0 0 0
+VIVOSSPK01_T022 ref  HAY  LÀ  QUÁ  LẮM  RỒI
+VIVOSSPK01_T022 hyp  HAY  LÀ  QUÁ  LẮM  MỐI
+VIVOSSPK01_T022 op    C    C   C    C    S 
+VIVOSSPK01_T022 #csid 4 1 0 0
+VIVOSSPK01_T023 ref  CUNG  ĐÀN  SAU  CUỐI
+VIVOSSPK01_T023 hyp  CUNG  ĐÀN  SAU  CUỐI
+VIVOSSPK01_T023 op     C    C    C     C 
+VIVOSSPK01_T023 #csid 4 0 0 0
+VIVOSSPK01_T024 ref  TÔI  CHẾT  CÙNG  VỚI  ÁNH  TRĂNG
+VIVOSSPK01_T024 hyp  TÔI  CHẾT  CÙNG  VỚI  ÁNH  TRĂNG
+VIVOSSPK01_T024 op    C     C     C    C    C     C  
+VIVOSSPK01_T024 #csid 6 0 0 0
+VIVOSSPK01_T025 ref  ANH  NHỚ  VỀ  SỚM  MUA  ĐỒ  CHO  EM
+VIVOSSPK01_T025 hyp  ANH  NHỚ  VỀ  SỚM  MUA  ĐỒ  CHO  EM
+VIVOSSPK01_T025 op    C    C    C   C    C    C   C    C
+VIVOSSPK01_T025 #csid 8 0 0 0
+VIVOSSPK01_T026 ref  ĐỪNG  LA  CÀ  ĐÂU  ĐẤY
+VIVOSSPK01_T026 hyp  ĐỪNG  LA  CÀ  ĐÂU  ĐẤY
+VIVOSSPK01_T026 op     C    C   C   C    C 
+VIVOSSPK01_T026 #csid 5 0 0 0
+VIVOSSPK01_T027 ref  ĐÀN  ÔNG  CÓ  HAI  THỨ  ĐỂ  BUỒN
+VIVOSSPK01_T027 hyp  ĐÀN  ÔNG  CÓ  HAI  THỨ  ĐỂ  BUỒN
+VIVOSSPK01_T027 op    C    C    C   C    C    C    C 
+VIVOSSPK01_T027 #csid 7 0 0 0
+VIVOSSPK01_T028 ref  ĐÀN  BÀ  CHỈ  CẦN  MỘT  THỨ
+VIVOSSPK01_T028 hyp  ĐÀN  BÀ  CHỈ  CẦN  MỘT  THỨ
+VIVOSSPK01_T028 op    C    C   C    C    C    C 
+VIVOSSPK01_T028 #csid 6 0 0 0
+VIVOSSPK01_T029 ref  ANH  ĐI  CÔNG  TÁC  CẦN  THƠ  TUẦN  SAU  MỚI  VỀ
+VIVOSSPK01_T029 hyp  ANH  ĐI  CÔNG  TÁC  CẦN  THƠ  TUẦN  SAU  MỚI  VỀ
+VIVOSSPK01_T029 op    C    C    C    C    C    C     C    C    C    C
+VIVOSSPK01_T029 #csid 10 0 0 0
+VIVOSSPK01_T030 ref  XIN  LỖI  TÔI  KHÔNG  KIỀM  CHẾ  ĐƯỢC
+VIVOSSPK01_T030 hyp  XIN  LỖI  TÔI  KHÔNG  KIỀM  CHẾ  ĐỘNG
+VIVOSSPK01_T030 op    C    C    C     C      C    C     S 
+VIVOSSPK01_T030 #csid 6 1 0 0
+VIVOSSPK01_T031 ref  THÔI  BỎ  QUA  ĐI
+VIVOSSPK01_T031 hyp  THÔI  BỎ  QUA  ĐI
+VIVOSSPK01_T031 op     C    C   C    C
+VIVOSSPK01_T031 #csid 4 0 0 0
+VIVOSSPK01_T032 ref  CAM  SÀNH  LỘT  VỎ  CÒN  CHUA
+VIVOSSPK01_T032 hyp  CAM  SÀNH  LỘT  VỎ  CÒN  CHUA
+VIVOSSPK01_T032 op    C     C    C    C   C     C 
+VIVOSSPK01_T032 #csid 6 0 0 0
+VIVOSSPK01_T033 ref  THẤY  EM  CÒN  NHỎ  ANH  CUA  ĐỂ  DÀNH
+VIVOSSPK01_T033 hyp  THẤY  EM  CÒN  NHỎ  ANH  CUA  ĐỂ  DÀNH
+VIVOSSPK01_T033 op     C    C   C    C    C    C    C    C 
+VIVOSSPK01_T033 #csid 8 0 0 0
+VIVOSSPK01_T034 ref  MAI  SAO  EM  LỚN  BẰNG  ANH
+VIVOSSPK01_T034 hyp  MAI  SAO  EM  LỚN  BẰNG  ANH
+VIVOSSPK01_T034 op    C    C    C   C     C    C 
+VIVOSSPK01_T034 #csid 6 0 0 0
+VIVOSSPK01_T035 ref  ANH  KHEN  EM  ĐẸP  EM  CHÊ  ANH  GIÀ
+VIVOSSPK01_T035 hyp  ANH  KHEN  EM  ĐẸP  EM  CHÊ  ANH  GIÀ
+VIVOSSPK01_T035 op    C     C    C   C    C   C    C    C 
+VIVOSSPK01_T035 #csid 8 0 0 0
+VIVOSSPK01_T036 ref  BẢN  TIN  THỜI  SỰ  CHIỀU  NAY  ĐẾN  ĐÂY  LÀ  HẾT
+VIVOSSPK01_T036 hyp  BẢN  TIN  THỜI  SỰ  CHIỀU  NAY  ĐẾN  ĐÂY  LÀ  HẾT
+VIVOSSPK01_T036 op    C    C     C    C    C     C    C    C    C   C 
+VIVOSSPK01_T036 #csid 10 0 0 0
+VIVOSSPK01_T037 ref  XIN  MỜI  QUÝ  KHÁCH  VÀO  TRONG
+VIVOSSPK01_T037 hyp  XIN  MỜI  QUÝ  KHÁCH  VÀO  TRONG
+VIVOSSPK01_T037 op    C    C    C     C     C     C  
+VIVOSSPK01_T037 #csid 6 0 0 0
+VIVOSSPK01_T038 ref  CÁC  ANH  THẤY  MẤY  EM  NÀY  VỪA  MẮT  KHÔNG
+VIVOSSPK01_T038 hyp  CÁC  ANH  THẤY  MẤY  EM  NÀY  VỪA  MẮT  KHÔNG
+VIVOSSPK01_T038 op    C    C     C    C    C   C    C    C     C  
+VIVOSSPK01_T038 #csid 9 0 0 0
+VIVOSSPK01_T039 ref  CHIỀU  NAY  CHẮC  CÓ  MƯA
+VIVOSSPK01_T039 hyp  CHIỀU  NAY  CHẮC  CÓ  MƯA
+VIVOSSPK01_T039 op     C     C     C    C   C 
+VIVOSSPK01_T039 #csid 5 0 0 0
+VIVOSSPK01_T040 ref  ĐỘI  TUYỂN  VIỆT  NAM  ĐÁ  NHƯ  BỆNH
+VIVOSSPK01_T040 hyp  ĐỘI  TUYỂN  VIỆT  NAM  ĐÁ  NHƯ   VẬY
+VIVOSSPK01_T040 op    C     C      C    C    C   C     S 
+VIVOSSPK01_T040 #csid 6 1 0 0
+VIVOSSPK01_T041 ref  ANH  CÓ  MUỐN  THƯ  GIÃN  KHÔNG
+VIVOSSPK01_T041 hyp  ANH  CÓ  MUỐN  THƯ  GIÃN  KHÔNG
+VIVOSSPK01_T041 op    C    C    C    C     C     C  
+VIVOSSPK01_T041 #csid 6 0 0 0
+VIVOSSPK01_T042 ref  TẬP  TRUNG  VÔ  ĐI
+VIVOSSPK01_T042 hyp  TẬP  TRUNG  VÔ  ĐI
+VIVOSSPK01_T042 op    C     C     C   C
+VIVOSSPK01_T042 #csid 4 0 0 0
+VIVOSSPK01_T043 ref  MỜI  NGÀI  TRƯỚC
+VIVOSSPK01_T043 hyp  MỚI  NGAY  TRƯỚC
+VIVOSSPK01_T043 op    S     S     C  
+VIVOSSPK01_T043 #csid 1 2 0 0
+VIVOSSPK01_T044 ref  BA  NÀY  CHỈ  GIỎI  BỐC  PHÉT
+VIVOSSPK01_T044 hyp  BA  NÀY  CHỈ  GIỎI  BỐC  PHÉT
+VIVOSSPK01_T044 op    C   C    C     C    C     C 
+VIVOSSPK01_T044 #csid 6 0 0 0
+VIVOSSPK01_T045 ref  GIÀU  ĐỔI  BẠN  SANG  ĐỔI  VỢ
+VIVOSSPK01_T045 hyp  GIÀU  ĐỔI  BẠN  SANG  ĐỔI  VỢ
+VIVOSSPK01_T045 op     C    C    C     C    C    C
+VIVOSSPK01_T045 #csid 6 0 0 0
+VIVOSSPK01_T046 ref  KHÔNG  SAY  KHÔNG  VỀ
+VIVOSSPK01_T046 hyp  KHÔNG  SAY  KHÔNG  VỀ
+VIVOSSPK01_T046 op     C     C     C     C
+VIVOSSPK01_T046 #csid 4 0 0 0
+VIVOSSPK01_T047 ref  THÔI  MÀ  ANH
+VIVOSSPK01_T047 hyp  THÔI  MÀ  ANH
+VIVOSSPK01_T047 op     C    C   C 
+VIVOSSPK01_T047 #csid 3 0 0 0
+VIVOSSPK01_T048 ref  TUI  BIẾT  BÀ  GIỎI  RỒI
+VIVOSSPK01_T048 hyp  TUI  BIẾT  BÀ  GIỎI  RỒI
+VIVOSSPK01_T048 op    C     C    C    C    C 
+VIVOSSPK01_T048 #csid 5 0 0 0
+VIVOSSPK01_T049 ref  HẾT  TUẦN  NÀY  TAO  VỀ  RƯỚC  NÓ  ĐI
+VIVOSSPK01_T049 hyp  HẾT  TUẦN  NÀY  TAO  VỀ  RƯỚC  NÓ  ĐI
+VIVOSSPK01_T049 op    C     C    C    C    C    C    C   C
+VIVOSSPK01_T049 #csid 8 0 0 0
+VIVOSSPK01_T050 ref  ÁN  MẠNG  TRÊN  TOA  TÀU  TỐC  HÀNH
+VIVOSSPK01_T050 hyp  ÁN  MẠNG  TRÊN  TOA  TÀU  TỐC  HÀNH
+VIVOSSPK01_T050 op    C    C     C    C    C    C     C 
+VIVOSSPK01_T050 #csid 7 0 0 0
