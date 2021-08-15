@@ -1,5 +1,5 @@
 s5/mfcc/
-s5/wav/
+s5/wav/*
 s5/transcriptions/*.ark
 s5/transcriptions/cmvn.scp
 s5/transcriptions/*feats.scp
